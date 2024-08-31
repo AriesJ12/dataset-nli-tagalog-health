@@ -1,0 +1,110 @@
+42 to 56
+Diseases in nli:
+(SEARCHES HERE IS "Ano ang INSERT DISEASE")
+- chicken pox
+- Common Cold
+- covid
+- COVID-19
+- dengue
+- influenza
+- malaria
+- Measles
+- Mumps
+- polio
+- whopping cough
+
+consider diseaseses:
+Acne
+Alzheimer’s Disease
+Amyotrophic Lateral Sclerosis (ALS)
+Anemia
+Anxiety Disorders
+Aspergillosis
+Asthma
+Atherosclerosis
+Athlete's Foot
+Attention-Deficit/Hyperactivity Disorder (ADHD)
+Autism Spectrum Disorder
+Bipolar Disorder
+Breast Cancer
+Bronchitis
+Brucellosis
+Celiac Disease
+Cerebral Palsy
+Chikungunya
+Chlamydia
+Chronic Kidney Disease
+Chronic Obstructive Pulmonary Disease (COPD)
+Cirrhosis
+Coccidioidomycosis
+Crohn’s Disease
+Depression
+Diabetes Mellitus Type 1
+Diabetes Mellitus Type 2
+Diphtheria
+Down Syndrome
+Ebola Virus Disease
+Eczema
+Endometriosis
+Epilepsy
+Gallstones
+Gastroesophageal Reflux Disease (GERD)
+Gonorrhea
+Gout
+Heart Attack
+Heart Disease
+Hemophilia
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Herpes Simplex Virus
+Histoplasmosis
+HIV/AIDS
+Human Papillomavirus (HPV)
+Huntington’s Disease
+Hypertension (High Blood Pressure)
+Irritable Bowel Syndrome (IBS)
+Kidney Stones
+Legionnaires' Disease
+Leprosy (Hansen’s Disease)
+Leukemia
+Lung Cancer
+Lupus
+Lyme Disease
+Lymphoma
+Malaria
+Menstrual Disorders
+Migraine
+Multiple Sclerosis
+Muscular Dystrophy
+Obsessive-Compulsive Disorder (OCD)
+Osteoarthritis
+Parkinson’s Disease
+Pneumonia
+Polycystic Ovary Syndrome (PCOS)
+Post-Traumatic Stress Disorder (PTSD)
+Prostate Cancer
+Psoriasis
+Q Fever
+Rheumatoid Arthritis
+Ringworm
+Rocky Mountain Spotted Fever
+Rubella (German Measles)
+Scabies
+Schizophrenia
+Seizure Disorders
+Sickle Cell Disease
+Skin Cancer (Melanoma)
+Stroke
+Syphilis
+Tetanus
+Thalassemia
+Toxoplasmosis
+Trichomoniasis
+Tuberculosis
+Tuberculosis (TB)
+Tularemia
+Ulcerative Colitis
+West Nile Virus
+Whooping Cough (Pertussis)
+Zika Virus
