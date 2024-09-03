@@ -2398,5 +2398,251 @@
         "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
         "label": "entailment",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay maaaring umabot sa ibang bahagi ng katawan mula sa mga kalapit na tissue at lymph nodes.",
+        "premise": "Ang kanser sa suso ay maaaring kumalat sa mga kalapit na tissue at lymph node, o mag-metastasis sa ibang bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay nagiging sanhi ng pagbuo ng isang tumor sa tisyu ng suso dahil sa pagbabago at paglaki ng mga selula nang walang kontrol.",
+        "premise": "Ang kanser sa suso ay isang kanser na nagsisimula sa tisyu ng suso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay may kinalaman sa tisyu ng suso.",
+        "premise": "Ang kanser sa suso ay isang kanser na nagsisimula sa tisyu ng suso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Sa baga lang umaatake ang tuberkulosis at hindi maaaring makaapekto sa ibang bahagi ng katawan.",
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang mga pagbabago sa genetic material (DNA) ay maaaring magdulot ng kanser sa suso, ngunit hindi lahat ng kaso ng kanser sa suso ay dulot ng minanang pagbabago sa genetic material.",
+        "premise": "Ang kanser sa suso ay nangyayari kapag mayroon mga pagbabago sa genetic material (DNA), at maaaring minana ang mga pagbabagong ito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay maaari ding makaapekto sa ibang bahagi ng katawan bukod sa mga baga.",
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang baradong pores ay maaaring magdulot ng iba't ibang uri ng acne tulad ng itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang  matandang edad, kasaysayan ng kanser sa suso, at mga genetic na pagbabago tulad ng BRCA1 at BRCA2 ay maaaring magpataas ng panganib ng kanser sa suso.",
+        "premise": "Ang mga kadahilanan na nagpapataas ng panganib ng kanser sa suso ay kinabibilangan ng mas matandang edad, kasaysayan ng kanser sa suso, at genetic na pagbabago tulad ng BRCA1 at BRCA2.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang operasyon at kimoterapya ay hindi kasama sa mga paggamot para sa kanser sa suso.",
+        "premise": "Ang mga paggamot para sa kanser sa suso ay kinabibilangan ng operasyon, therapy radiation, kimoterapya, hormone therapy, naka-target na therapy, at immunotherapy.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay maaaring magsimula sa ibang bahagi ng katawan bago lumipat sa tisyu ng suso.",
+        "premise": "Ang kanser sa suso ay isang kanser na nagsisimula sa tisyu ng suso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat ay maaaring lumitaw sa balat kahit hindi barado ang mga pores",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay hindi naikakalat sa pamamagitan ng hangin.",
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay hindi maaaring kumalat sa ibang bahagi ng katawan.",
+        "premise": "Ang kanser sa suso ay maaaring kumalat sa mga kalapit na tissue at lymph node, o mag-metastasis sa ibang bahagi ng katawan.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Upang masuri ang kanser sa suso, hindi kinakailangan ang pisikal na pagsusulit, imaging tests, biopsy, at iba pang pagsusuri sa kimika ng dugo.",
+        "premise": "Upang masuri ang kanser sa suso, maaaring gumamit ang iyong tagapagbigay ng pangangalagang pangkalusugan ng pisikal na pagsusulit, imaging tests, biopsy, at iba pang pagsusuri sa kimika ng dugo.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay isang sakit na nakakahawa at maaaring maging sanhi ng kamatayan.",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Isa sa bawat sampung kaso ng hindi aktibong impeksiyon ng tuberkulosis ay maaaring maging aktibong sakit.",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat ay maaaring lumitaw dahil sa iba't ibang kondisyon ng balat, hindi lamang dahil sa baradong pores.",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang acne ay dulot ng labis na bakterya sa balat, hindi dahil sa sobrang langis o sebo.",
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang matandang edad, kasaysayan ng kanser sa suso, at mga genetic na pagbabago tulad ng BRCA1 at BRCA2 ay nagpapataas ng panganib ng kanser sa suso",
+        "premise": "Ang mga kadahilanan na nagpapataas ng panganib ng kanser sa suso ay kinabibilangan ng mas matandang edad, kasaysayan ng kanser sa suso, at genetic na pagbabago tulad ng BRCA1 at BRCA2.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay isang karaniwang uri ng kanser sa mga kababaihan sa Estados Unidos.",
+        "premise": "Ang kanser sa suso ay ang pangalawang pinakakaraniwang uri ng kanser sa mga kababaihan sa Estados Unidos.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay maaaring makaapekto sa ibang mga bahagi ng katawan maliban sa mga baga.",
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ligtas ang lahat ng may tuberkulosis kahit hindi sila magpagamot.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Lahat ng mga impeksiyon ay nagpapakita ng malinaw na mga sintomas at aktibo.",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay maaaring kumalat sa ibang bahagi ng katawan.",
+        "premise": "Ang kanser sa suso ay maaaring kumalat sa mga kalapit na tissue at lymph node, o mag-metastasis sa ibang bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang stress, polusyon, at ilang pagkain ay nagdudulot ng paglala ng acne.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng pagbabago sa genetic material (DNA) ay maaaring magdulot ng kanser sa suso, at ang mga pagbabagong ito ay maaaring minana mula sa mga magulang.",
+        "premise": "Ang kanser sa suso ay nangyayari kapag mayroon mga pagbabago sa genetic material (DNA), at maaaring minana ang mga pagbabagong ito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng bukol sa suso ay maaaring senyales ng kanser sa suso.",
+        "premise": "Ang mga palatandaan at sintomas ng kanser sa suso ay kinabibilangan ng isang bagong bukol sa suso, pagbabago sa laki o hugis ng dibdib, at paglabas ng utong maliban sa gatas ng ina.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang acne ay maaaring mapalala ng stress, polusyon, at ilang pagkain.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang porsyento ng mga namamatay mula sa tuberkulosis na hindi ginagamot ay mas mababa sa 50%.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Walang sintomas at hindi aktibo ang karamihan sa mga impeksiyon.",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang acne ay sanhi ng kakulangan ng langis sa balat.",
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay isang sakit na maaaring pumatay at madaling maipasa sa ibang tao.",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay maaaring minana mula sa mga magulang.",
+        "premise": "Ang kanser sa suso ay nangyayari kapag mayroon mga pagbabago sa genetic material (DNA), at maaaring minana ang mga pagbabagong ito.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay hindi nangangailangan ng operasyon.",
+        "premise": "Ang mga paggamot para sa kanser sa suso ay kinabibilangan ng operasyon, therapy radiation, kimoterapya, hormone therapy, naka-target na therapy, at immunotherapy.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay may maraming uri.",
+        "premise": "May iba't ibang uri ng kanser sa suso tulad ng ductal carcinoma, lobular carcinoma, nagpapaalab na kanser sa suso, at Sakit ng Paget sa dibdib.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Hindi naapektuhan ng stress, polusyon, at ilang pagkain ang pagkakaroon ng acne ng isang tao.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang Tuberkulosis ay maaaring dulot ng iba pang strain ng mycobacteria maliban sa Mycobacterium tuberculosis.",
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang acne ay dulot ng kakulangan sa langis sa balat.",
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang malusog na pagbabago sa pamumuhay ay makakatulong sa pag-iwas sa kanser sa suso.",
+        "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay naipapasa sa hangin kapag ang mga taong may impeksiyon ay umuubo o bumabahin.",
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi mahalaga ang kalinisan ng katawan, pag-iwas sa pagtitiris ng tigyawat, at pagpapalit ng punda at latag sa kama upang maiwasan ang acne.",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
     }
 ]

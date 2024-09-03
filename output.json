@@ -777,55 +777,55 @@
         "id": 130,
         "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 131,
         "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 132,
         "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 133,
         "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 134,
         "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 135,
         "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 136,
         "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 137,
         "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 138,
         "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 139,
@@ -837,12 +837,114 @@
         "id": 140,
         "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 141,
         "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 1
+    },
+    {
+        "id": 142,
+        "premise": "Ang kanser sa suso ay isang kanser na nagsisimula sa tisyu ng suso.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 3
+    },
+    {
+        "id": 143,
+        "premise": "Ang kanser sa suso ay ang pangalawang pinakakaraniwang uri ng kanser sa mga kababaihan sa Estados Unidos.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 144,
+        "premise": "Ang kanser sa suso ay maaaring kumalat sa mga kalapit na tissue at lymph node, o mag-metastasis sa ibang bahagi ng katawan.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 3
+    },
+    {
+        "id": 145,
+        "premise": "May iba't ibang uri ng kanser sa suso tulad ng ductal carcinoma, lobular carcinoma, nagpapaalab na kanser sa suso, at Sakit ng Paget sa dibdib.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 146,
+        "premise": "Ang kanser sa suso ay nangyayari kapag mayroon mga pagbabago sa genetic material (DNA), at maaaring minana ang mga pagbabagong ito.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 3
+    },
+    {
+        "id": 147,
+        "premise": "Ang mga kadahilanan na nagpapataas ng panganib ng kanser sa suso ay kinabibilangan ng mas matandang edad, kasaysayan ng kanser sa suso, at genetic na pagbabago tulad ng BRCA1 at BRCA2.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 148,
+        "premise": "Ang mga palatandaan at sintomas ng kanser sa suso ay kinabibilangan ng isang bagong bukol sa suso, pagbabago sa laki o hugis ng dibdib, at paglabas ng utong maliban sa gatas ng ina.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 149,
+        "premise": "Upang masuri ang kanser sa suso, maaaring gumamit ang iyong tagapagbigay ng pangangalagang pangkalusugan ng pisikal na pagsusulit, imaging tests, biopsy, at iba pang pagsusuri sa kimika ng dugo.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 150,
+        "premise": "Ang mga paggamot para sa kanser sa suso ay kinabibilangan ng operasyon, therapy radiation, kimoterapya, hormone therapy, naka-target na therapy, at immunotherapy.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 151,
+        "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 152,
+        "premise": "Ang trangkaso, na tinatawag ding influenza, ay isang impeksyon sa paghinga na dulot ng mga virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 153,
+        "premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 154,
+        "premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, makinis o madulas na ilong, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 155,
+        "premise": "Ang trangkaso ay maaari ring magpalala ng mga malalang problema sa kalusugan tulad ng hika, diabetes, at sakit sa puso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 156,
+        "premise": "Upang masuri ang trangkaso, gagawa muna ng medikal na kasaysayan ang mga tagapagbigay ng pangangalagang pangkalusugan at magtatanong tungkol sa iyong mga sintomas.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 157,
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa kanilang sarili nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 0
+    },
+    {
+        "id": 158,
+        "premise": "Ang pinakamahusay na paraan upang maiwasan ang trangkaso ay ang makakuha ng bakuna laban sa trangkaso taon-taon.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
         "counter": 0
     }
 ]

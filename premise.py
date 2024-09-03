@@ -4,16 +4,20 @@ import os
 def main():
     # add your text here
     input_json = '''
-    {
-  "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+  {
+  "url": "https://www.chcrr.org/tl/health-topic/flu/",
   "premises": [
-    {"premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo."},
-    {"premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat."},
-    {"premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat."},
-    {"premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain."},
-    {"premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama."}
+    {"premise": "Ang trangkaso, na tinatawag ding influenza, ay isang impeksyon sa paghinga na dulot ng mga virus."},
+    {"premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao."},
+    {"premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, makinis o madulas na ilong, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod."},
+    {"premise": "Ang trangkaso ay maaari ring magpalala ng mga malalang problema sa kalusugan tulad ng hika, diabetes, at sakit sa puso."},
+    {"premise": "Upang masuri ang trangkaso, gagawa muna ng medikal na kasaysayan ang mga tagapagbigay ng pangangalagang pangkalusugan at magtatanong tungkol sa iyong mga sintomas."},
+    {"premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa kanilang sarili nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso."},
+    {"premise": "Ang pinakamahusay na paraan upang maiwasan ang trangkaso ay ang makakuha ng bakuna laban sa trangkaso taon-taon."}
   ]
 }
+
+
 
     '''
 
