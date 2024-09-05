@@ -4,21 +4,21 @@ import os
 def main():
     # add your text here
     input_json = '''
-  {
-  "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+ {
+  "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
   "premises": [
-    {"premise": "Ang leukemia ay isang kanser ng mga selula ng dugo na nagsisimula sa mga tissue na bumubuo ng dugo tulad ng bone marrow."},
-    {"premise": "Ang bone marrow ay gumagawa ng mga selula na bubuo sa mga puting selula ng dugo, pulang selula ng dugo, at mga platelet."},
-    {"premise": "Ang mga puting selula ng dugo ay tumutulong sa katawan na labanan ang impeksiyon, ang mga pulang selula ng dugo ay naghahatid ng oxygen, at ang mga platelet ay tumutulong sa pagbuo ng mga clots upang ihinto ang pagdurugo."},
-    {"premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho."},
-    {"premise": "May iba't ibang uri ng leukemia na nakadepende sa uri ng selula ng dugo na nagiging kanser at kung ito ay mabilis o mabagal na lumalaki."},
-    {"premise": "Ang pangunahing uri ng leukemia ay kinabibilangan ng Talamak na lymphocytic leukemia (ALL), Talamak na myeloid leukemia (AML), Talamak na lymphocytic leukemia (CLL), at Talamak na myeloid leukemia (CML)."},
-    {"premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam."},
-    {"premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae."},
-    {"premise": "Ang diagnosis ng leukemia ay maaaring gamitin ang mga tool tulad ng pisikal na pagsusulit, medikal na kasaysayan, pagsusuri sa dugo, pagsusuri sa utak ng buto, at mga pagsusuri sa genetika."},
-    {"premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy."}
+    {"premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata."},
+    {"premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV."},
+    {"premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito."},
+    {"premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon."},
+    {"premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam."},
+    {"premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta."},
+    {"premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit."},
+    {"premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser."},
+    {"premise": "Makakatulong ang mahusay na nutrisyon at ilang gamot para malabanan ang mga impeksyong dulot ng AIDS at mapahaba ang buhay, ngunit walang nagpapagaling sa AIDS mismo."}
   ]
 }
+
 
 
 

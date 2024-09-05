@@ -2706,13 +2706,13 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Upang maiwasan ang acne, kailangan ang regular na pagpapanatili sa malinis na katawan ang kapaligiran",
+        "hypothesis": "Upang maiwasan ang acne, kailangan ang regular na pagpapanatili sa malinis na katawan at kapaligiran",
         "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
         "label": "entailment",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
     },
     {
-        "hypothesis": "Ang hindi aktibong impeksyon ng tuberkulosis ay may posibilidad na maging aktibong sakit sa hinaharap,",
+        "hypothesis": "Ang hindi aktibong impeksyon ng tuberkulosis ay may posibilidad na maging aktibong sakit sa hinaharap.",
         "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
         "label": "neutral",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
@@ -2730,7 +2730,7 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "May nga taong may trangkaso na gumagaling kahit walang pangangalagang medikal",
+        "hypothesis": "May mga taong may trangkaso na gumagaling kahit walang pangangalagang medikal.",
         "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
@@ -2742,28 +2742,22 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Ang mga bagong bukol sa suso, pagbabago sa laki o hugis ng dibdib, at paglabas ng utong maliban sa gatas ng ina ay maaaring mga palatandaan ng kanser sa suso.",
+        "hypothesis": "Maaari kang makaranas ng sintomas ng kanser sa suso, ngunit hindi nangangahulugan na mayroon ka na agad nito.",
         "premise": "Ang mga palatandaan at sintomas ng kanser sa suso ay kinabibilangan ng bagong bukol sa suso, pagbabago sa laki o hugis ng dibdib, at paglabas ng utong maliban sa gatas ng ina.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
     },
     {
-        "hypothesis": "Ang pagsusuri ng trangkaso ay hindi nangangailangan ng paggawa ng medikal na kasaysayan o pagtatanong tungkol sa mga sintomas ng pasyente.",
+        "hypothesis": "Ang pagsusuri ng trangkaso ay hindi nangangailangan ng pag-alam sa medikal na kasaysayan o sintomas ng pasyente.",
         "premise": "Upang masuri ang trangkaso, gagawa muna ng medikal na kasaysayan ang mga tagapagbigay ng pangangalagang pangkalusugan at magtatanong tungkol sa iyong mga sintomas.",
         "label": "contradiction",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Maaaring magdulot ng paglala ng mga umiiral na kondisyon sa kalusugan ng isang taong may trangkaso",
+        "hypothesis": "Maaaring magdulot ng paglala ng mga umiiral na kondisyon sa kalusugan ng isang tao ang pagkakaroon ng trangkaso",
         "premise": "Ang trangkaso ay maaari ring magpalala ng mga malalang problema sa kalusugan tulad ng hika, diabetes, at sakit sa puso.",
         "label": "entailment",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
-    },
-    {
-        "hypothesis": "Ang mga taong may OCD ay hindi maaaring magkaroon ng sintomas ng obsessions at compulsions.",
-        "premise": "Ang mga taong may OCD ay maaaring magkaroon ng mga sintomas ng obsessions, compulsions, o pareho.",
-        "label": "contradiction",
-        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
     },
     {
         "hypothesis": "Ang obsessive-compulsive disorder (OCD) ay maaaring magsimula sa murang edad na 13.",
@@ -2772,21 +2766,111 @@
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
     },
     {
-        "hypothesis": "Karamihan sa mga impeksiyon ay may mga sintomas at aktibo.",
+        "hypothesis": "Karamihan sa mga impeksiyon ng tuberkulosis ay may mga sintomas at aktibo.",
         "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
         "label": "contradiction",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
     },
     {
-        "hypothesis": " Ang trangkasoay isang impeksyon sa paghinga na sanhi ng mga virus.",
+        "hypothesis": "Virus ang sanhi ng trangkaso.",
         "premise": "Ang trangkaso, na tinatawag ding influenza, ay isang impeksyon sa paghinga na dulot ng mga virus.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Ang trangkaso ay nagdudulot ng iba'tibang klase ng pangkarinwang sintomas",
+        "hypothesis": "Maari kang makaranas ng iba't ibang klase ng sintomas dulot ng trangkaso",
         "premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod.",
         "label": "entailment",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": " Ang mga sintomas ng leukemia ay maaaring magkakaiba sa bawat uri. Maaaring hindi magdulot ng mga sintomas ang Chromic leukemia sa una.",
+        "premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": " Kapag ang isang taong may trangkaso ay umubo, bumahing, o nagsasalita, maaari silang makahawa kapag dumapo ang patak na may virus sa mga bibig o ilong ng mga taong nasa malapit.",
+        "premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Ang acne ay isang sakit sa balat na kadalasang nakakaapekto sa itaas na bahagi ng katawan.",
+        "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Kahit na may pagbabago sa genetic material (DNA) sa bone marrow cells sa iyong katawan, hindi ito nangangahulugan na mayroon ka ng leukemia kaagad.",
+        "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Hindi maiiwasan ang pagkakaroon ng kanser sa suso kahit anong ganda ng pamumuhay mo. ",
+        "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Naipapasa ang HIV sa pamamagitan ng hangin.",
+        "premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Ang mga taong may AIDS ay hindi nakakaranas ng anumang mga isyu o impeksyon.",
+        "premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang HIV.",
+        "premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Maaari magdulot ang HIV ng malubhang epekto sa immune system ng tao, na nagiging sanhi ng malalalang impeksyon at sakit kapag hindi naagapan.",
+        "premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Maaaring kumala ang trangkaso sa pamamagitan ng pakikisalamuha sa mga bagay na kontaminado ng virus.",
+        "premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Ang OCD ay maaaring magdulot ng matinding pagkabahala at pagkagambala sa pang- araw-araw na buhay ng isang tao.",
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Ang pag-unawa sa mga kadahilanan ay makakatulong sa mga eksperto na mas maaga at mas epektibong matukoy ang OCD, pati na rin ang pagbuo ng mas angkop na mga estratehiya para sa interbensyon at paggamot.",
+        "premise": "Ang mga kadahilanan ng panganib para sa OCD ay kinabibilangan ng kasaysayan ng pamilya, istraktura at paggana ng utak, trauma sa pagkabata, at impeksyon sa streptococcal.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Nakatuon ang EX/RP sa paglalantad sa mga kinahuhumalingan ng isang tao at pagtulong sa kanila na pamahalaan mabuti ang kanilang mga gawain.",
+        "premise": "Ang isang partikular na uri ng cognitive behavioral therapy (CBT) na maaaring gamutin ang OCD ay tinatawag na Exposure and Response Prevention (EX/RP).",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Agad na lumilitaw ang AIDS pagkatapos maimpeksyon ng HIV.",
+        "premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Napapasa ang HIV  mula sa isang tao patungo sa iba sa pamamagitan ng paglipat ng mga likido ng katawan.",
+        "premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
     }
 ]
