@@ -4,22 +4,17 @@ import os
 def main():
     # add your text here
     input_json = '''
- {
-  "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+{
+  "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
   "premises": [
-    {"premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata."},
-    {"premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV."},
-    {"premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito."},
-    {"premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon."},
-    {"premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam."},
-    {"premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta."},
-    {"premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit."},
-    {"premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser."},
-    {"premise": "Makakatulong ang mahusay na nutrisyon at ilang gamot para malabanan ang mga impeksyong dulot ng AIDS at mapahaba ang buhay, ngunit walang nagpapagaling sa AIDS mismo."}
+    {"premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat dengge at Zika virus."},
+    {"premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha."},
+    {"premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan."},
+    {"premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso."},
+    {"premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus."},
+    {"premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever."}
   ]
 }
-
-
 
 
 

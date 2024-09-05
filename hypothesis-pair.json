@@ -2860,5 +2860,161 @@
         "premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta.",
         "label": "neutral",
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Antidepressants ang karaniwang gamot na iniinom ng taong may OCD",
+        "premise": "Ang mga gamot para sa OCD ay may kasamang ilang uri ng antidepressants.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Nakakahawa ang trangkaso.",
+        "premise": "Ang trangkaso, na tinatawag ding influenza, ay isang impeksyon sa paghinga na dulot ng mga virus.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Ang leukemia ay sanhi ng labis na paggawa ng abnormal na selula sa bone marrow.",
+        "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Hindi virus ang sanhi ng trangkaso.",
+        "premise": "Ang trangkaso, na tinatawag ding influenza, ay isang impeksyon sa paghinga na dulot ng mga virus.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Maaaring mapasa ang HIV sa pamamagitan ng likido sa katawan.",
+        "premise": "Ang HIV ay naipapasa sa pamamagitan ng mga likido ng katawan tulad ng dugo, tamod, at likido sa loob ng puwerta.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Ang kanser sa suso ay karaniwan sa mga kababaihan.",
+        "premise": "Ang kanser sa suso ay ang pangalawang pinakakaraniwang uri ng kanser sa mga kababaihan sa Estados Unidos.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang HIV ay naipapasa lamang sa pamamagitan ng direktang pakikipag-ugnayan sa mga likido ng katawan.",
+        "premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Hindi nakakaapekto ang HIV sa immune system tulad ng iniisip ng karamihan.",
+        "premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Maaaring magresulta sa mas seryosong komplikasyon at mas malubhang kalusugan ang trangkaso.",
+        "premise": "Ang trangkaso ay maaari ring magpalala ng mga malalang problema sa kalusugan tulad ng hika, diabetes, at sakit sa puso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Hindi nagmula sa HIV infection ang AIDS.",
+        "premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Habang tumatagal, humihina ang immune system ng mga taong may HIV.",
+        "premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Mahirap para sa katawan labanan ang impeksiyon  at sakit dahil sa pagkamatay ng selyula sa immune system dulot ng HIV.",
+        "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Walang pinipiling tao ang HIV dahil maaari itong maipasa sa sinuman.",
+        "premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Hindi kinakailangan ng bakuna ang trangkaso.",
+        "premise": "Ang pinakamahusay na paraan upang maiwasan ang trangkaso ay ang makakuha ng bakuna laban sa trangkaso taon-taon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "maipasa lamang ang HIV  sa pamamagitan ng direktang pagdikit ng mga kontaminadong likido ng katawan.",
+        "premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Hindi agad kapansin-pansin ang sintomas ng leukemia at maaaring magsimula sa mga hindi gaanong malubhang sintomas.",
+        "premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Nakakaranas ng paulit-ulit na mga iniisip na hindi maalis (obsessions) at mga pag-uugali na ginagawa paulit-ulit upang mapawi ang pagkabalisa (compulsion) ang taong may OCD.",
+        "premise": "Ang mga taong may OCD ay maaaring magkaroon ng mga sintomas ng obsessions, compulsions, o pareho.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Bihira lang ang pagkakaroon ng kanser sa suso.",
+        "premise": "Ang kanser sa suso ay ang pangalawang pinakakaraniwang uri ng kanser sa mga kababaihan sa Estados Unidos.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "& C:/msys64/mingw64/bin/python.exe c:/xampp/htdocs/dataset-nli-tagalog-health/premise.py",
+        "premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "& C:/msys64/mingw64/bin/python.exe c:/xampp/htdocs/dataset-nli-tagalog-health/premise.py",
+        "premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "python premise.py",
+        "premise": "May iba't ibang uri ng kanser sa suso tulad ng ductal carcinoma, lobular carcinoma, at iba oa.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "python hypothesis.py",
+        "premise": "Ang pinakamahusay na paraan upang maiwasan ang trangkaso ay ang makakuha ng bakuna laban sa trangkaso taon-taon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang Chikungunya.",
+        "premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Maaaring magkaroon ng impeksiyon o cancer ang mga taong may AIDS.",
+        "premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Walang sintomas ang Chikungunya.",
+        "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang obsessive-compulsive disorder (OCD) ay hindi tunay na kondisyon at karaniwang gawa-gawa lamang ng mga tao",
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
     }
 ]

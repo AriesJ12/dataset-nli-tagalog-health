@@ -21,6 +21,7 @@ You are an AI designed to extract relevant information from text written in Taga
 - Ensure that each premise is relevant to the health topic at hand.
 - Avoid altering the original language unless absolutely necessary for clarity.
 - Maintain the original meaning and context of the premises.
+- Always mention the disease in every premise.
 
 Here is the url:
 [Insert URL here]
