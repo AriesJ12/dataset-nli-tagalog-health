@@ -2682,8 +2682,8 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Marami ang mga natagpuang dahilan na nagpapataas ng pagkakaroon ng kanser sa suso, ngunit hindi nangangahulugan na agad kang magkakaroon ng kanser sa suso dahil sa mga kadahilanang iyon.",
-        "premise": "Ang mga kadahilanan na nagpapataas ng panganib ng kanser sa suso ay kinabibilangan ng mas matandang edad, kasaysayan ng kanser sa suso, at genetic na pagbabago tulad ng BRCA1 at BRCA2.",
+        "hypothesis": "Mataas ang posibilad na magkaroon ng kanser sa suso ang isang tao, ngunit hindi nangangahulugan na magkakaroon sila nito.",
+        "premise": "Ang mga kadahilanan na nagpapataas ng panganib ng kanser sa suso ay kinabibilangan ng  matandang edad, kasaysayan ng kanser sa suso, at genetic na pagbabago tulad ng BRCA1 at BRCA2.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
     },
@@ -2694,7 +2694,7 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Upang maiwasan ang acne, kailangan ang pagpapanatili palagi sa malinis na katawan at kapaligiran.",
+        "hypothesis": "Kailangan ang pagpapanatili palagi sa malinis na katawan at kapaligiran para maiwasan ang acne.",
         "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
         "label": "entailment",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
@@ -2724,7 +2724,7 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Ang pagtukoy sa medikal na kasaysayan at sintomas ay isang paraan upang masuri kung may trangkaso ang pasyente.",
+        "hypothesis": "Ang pisikal na pagsusuri ay isang paraan upang masuri kung may trangkaso ang pasyente.",
         "premise": "Upang masuri ang trangkaso, gagawa muna ng medikal na kasaysayan ang mga tagapagbigay ng pangangalagang pangkalusugan at magtatanong tungkol sa iyong mga sintomas.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
@@ -2748,7 +2748,7 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": "Ang obsessive-compulsive disorder (OCD) ay maaaring magsimula sa murang edad na 13.",
+        "hypothesis": "Ang obsessive-compulsive disorder (OCD) ay maaaring magsimula sa edad na 13.",
         "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
@@ -2772,13 +2772,13 @@
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
     },
     {
-        "hypothesis": " Ang mga sintomas ng leukemia ay maaaring magkakaiba sa bawat uri at maaaring hindi magdulot ng mga sintomas ang Chromic leukemia sa una.",
+        "hypothesis": " Ang mga sintomas ng leukemia ay maaaring magkakaiba at maaaring hindi magdulot ng mga sintomas sa una.",
         "premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae.",
         "label": "entailment",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
     },
     {
-        "hypothesis": " Kapag ang isang taong may trangkaso ay umubo, bumahing, o nagsasalita, maaari silang makahawa kapag dumapo ang patak na may virus sa mga bibig o ilong ng mga taong malapit sa kanila.",
+        "hypothesis": "Kapag ang taong may trangkaso ay umubo, bumahing, o nagsasalita, maaari silang makahawa kapag dumapo ang patak na may virus sa mga bibig o ilong ng mga taong malapit sa kanila.",
         "premise": "Ang trangkaso ay sanhi ng mga virus ng trangkaso na kumakalat mula sa tao patungo sa tao.",
         "label": "entailment",
         "url": "https://www.chcrr.org/tl/health-topic/flu/"
@@ -2790,13 +2790,13 @@
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
     },
     {
-        "hypothesis": "Hindi nangangahulugan na mayroon ng leukemia kaagad ang isang tao kapag may pagbabago sa genetic material (DNA) sa bone marrow cells sa kaniyang katawan.",
+        "hypothesis": "Kapag may pagbabago sa genetic material (DNA) sa bone marrow cells sa kaniyang katawan ay magkakaroon ng leukemia.",
         "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
     },
     {
-        "hypothesis": "Hindi maiiwasan ang pagkakaroon ng kanser sa suso kahit anong ganda ng pamumuhay ng isang tao.",
+        "hypothesis": "Hindi maiiwasan ang pagkakaroon ng kanser sa suso.",
         "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
         "label": "contradiction",
         "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
@@ -2820,7 +2820,7 @@
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
     },
     {
-        "hypothesis": "Maaari magdulot ang HIV ng malubhang epekto sa immune system ng tao, na nagiging sanhi ng malalalang impeksyon at sakit kapag hindi naagapan.",
+        "hypothesis": "Maaari magdulot ang HIV ng malubhang epekto sa immune system ng tao.",
         "premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata.",
         "label": "entailment",
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
