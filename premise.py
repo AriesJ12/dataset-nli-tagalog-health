@@ -5,16 +5,17 @@ def main():
     # add your text here
     input_json = '''
 {
-  "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+  "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
   "premises": [
-    {"premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat dengge at Zika virus."},
-    {"premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha."},
-    {"premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan."},
-    {"premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso."},
-    {"premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus."},
-    {"premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever."}
+    {"premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat."},
+    {"premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati."},
+    {"premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit."},
+    {"premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat."},
+    {"premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo."}
   ]
 }
+
+
 
 
 

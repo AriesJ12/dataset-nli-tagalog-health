@@ -3016,5 +3016,179 @@
         "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
         "label": "contradiction",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Ang trangkao ay may  iba't ibang klase ng sintomas na maaring tumagal ng ilang araw.",
+        "premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Hindi naipapasa sa ibang tao ang HIV.",
+        "premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Ang leukemia ay nagsisimula sa bone marrow.",
+        "premise": "Ang leukemia ay isang kanser ng mga selula ng dugo na nagsisimula sa mga tissue na bumubuo ng dugo tulad ng bone marrow.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Marami ng gumaling sa trangkaso nang walang anumang klaseng pangangalagang medikal.",
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Hindi mapanganib ang OCD.",
+        "premise": "Ang mga kadahilanan ng panganib para sa OCD ay kinabibilangan ng kasaysayan ng pamilya, istraktura at paggana ng utak, trauma sa pagkabata, at impeksyon sa streptococcal.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Tanging ang mga sintomas ng Chikungunya ang maaaring gamutin, walang lunas para sa mismong virus",
+        "premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Walang sintomas ang leukemia.",
+        "premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang trangkaso at hindi kailangan ng anumang bakuna o gamot para gumaling dito.",
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Hindi kailangang gamutin ang leukemia.",
+        "premise": "May iba't ibang uri ng leukemia na nakadepende sa uri ng selula ng dugo na nagiging kanser at kung ito ay mabilis o mabagal na lumalaki.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Hindi tunay na kondisyon ang OCD.",
+        "premise": "Ang mga taong may OCD ay maaaring magkaroon ng mga sintomas ng obsessions, compulsions, o pareho.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "May mga paraan upang mabawasan ang pagkakaton ng pagkakaroon ng kanser sa suso.",
+        "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Ang mga may mahinang kalusugan ay nasa panganib sa mas malubhang sakit mula sa Chikungunya.",
+        "premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang mga taong may leukemia ay madalas na nangangailangan ng iba't ibang uri ng paggamot.",
+        "premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Ang Chikungunya ay hindi nagdudulot ng anumang sintomas sa  mga nahawaan.",
+        "premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang Chikungunya.",
+        "premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "AIDS ang sanhi ng HIV.",
+        "premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Kumakalat ang tuberkulosis sa pamamagitan ng paghawak sa mga bagay na ginamit ng taong may aktibong impeksiyon ng TB.",
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Kusang gumagaling ang leukemia.",
+        "premise": "May iba't ibang uri ng leukemia na nakadepende sa uri ng selula ng dugo na nagiging kanser at kung ito ay mabilis o mabagal na lumalaki.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Ang epilepsy ay sakit sa buto.",
+        "premise": "Ang epilepsy ay isang sakit sa utak na nagiging sanhi ng mga tao na magkaroon ng paulit-ulit na seizures.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Maraming uri ng leukemia.",
+        "premise": "May iba't ibang uri ng leukemia na nakadepende sa uri ng selula ng dugo na nagiging kanser at kung ito ay mabilis o mabagal na lumalaki.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Ang depresyon ay nakakaapekto sa mood, pananaw, at pang-araw-araw na aktibidad ng isang tao.",
+        "premise": "Ang depresyon ay nagdudulot ng pangunahing pagbabago sa mood, pananaw, ambisyon, paglutas ng problema, antas ng aktibidad, at mga proseso ng katawan tulad ng pagtulog, enerhiya, at gana sa pagkain.",
+        "label": "entailment",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Ang depresyon ay seryosong kondisyon na nakakaapekto sa utak ng isang tao.",
+        "premise": "Ang depresyon ay isang seryosong sakit na medikal na nasasangkot ang utak at higit pa sa pakiramdam ng pagkalumbay o pagkalungkot sa loob ng ilang araw.",
+        "label": "neutral",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Pwedeng malaman kung mayroon kang Chikungunya virus sa pamamagitan ng pagsusuri ng ihi.",
+        "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Maaari magamot ang Chikungunya sa pamamgitan ng bakuna.",
+        "premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang depresyon ay seryosong kondisyon sa utak.",
+        "premise": "Ang depresyon ay nagdudulot ng pangunahing pagbabago sa mood, pananaw, ambisyon, paglutas ng problema, antas ng aktibidad, at mga proseso ng katawan tulad ng pagtulog, enerhiya, at gana sa pagkain.",
+        "label": "entailment",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Gumagawa ng sobrang daming abnormal na selula ang bone marriw na nagiging sanhi ng problema sa paggawa ng normal na selula ng dugo.",
+        "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Isang tunay na kondisyon sa utak ang epilepsy.",
+        "premise": "Ang epilepsy ay isang sakit sa utak na nagiging sanhi ng mga tao na magkaroon ng paulit-ulit na seizures.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Kailangan ng pisikal na pagsusuri upang matukoy ang kanser sa suso.",
+        "premise": "Upang masuri ang kanser sa suso, maaaring gumamit ang iyong tagapagbigay ng pangangalagang pangkalusugan ng pisikal na pagsusulit, imaging tests, biopsy, at iba pang pagsusuri sa kimika ng dugo.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Walang tiyak na palatandaan na darating ang sintomas ng trangkaso.",
+        "premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
     }
 ]

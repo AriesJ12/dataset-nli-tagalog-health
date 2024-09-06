@@ -795,7 +795,7 @@
         "id": 133,
         "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 134,
@@ -891,7 +891,7 @@
         "id": 149,
         "premise": "Upang masuri ang kanser sa suso, maaaring gumamit ang iyong tagapagbigay ng pangangalagang pangkalusugan ng pisikal na pagsusulit, imaging tests, biopsy, at iba pang pagsusuri sa kimika ng dugo.",
         "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 150,
@@ -903,7 +903,7 @@
         "id": 151,
         "premise": "Maaari mong maiwasan ang kanser sa suso sa pamamagitan ng paggawa ng malusog na pagbabago sa pamumuhay tulad ng pagpapanatili ng malusog na timbang, paglimita sa paggamit ng alkohol, at regular na pagpapasuri gamit ang mammograms.",
         "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 152,
@@ -921,7 +921,7 @@
         "id": 154,
         "premise": "Ang mga sintomas ng trangkaso ay biglang dumarating at maaaring kabilang ang lagnat o nakakaramdam ng lagnat/panginginig, ubo, namamagang lalamunan, sakit sa kalamnan o katawan, pananakit ng ulo, at pagod.",
         "url": "https://www.chcrr.org/tl/health-topic/flu/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 155,
@@ -939,7 +939,7 @@
         "id": 157,
         "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
         "url": "https://www.chcrr.org/tl/health-topic/flu/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 158,
@@ -951,7 +951,7 @@
         "id": 159,
         "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
         "url": "https://www.chcrr.org/tl/health-topic/flu/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 160,
@@ -969,17 +969,17 @@
         "id": 162,
         "premise": "Ang mga kadahilanan ng panganib para sa OCD ay kinabibilangan ng kasaysayan ng pamilya, istraktura at paggana ng utak, trauma sa pagkabata, at impeksyon sa streptococcal.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 163,
         "premise": "Ang mga taong may OCD ay maaaring magkaroon ng mga sintomas ng obsessions, compulsions, o pareho.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 165,
-        "premise": "Ang Mcompulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
+        "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
         "counter": 1
     },
@@ -993,19 +993,19 @@
         "id": 168,
         "premise": "Ang leukemia ay isang kanser ng mga selula ng dugo na nagsisimula sa mga tissue na bumubuo ng dugo tulad ng bone marrow.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 171,
         "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 172,
         "premise": "May iba't ibang uri ng leukemia na nakadepende sa uri ng selula ng dugo na nagiging kanser at kung ito ay mabilis o mabagal na lumalaki.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 174,
@@ -1017,13 +1017,13 @@
         "id": 175,
         "premise": "Ang mga sintomas ng leukemia ay maaaring kabilang ang pagkapagod, lagnat o pagpapawis sa gabi, madaling pagdurugo o pag-bruising, pagbaba ng timbang, at petechiae.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 177,
         "premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 178,
@@ -1035,7 +1035,7 @@
         "id": 179,
         "premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV.",
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 180,
@@ -1053,7 +1053,7 @@
         "id": 182,
         "premise": "Ang HIV ay maaaring ipasa sa iba kahit na ang taong may impeksyon ay malusog ang pakiramdam.",
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 183,
@@ -1077,7 +1077,7 @@
         "id": 186,
         "premise": "Ang epilepsy ay isang sakit sa utak na nagiging sanhi ng mga tao na magkaroon ng paulit-ulit na seizures.",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 187,
@@ -1098,14 +1098,8 @@
         "counter": 0
     },
     {
-        "id": 190,
-        "premise": "Kapag hindi gumagana nang maayos ang mga gamot, maaaring makatulong ang operasyon o mga implant na device gaya ng vagus nerve stimulators.",
-        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 0
-    },
-    {
         "id": 191,
-        "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat dengge at Zika virus.",
+        "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat ng dengue at Zika virus.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
         "counter": 0
     },
@@ -1113,7 +1107,7 @@
         "id": 192,
         "premise": "Karamihan sa mga taong nahawaan ng Chikungunya ay magkakaroon ng mga sintomas, na maaaring malubha.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 193,
@@ -1125,18 +1119,72 @@
         "id": 194,
         "premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 195,
         "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 196,
         "premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 2
+    },
+    {
+        "id": 197,
+        "premise": "Ang depresyon ay isang seryosong sakit na medikal na nasasangkot ang utak at higit pa sa pakiramdam ng pagkalumbay o pagkalungkot sa loob ng ilang araw.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 1
+    },
+    {
+        "id": 198,
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 0
+    },
+    {
+        "id": 200,
+        "premise": "Ang depresyon ay nagdudulot ng pangunahing pagbabago sa mood, pananaw, ambisyon, paglutas ng problema, antas ng aktibidad, at mga proseso ng katawan tulad ng pagtulog, enerhiya, at gana sa pagkain.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 2
+    },
+    {
+        "id": 201,
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 0
+    },
+    {
+        "id": 202,
+        "premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 203,
+        "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 204,
+        "premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 205,
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 206,
+        "premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
         "counter": 0
     }
 ]
