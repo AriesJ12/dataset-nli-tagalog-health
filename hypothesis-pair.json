@@ -2398,5 +2398,245 @@
         "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
         "label": "entailment",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang COVID-19 ay sakit na nakakahawa",
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang matatanda ay bawal lumabas ng bahay.",
+        "premise": "Iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Hindi nakakamatay ang TB o tuberculosis.",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Itapon ng wasto ang pinaggamitan tisyu lalo na kung ito ay ginamit pantakip  sa bibig o ilong.",
+        "premise": "Takpan ang iyong bibig at ilong gamit ang loob ng siko o tisyu kapag uubo o babahing, at agad na itapon ang tisyu sa basurahang may takip.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Iwasa hawakan ang mukha upang hindi magkaroon ng tigyawat o acne.",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Iwasan ang paglabas ng bahay kapag may sakit.",
+        "premise": "Manatili sa bahay kung ikaw ay may nararamdamang sakit, kahit sinat at ubo lang, upang maiwasan ang pagkalat ng sakit.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang TB ay isang uri ng sakit na dulot ng mikrobyong Mycobacterium tuberculosis.",
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Nagiging aktibong sakit ang hindi aktibong tuberkulosis.",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "maaring maging asymptomatic ang impeksyon.",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi kumakalat ang tuberkulosis sa pamamagitan lamang ng hangin.",
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang mga problema sa mukha ay pinapakonsulta sa dermatologist.",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Walang pagkain ang pinagbabawal sa may acne.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Mas nakakabuti ang pananatili sa bahay kapag mayroong karamdaman.",
+        "premise": "Manatili sa bahay kung ikaw ay may nararamdamang sakit, kahit sinat at ubo lang, upang maiwasan ang pagkalat ng sakit.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "ang pagkain ay nakakalakas ng katawan.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang mga awtoridad ay nakakatulong sa mga tao.",
+        "premise": "Kumuha ng impormasyon sa mapagkakatiwalaang awtoridad, tulad ng Department of Health, World Health Organization (WHO), o iyong lokal na health worker.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Walang epekto ang pakikipagsalamuha ng mga taong may sakit.",
+        "premise": "Iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang malaria ay nakakamatay.",
+        "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Nakakahawa ang malaria sa pamamagitan ng hangin.",
+        "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang trangkaso ng mga bata.",
+        "premise": "Maaaring mas matagal maikalat ng mga bata ang trangkaso sa iba.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "python -u \"c:\\xampp\\htdocs\\x\\dataset-nli-tagalog-health\\hypothesis.py\"",
+        "premise": "Mula 3 hanggang 7 araw kinalaunan, sinusundan ito ng mapulang pantal sa balat na kumakalat mula sa mukha patungo sa natitirang bahagi ng katawan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "python -u \"c:\\xampp\\htdocs\\x\\dataset-nli-tagalog-health\\hypothesis.py\"",
+        "premise": "Maraming gamot ang available para maagapan ang pagkakaroon ng malaria; inirerekomenda ng Centers for Disease Control and Prevention (CDC) ang mga bansang may mataas na kaso ng malaria transmission at mga epektibong gamot para sa bawat lugar.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Pagsusuka lamang ang sintomas ng malaria.",
+        "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi na nagbibigay ng malaria vaccine.",
+        "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang sinat ay nakakahawa rin.",
+        "premise": "Manatili sa bahay kung ikaw ay may nararamdamang sakit, kahit sinat at ubo lang, upang maiwasan ang pagkalat ng sakit.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang pantal ay kumakalat sa buong katawan.",
+        "premise": "Mula 3 hanggang 7 araw kinalaunan, sinusundan ito ng mapulang pantal sa balat na kumakalat mula sa mukha patungo sa natitirang bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pertussis ay madaling malunasan.",
+        "premise": "Ang pertussis (ubong dalahit) ay karaniwang nagsisimula sa mga banayad na sintomas na parang sipon—tumutulo o baradong ilong, nagluluhang mga mata, pagbahin, at tuyong ubo (dry cough).",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang sanggol ay madalang magkaroon ng sakit.",
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang P. falciparum ay naagapan sa anumang oras.",
+        "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pagpalit ng punda ay hindi nakakatulong sa acne.",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang mga bata ay mabagal makahawa.",
+        "premise": "Maaaring mas matagal maikalat ng mga bata ang trangkaso sa iba.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nakamamatay ang tuberkulosis kung ito ay hindi lulunasan.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Maraming maaring maging sintomas ang ubong ito.",
+        "premise": "Ang mga pag-atake ng mga ubong ito ay maaaring humantong sa pagsusuka, mga problema sa paghinga, at pakiramdam ng labis na pagkapagod.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "ang pagkakaroon ng ubo ay masakit sa lalamunan.",
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pertussis ay nagsisimula sa simpleng sipon na malabnaw.",
+        "premise": "Ang pertussis (ubong dalahit) ay karaniwang nagsisimula sa mga banayad na sintomas na parang sipon—tumutulo o baradong ilong, nagluluhang mga mata, pagbahin, at tuyong ubo (dry cough).",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang stress ay isa sa  nakakaapekto sa balat ng tao tulad ng mukha.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang malaria ay hindi nanggagaling sa lamok.",
+        "premise": "Isang parasite ang sanhi ng pagiging carrier ng isang lamok ng malaria.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi gaanong malala ang sintomas sa mga bata.",
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nararapat na uminom ng gamot kung ikaw ay inatake ubo.",
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna ay maaring kunin sa center.",
+        "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Humingi ng tulong sa doktor kung ang anak ay nahihirapan na sa paghinga.",
+        "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
     }
 ]
