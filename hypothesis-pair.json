@@ -2836,5 +2836,239 @@
         "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
         "label": "neutral",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang malalang tigdas ay makati sa balat.",
+        "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang lamok ay namumugad sa tubig.",
+        "premise": "Isang parasite ang sanhi ng pagiging carrier ng isang lamok ng malaria.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Isang beses lamang sa iyong buhay kinakailangan ang bakuna para sa trangkaso.",
+        "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang batang may ubo ay dahil sa panahon.",
+        "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang Department of Health ay mapagkakatiwalaan.",
+        "premise": "Kumuha ng impormasyon sa mapagkakatiwalaang awtoridad, tulad ng Department of Health, World Health Organization (WHO), o iyong lokal na health worker.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang mga sanggol ay nararapat manatili na lamang sa bahay.",
+        "premise": "Ang mga batang sanggol ay kadalasang ginagamot sa ospital dahil mas malamang na magkaroon sila ng mas malubhang problema sa kalusugan.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nagtatagal ng 3 araw ang tigdas.",
+        "premise": "Mula 3 hanggang 7 araw kinalaunan, sinusundan ito ng mapulang pantal sa balat na kumakalat mula sa mukha patungo sa natitirang bahagi ng katawan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kailangan ng katawan ang bakuna sa trangkaso kada taon.",
+        "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay nakakapanghina ng katawan.",
+        "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi pa maaring magpabakuna ng Tdap (booster) ang edad 11-12 taong gulang.",
+        "premise": "Ang mga malapit ng maging tinedyer (11-12 taong gulang) at mga matatanda, kabilang na ang mga buntis na nasa ikatlong trimester, ay dapat magpabakuna ng pampalakas na bakunang Tdap (booster).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagtiris ng tigyawat ay isang teknik upang mabilis mabawasan ang acne.",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang pakikisalamuha sa tao ay nakakatanggal ng stress.",
+        "premise": "Dapat iwasan ng mga taong apektado ng tigdas ang pakikisalamuha sa mga taong walang resistensya sa sakit, lalo na ang mga may mahinang resistensya, buntis na kababaihan, at sanggol.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Mahalaga  ang pagtapon ng pinaggamitan ng tisyu kahit na wala pa itong takip.",
+        "premise": "Takpan ang iyong bibig at ilong gamit ang loob ng siko o tisyu kapag uubo o babahing, at agad na itapon ang tisyu sa basurahang may takip.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay hindi impeksyon. ",
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang paginom ng gamot para sa virus ay mainam na nakakatulong sa katawan.",
+        "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang World Health Organization (WHO) ay nagbibigay ng mga maling impormasyon.",
+        "premise": "Kumuha ng impormasyon sa mapagkakatiwalaang awtoridad, tulad ng Department of Health, World Health Organization (WHO), o iyong lokal na health worker.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Hindi magiging aktibong sakit ang tuberkulosis.",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang bakunang Tdap (booster) ay nakakasama sa mga matatanda.",
+        "premise": "Ang mga malapit ng maging tinedyer (11-12 taong gulang) at mga matatanda, kabilang na ang mga buntis na nasa ikatlong trimester, ay dapat magpabakuna ng pampalakas na bakunang Tdap (booster).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang lamok ay isang peste.",
+        "premise": "Isang parasite ang sanhi ng pagiging carrier ng isang lamok ng malaria.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Baga lamang ang naapektuhan ng tuberkulosis.",
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Manatili sa bahay kung ikaw ay may tigdas.",
+        "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng lagnat, ubo, sipon, mapupulang mata, at puting mantsa sa loob ng bibig.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pertussis ay madaling solusyonan o gamutin.",
+        "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay kumakalat.",
+        "premise": "Maaaring mas matagal maikalat ng mga bata ang trangkaso sa iba.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang Centers for Disease Control and Prevention (CDC) ay isang public health agency.",
+        "premise": "Maraming gamot ang available para maagapan ang pagkakaroon ng malaria; inirerekomenda ng Centers for Disease Control and Prevention (CDC) ang mga bansang may mataas na kaso ng malaria transmission at mga epektibong gamot para sa bawat lugar.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Maraming sintomas ang tigdas.",
+        "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng lagnat, ubo, sipon, mapupulang mata, at puting mantsa sa loob ng bibig.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang kaso ng malaria ay mabilis na kumakalat.",
+        "premise": "Maraming gamot ang available para maagapan ang pagkakaroon ng malaria; inirerekomenda ng Centers for Disease Control and Prevention (CDC) ang mga bansang may mataas na kaso ng malaria transmission at mga epektibong gamot para sa bawat lugar.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "3 araw lamang ang inkubasyon ng may tigdas.",
+        "premise": "Ang panahon ng inkubasyon ng tigdas ay umaabot mula 7 hanggang 18 araw, ngunit maaari ring umabot ng hanggang 21 araw.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Magpakonsulta sa dokktor kung nakakaramdam ng hirap sa paghinga.",
+        "premise": "Ang mga pag-atake ng mga ubong ito ay maaaring humantong sa pagsusuka, mga problema sa paghinga, at pakiramdam ng labis na pagkapagod.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang may sintomas ng  Covid 19 ay nararapat na manatili sa loob ng bahay.",
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang virus ay mabilis makahawa.",
+        "premise": "Iwasan ang paghawak sa iyong mata, ilong at bibig upang maiwasan ang paglipat ng virus sa katawan.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Maraming virus na makukuha sa basurahan.",
+        "premise": "Takpan ang iyong bibig at ilong gamit ang loob ng siko o tisyu kapag uubo o babahing, at agad na itapon ang tisyu sa basurahang may takip.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Hindi mo mararansan ang hirap sa paghinga.",
+        "premise": "Marami ang maaaring mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang ubong Pertussis ay may sintomas na labis na pagkapagod.",
+        "premise": "Ang mga pag-atake ng mga ubong ito ay maaaring humantong sa pagsusuka, mga problema sa paghinga, at pakiramdam ng labis na pagkapagod.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay isang impeksiyon.",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang karayom na pinaggamitan ng may malaria ay hindi nakakahawa.",
+        "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang tuburculosis ay nakakahawa at nakakamatay.",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Maari pang malunasan sa bahay ang lagnat na may kasamang ubo at kahit pa hirap na sa paghinga.",
+        "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Mabilis tumalab ang bakuna sa trangkaso.",
+        "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi na maaring uminom ng gamot para sa virus pagkatapos magkasakit.",
+        "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
     }
 ]

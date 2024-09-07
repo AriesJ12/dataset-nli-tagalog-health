@@ -777,7 +777,7 @@
         "id": 130,
         "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 131,
@@ -789,7 +789,7 @@
         "id": 132,
         "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 133,
@@ -801,13 +801,13 @@
         "id": 134,
         "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 135,
         "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 136,
@@ -843,13 +843,13 @@
         "id": 141,
         "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 142,
         "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 143,
@@ -867,13 +867,13 @@
         "id": 145,
         "premise": "Iwasan ang paghawak sa iyong mata, ilong at bibig upang maiwasan ang paglipat ng virus sa katawan.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 146,
         "premise": "Takpan ang iyong bibig at ilong gamit ang loob ng siko o tisyu kapag uubo o babahing, at agad na itapon ang tisyu sa basurahang may takip.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 147,
@@ -891,13 +891,13 @@
         "id": 149,
         "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 150,
         "premise": "Kumuha ng impormasyon sa mapagkakatiwalaang awtoridad, tulad ng Department of Health, World Health Organization (WHO), o iyong lokal na health worker.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 151,
@@ -909,19 +909,19 @@
         "id": 152,
         "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng lagnat, ubo, sipon, mapupulang mata, at puting mantsa sa loob ng bibig.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 153,
         "premise": "Mula 3 hanggang 7 araw kinalaunan, sinusundan ito ng mapulang pantal sa balat na kumakalat mula sa mukha patungo sa natitirang bahagi ng katawan.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 154,
         "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 155,
@@ -939,13 +939,13 @@
         "id": 157,
         "premise": "Ang panahon ng inkubasyon ng tigdas ay umaabot mula 7 hanggang 18 araw, ngunit maaari ring umabot ng hanggang 21 araw.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 158,
         "premise": "Dapat iwasan ng mga taong apektado ng tigdas ang pakikisalamuha sa mga taong walang resistensya sa sakit, lalo na ang mga may mahinang resistensya, buntis na kababaihan, at sanggol.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 159,
@@ -969,7 +969,7 @@
         "id": 162,
         "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 163,
@@ -987,13 +987,13 @@
         "id": 165,
         "premise": "Ang mga pag-atake ng mga ubong ito ay maaaring humantong sa pagsusuka, mga problema sa paghinga, at pakiramdam ng labis na pagkapagod.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 166,
         "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 167,
@@ -1005,7 +1005,7 @@
         "id": 168,
         "premise": "Marami ang maaaring mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 169,
@@ -1029,7 +1029,7 @@
         "id": 172,
         "premise": "Ang mga batang sanggol ay kadalasang ginagamot sa ospital dahil mas malamang na magkaroon sila ng mas malubhang problema sa kalusugan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 173,
@@ -1053,13 +1053,13 @@
         "id": 176,
         "premise": "Ang mga malapit ng maging tinedyer (11-12 taong gulang) at mga matatanda, kabilang na ang mga buntis na nasa ikatlong trimester, ay dapat magpabakuna ng pampalakas na bakunang Tdap (booster).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 177,
         "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 178,
@@ -1083,19 +1083,19 @@
         "id": 181,
         "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 182,
         "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 183,
         "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 184,
@@ -1113,7 +1113,7 @@
         "id": 186,
         "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 187,
@@ -1125,7 +1125,7 @@
         "id": 188,
         "premise": "Maaaring mas matagal maikalat ng mga bata ang trangkaso sa iba.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 189,
@@ -1137,7 +1137,7 @@
         "id": 190,
         "premise": "Isang parasite ang sanhi ng pagiging carrier ng isang lamok ng malaria.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 191,
@@ -1173,7 +1173,7 @@
         "id": 196,
         "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 197,
@@ -1203,7 +1203,7 @@
         "id": 201,
         "premise": "Maraming gamot ang available para maagapan ang pagkakaroon ng malaria; inirerekomenda ng Centers for Disease Control and Prevention (CDC) ang mga bansang may mataas na kaso ng malaria transmission at mga epektibong gamot para sa bawat lugar.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 202,
