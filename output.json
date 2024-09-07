@@ -807,13 +807,13 @@
         "id": 135,
         "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 136,
         "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 137,
@@ -825,13 +825,13 @@
         "id": 138,
         "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 139,
         "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 140,
@@ -861,13 +861,13 @@
         "id": 144,
         "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 145,
         "premise": "Iwasan ang paghawak sa iyong mata, ilong at bibig upang maiwasan ang paglipat ng virus sa katawan.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 146,
@@ -891,7 +891,7 @@
         "id": 149,
         "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 150,
@@ -903,7 +903,7 @@
         "id": 151,
         "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 152,
@@ -933,19 +933,19 @@
         "id": 156,
         "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 157,
         "premise": "Ang panahon ng inkubasyon ng tigdas ay umaabot mula 7 hanggang 18 araw, ngunit maaari ring umabot ng hanggang 21 araw.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 158,
         "premise": "Dapat iwasan ng mga taong apektado ng tigdas ang pakikisalamuha sa mga taong walang resistensya sa sakit, lalo na ang mga may mahinang resistensya, buntis na kababaihan, at sanggol.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 159,
@@ -957,13 +957,13 @@
         "id": 160,
         "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 161,
         "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 162,
@@ -975,7 +975,7 @@
         "id": 163,
         "premise": "Ang pertussis (ubong dalahit) ay karaniwang nagsisimula sa mga banayad na sintomas na parang sipon—tumutulo o baradong ilong, nagluluhang mga mata, pagbahin, at tuyong ubo (dry cough).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 164,
@@ -1017,7 +1017,7 @@
         "id": 170,
         "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 171,
@@ -1029,7 +1029,7 @@
         "id": 172,
         "premise": "Ang mga batang sanggol ay kadalasang ginagamot sa ospital dahil mas malamang na magkaroon sila ng mas malubhang problema sa kalusugan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 173,
@@ -1053,7 +1053,7 @@
         "id": 176,
         "premise": "Ang mga malapit ng maging tinedyer (11-12 taong gulang) at mga matatanda, kabilang na ang mga buntis na nasa ikatlong trimester, ay dapat magpabakuna ng pampalakas na bakunang Tdap (booster).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 177,
@@ -1065,7 +1065,7 @@
         "id": 178,
         "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 179,
@@ -1077,13 +1077,13 @@
         "id": 180,
         "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 181,
         "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 182,
@@ -1119,7 +1119,7 @@
         "id": 187,
         "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 188,
@@ -1131,7 +1131,7 @@
         "id": 189,
         "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 190,
@@ -1155,13 +1155,13 @@
         "id": 193,
         "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 194,
         "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 195,
@@ -1179,13 +1179,13 @@
         "id": 197,
         "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 198,
         "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 199,
@@ -1197,7 +1197,7 @@
         "id": 200,
         "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 201,
@@ -1209,6 +1209,6 @@
         "id": 202,
         "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 2
     }
 ]

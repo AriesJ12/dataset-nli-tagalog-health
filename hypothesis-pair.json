@@ -2514,18 +2514,6 @@
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
     },
     {
-        "hypothesis": "python -u \"c:\\xampp\\htdocs\\x\\dataset-nli-tagalog-health\\hypothesis.py\"",
-        "premise": "Mula 3 hanggang 7 araw kinalaunan, sinusundan ito ng mapulang pantal sa balat na kumakalat mula sa mukha patungo sa natitirang bahagi ng katawan.",
-        "label": "neutral",
-        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
-    },
-    {
-        "hypothesis": "python -u \"c:\\xampp\\htdocs\\x\\dataset-nli-tagalog-health\\hypothesis.py\"",
-        "premise": "Maraming gamot ang available para maagapan ang pagkakaroon ng malaria; inirerekomenda ng Centers for Disease Control and Prevention (CDC) ang mga bansang may mataas na kaso ng malaria transmission at mga epektibong gamot para sa bawat lugar.",
-        "label": "contradiction",
-        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
-    },
-    {
         "hypothesis": "Pagsusuka lamang ang sintomas ng malaria.",
         "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
         "label": "contradiction",
@@ -2638,5 +2626,215 @@
         "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
         "label": "entailment",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nakakatulong sa buntis ang bakunang Tdap(booster).",
+        "premise": "Ang mga malapit ng maging tinedyer (11-12 taong gulang) at mga matatanda, kabilang na ang mga buntis na nasa ikatlong trimester, ay dapat magpabakuna ng pampalakas na bakunang Tdap (booster).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang tigdas ay lumalala kapag lumalabas ng bahay.",
+        "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagdikit o pagtabi ng  may tigdas sa ibang tao ay hindi nakakaapekto.",
+        "premise": "Dapat iwasan ng mga taong apektado ng tigdas ang pakikisalamuha sa mga taong walang resistensya sa sakit, lalo na ang mga may mahinang resistensya, buntis na kababaihan, at sanggol.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nagkakaroon ng acne ang dibdib.",
+        "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Mabilis ang pagkalat ng virus sa pamamagitan ng kamay, sapagkat madalas nitong nahahawakan ang mukha.",
+        "premise": "Iwasan ang paghawak sa iyong mata, ilong at bibig upang maiwasan ang paglipat ng virus sa katawan.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Dapat maagapan ang P. falciparum  upang hindi lumala at humantong sa kasawian.",
+        "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pananakit ng masel ay dulot ng pag ehersisyo.",
+        "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi makakaramdam ng nagluluhang mata ang taong may pertussis.",
+        "premise": "Ang pertussis (ubong dalahit) ay karaniwang nagsisimula sa mga banayad na sintomas na parang sipon—tumutulo o baradong ilong, nagluluhang mga mata, pagbahin, at tuyong ubo (dry cough).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Magpakonsulta sa doktor kung ikaw ay nakakaranas ng lagnat, ubo at hirap sa pag-hinga.",
+        "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang Measles virus ay isang impeksyon.",
+        "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagbahin ay hindi nakakahawa ng sakit.",
+        "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay nakakahina ng katawan.",
+        "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pertussis ay sakit na mabagal kumalat o  makapanghawa.",
+        "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "ang pagbahing ay sanhi ng alikabok",
+        "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Walang malaria sa Pilipinas.",
+        "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pagtatae ay hindi sintomas ng trangkaso.",
+        "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi epektibo ang hand sanitizer na may alcohol. ",
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang batang sanggol ay  mas mataas ang resistensya.",
+        "premise": "Ang mga batang sanggol ay kadalasang ginagamot sa ospital dahil mas malamang na magkaroon sila ng mas malubhang problema sa kalusugan.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang malaria na dulot ng P. vivax ay hindi na babalik sa mga pasyenteng gumaling na.",
+        "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang mga problema sa mukha tulad ng tigyawat ay dahil sa baradong pores.",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang bata sa sinapupunan ay may tiyansang mahawa ng malaria mula sa nanay nito.",
+        "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang bakuna ay masakit na sanhi ng lagnat.",
+        "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang tigdas ay nakakahawa.",
+        "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang paghugas ng kamay ay nakakatulong.",
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay masakit sa lalamunan.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang trangkaso ay mabilis makahawa.",
+        "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay impeksiyon sa lalamunan",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang buntis ay maari namang makipagsalamuha dahil hinto ito mabilis mahawa ng tigdas.",
+        "premise": "Dapat iwasan ng mga taong apektado ng tigdas ang pakikisalamuha sa mga taong walang resistensya sa sakit, lalo na ang mga may mahinang resistensya, buntis na kababaihan, at sanggol.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Humingi agad ng tulong sa mga propesyonal kung ang anak ay senyalas na.",
+        "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang inkubasyon ay nakakatulong sa mga may impeksyon.",
+        "premise": "Ang panahon ng inkubasyon ng tigdas ay umaabot mula 7 hanggang 18 araw, ngunit maaari ring umabot ng hanggang 21 araw.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ikaw ay maaring mahawa  sa mga  taong may sakit sa balat.",
+        "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Huminto na sa pagbibigay ng malaria vaccine.",
+        "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang inkubasyon ay tumatagal ng 7-21 days.",
+        "premise": "Ang panahon ng inkubasyon ng tigdas ay umaabot mula 7 hanggang 18 araw, ngunit maaari ring umabot ng hanggang 21 araw.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang mga bata ay lapitin ng sakit.",
+        "premise": "Ang mga batang sanggol ay kadalasang ginagamot sa ospital dahil mas malamang na magkaroon sila ng mas malubhang problema sa kalusugan.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay nakukuha sa labas ng bahay.",
+        "premise": "Maaaring magkaroon ng trangkaso ang kahit na sino, ngunit ang mga batang wala pang 5 taong gulang, mga nasa hustong gulang na may edad na 65 taon pataas, mga buntis, at mga taong may mga pabalik-balik na kundisyon sa kalusugan (hika, diabetes, o mahina ang immune system) ay may mataas na posibilidad na makaranas ng malalang kumplikasyon.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
     }
 ]
