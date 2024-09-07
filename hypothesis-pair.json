@@ -2398,5 +2398,221 @@
         "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
         "label": "entailment",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang tuberculosis ay nakakamatay",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi maiiwasan ang acne sa paglilinis ng katawan",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Upang maiwasan ang acne, dapat panatilihing malinis ang katawan, at mga kamay",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang pagpapalit ng punda ay hindi nakakatulong sa pag-iwas ng acne",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Pangkaraniwang umaatake sa baga ang tuberkulosis",
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Anf TB ay nakakahawa",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay nakakahawa sa hangin",
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "HIV ay hindi naman gaano mapanganib",
+        "premise": "Ang HIV ay kumakatawan sa human immunodeficiency virus. Pinipinsala nito ang iyong immune system sa pamamagitan ng pagsira sa isang uri ng white blood cell na tumutulong sa iyong katawan na labanan ang impeksiyon. Inilalagay ka nito sa panganib para sa seryoso impeksiyon at ilang mga kanser.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Iilan sa mga impeksyon ay asymptomatic",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Karamihan sa mga impeksyon ay may sintomas",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang acne ay hindi kondisyon sa balat",
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang TB ay tuberculosis sa Ingles",
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Kapag barado ang pores ay hindi lumilitaw ang mga itim na tuldok",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Hindi nagbabara ang pores dahil sa sobrang langis or sebo",
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Sari-saring strain ng mycobacteria ay nagsasanhi ng tuberkulosis",
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi nagagamot ang tuberkulosis",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Maaring lumitaw ang mga itim na tuldok kapag barado ang pores",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Hindi nagdudulot ng sakit ang ibang strain ng mycobacteria",
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang malusog na pamumuhay ay nakakatulong sa pag-iwas ng leukemia",
+        "premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pag-ihi ng madalas ay hindi sintomas ng pagkakaroon ng prostate cancer",
+        "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang madalas ng pagkain ng karne ay nakaka-taas ng lebel ng uric acid",
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Hindi maaring bigyan ng gamot ang pasyente kung meron itong nakabarang ugat",
+        "premise": "Pagkarating sa ospital, maaaring bigyan ang pasyente ng mga gamot upang matanggal ang mga nakabara sa ugat.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang puting butlig o kaya'y tigyawat ay lumilitaw kapag hindi gaano malinis ang mukha",
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng regular na ehersisyo ay nakakatulong sa pag-iwas sa gout",
+        "premise": "Ang regular na ehersisyo at sapat na tulog ay makakatulong sa pag-iwas sa gout.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Hindi rason ang pagdami ng mga abnomal na white blood cell",
+        "premise": "Kapag lubhang dumami ang mga abnormal na white blood cell, maaapawan ng mga ito ang mga malulusog na blood cell.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang HIV ay sumisira sa immune system ng tao",
+        "premise": "Ang HIV ay kumakatawan sa human immunodeficiency virus. Pinipinsala nito ang iyong immune system sa pamamagitan ng pagsira sa isang uri ng white blood cell na tumutulong sa iyong katawan na labanan ang impeksiyon. Inilalagay ka nito sa panganib para sa seryoso impeksiyon at ilang mga kanser.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Hindi lang nakikita ang acne vulgaris sa dibdib, likod o balikat maging sa ibang parte ng katawan",
+        "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang isa mula sa sampung tao ay tyansang magkaroon ng tuberkulosis",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi karaniwang inaatake sa puso kapag may baradong ugat",
+        "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Mapanganib sa kalusugan ang pagkakaroon ng HIV",
+        "premise": "Ang HIV ay kumakatawan sa human immunodeficiency virus. Pinipinsala nito ang iyong immune system sa pamamagitan ng pagsira sa isang uri ng white blood cell na tumutulong sa iyong katawan na labanan ang impeksiyon. Inilalagay ka nito sa panganib para sa seryoso impeksiyon at ilang mga kanser.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Hindi lang pagkakaroon ng lagnat ang sintomas ng leukemia",
+        "premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Isa sa uri ng arthritis ang gout",
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang pananakit ng bato ay maaring sintomas ng prostate cancer",
+        "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang pag-iwas sa alak ay pag-iwas din sa pagtaas ng uric acid",
+        "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Importanteng madala agad sa ospital ang pasyente kapag inatake sa puso",
+        "premise": "Mahalagang dalhin agad ang pasyente sa ospital kung siya ay inaatake sa puso.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang seafood ay nakakataas ng uric acid",
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
     }
 ]

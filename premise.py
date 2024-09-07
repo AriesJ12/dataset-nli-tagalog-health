@@ -4,17 +4,21 @@ import os
 def main():
     # add your text here
     input_json = '''
-    {
-  "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+ {
+  "url": "https://mediko.ph/karamdaman/leukemia/",
   "premises": [
-    {"premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo."},
-    {"premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat."},
-    {"premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat."},
-    {"premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain."},
-    {"premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama."}
+    {"premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo."},
+    {"premise": "Karaniwan itong tinatawag na 'kanser sa dugo' dahil sa paggawa ng bone marrow ng mga abnormal na uri ng white blood cell."},
+    {"premise": "Kapag lubhang dumami ang mga abnormal na white blood cell, maaapawan ng mga ito ang mga malulusog na blood cell."},
+    {"premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon."},
+    {"premise": "Ang leukemia ay maaaring gamutin sa pamamagitan ng operasyon, chemotherapy, radiation, at stem cell transplant."},
+    {"premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL)."},
+    {"premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito."},
+    {"premise": "Ang mga salik sa panganib ng leukemia ay kinabibilangan ng kasarian, edad, pagkakaroon nito sa pamilya, at pagkakalantad sa radiation at mga kemikal."},
+    {"premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia."},
+    {"premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia."}
   ]
 }
-
     '''
 
     data = json.loads(input_json)
