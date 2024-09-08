@@ -25,7 +25,8 @@ def main():
     # Prepare the list to store all premises
     output_data_list = []
 
-    output_file = "output.json"
+    output_file = "week1-final_premise.json"
+
 
     # Check if the output file exists
     if os.path.exists(output_file):
