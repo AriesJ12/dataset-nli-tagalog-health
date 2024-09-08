@@ -4,16 +4,25 @@ import os
 def main():
     # add your text here
     input_json = '''
-    {
-  "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+{
+  "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
   "premises": [
-    {"premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo."},
-    {"premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat."},
-    {"premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat."},
-    {"premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain."},
-    {"premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama."}
+    {"premise": "Ang Tetanus ay isang malubhang sakit na dulot ng Clostridium bacteria."},
+    {"premise": "Ang bakterya na sanhi ng tetanus ay nabubuhay sa lupa, laway, alikabok, at dumi."},
+    {"premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso."},
+    {"premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga."},
+    {"premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital."},
+    {"premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata."},
+    {"premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso."}
   ]
 }
+
+
+
+
+
+
+
 
     '''
 
