@@ -11,18 +11,23 @@ def save_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-def combine_json_files(file1, file2, output_file):
-    data1 = load_json(file1)
-    data2 = load_json(file2)
+def combine_json_files(file_paths, output_file):
+    combined_data = []
 
-    combined_data = data1 + data2
+    for file_path in file_paths:
+        data = load_json(file_path)
+        combined_data.extend(data)
 
-    # Remove duplicates (case insensitive)
+    # Remove duplicates (case insensitive) and keep the one with the higher counter
     unique_premises = {}
     for item in combined_data:
         premise_lower = item["premise"].lower()
         if premise_lower not in unique_premises:
             unique_premises[premise_lower] = item
+        else:
+            # If duplicate, keep the one with the higher counter
+            if item["counter"] > unique_premises[premise_lower]["counter"]:
+                unique_premises[premise_lower] = item
 
     # Recount IDs
     combined_unique_data = list(unique_premises.values())
@@ -32,8 +37,6 @@ def combine_json_files(file1, file2, output_file):
     save_json(combined_unique_data, output_file)
 
 if __name__ == "__main__":
-    # CHANGE HERE
-    file1 = "file1.json"
-    file2 = "file2.json"
+    file_paths = ["output.json", "max-premises.json", "phoebe-premises.json", "rosgen-premises.json"]  # Add as many files as needed
     output_file = "final_premise.json"
-    combine_json_files(file1, file2, output_file)
+    combine_json_files(file_paths, output_file)

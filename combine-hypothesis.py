@@ -31,7 +31,7 @@ def combine_json_files(file1, file2, output_file):
 
 if __name__ == "__main__":
     #CHANGE HERE
-    file1 = "file1.json"
-    file2 = "file2.json"
-    output_file = "final_hypothesis-pair.json"
+    file1 = "rosgen-hypothesis-pair.json"
+    file2 = "prelim-week1-hypothesis-pair.json"
+    output_file = "week1-hypothesis-pair.json"
     combine_json_files(file1, file2, output_file)

@@ -1,0 +1,128 @@
+[
+    {
+        "hypothesis": "Ang brucellosis ay isang malalang sakit na negatibong nakaka-apekto sa pampublikong kalusugan.",
+        "premise": "Sa mga endemic na lugar, ang brucellosis ng tao ay may malubhang kahihinatnan sa kalusugan ng publiko.",
+        "label": "neutral",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Ang pagkukulang sa paglinis at pag-aalaga sa mga hayop at paghawak ng pagkain ay hindi sanhi ng brucellosis.",
+        "premise": "Ang kakulangan ng mga hakbang sa kalinisan sa pag-aalaga ng hayop at sa paghawak ng pagkain ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Ang patuloy na urbanisasyon na laganap sa Pilipinas ay maaaring sanhi ng brucellosis.",
+        "premise": "Ang pagpapalawak ng mga industriya ng hayop at urbanisasyon ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "neutral",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Isa sa mga sanhi ng brucellosis ay ang hindi mabusising paglilinis at pag-aalaga ng mga hayop.",
+        "premise": "Ang Brucellosis ay isa sa mga pinakalaganap na zoonoses na ipinadala ng mga hayop.",
+        "label": "entailment",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi naman nakaka-apekto ang urbanisasyon at industriyalisasyon sa pagpapalaganap ng sakit na brucellosis.",
+        "premise": "Ang pagpapalawak ng mga industriya ng hayop at urbanisasyon ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Walang kinalaman ang kalinisan sa pag-aalaga ng hayop at ang tamang paghawak ng pagkain sa sanhi ng pagkakaroon ng brucellosis.",
+        "premise": "Ang kakulangan ng mga hakbang sa kalinisan sa pag-aalaga ng hayop at sa paghawak ng pagkain ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi maaaring manggaling sa hayop ang brucellosis.",
+        "premise": "Ang Brucellosis ay isa sa mga pinakalaganap na zoonoses na ipinadala ng mga hayop.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi panganib ang brucellosis sa kalusugan ng tao.",
+        "premise": "Ang pagpapalawak ng mga industriya ng hayop at urbanisasyon ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi ka naman magkakaroon ng brucellosis dahil palagi kang nagkakamay lang pag kumakain.",
+        "premise": "Ang kakulangan ng mga hakbang sa kalinisan sa pag-aalaga ng hayop at sa paghawak ng pagkain ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Ang brucellosis ay maaaring magdulot ng malubhang karamdaman, lalo na sa mga endemic na lugar.",
+        "premise": "Sa mga endemic na lugar, ang brucellosis ng tao ay may malubhang kahihinatnan sa kalusugan ng publiko.",
+        "label": "entailment",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi naman nanggagaling sa hayop ang brucellosis.",
+        "premise": "Ang Brucellosis ay isa sa mga pinakalaganap na zoonoses na ipinadala ng mga hayop.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Kapag lumala ang tetanus, ito ay nakakamatay.",
+        "premise": "Ang mga malubhang komplikasyon ng tetanus ay maaaring maging banta sa buhay.",
+        "label": "entailment",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Mayroon nang nadiskubreng gamot na nagpapagaling sa sakit na tetanus.",
+        "premise": "Walang gamot para sa tetanus; nakatuon ang paggamot sa pamamahala ng mga sintomas at komplikasyon hanggang sa gumaling ang mga epekto ng lason.",
+        "label": "contradiction",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Ang lockjaw ay ang karaniwang tawag sa sakit na HIV o Human immunodeficiency virus.",
+        "premise": "Ang Tetanus ay karaniwang kilala bilang lockjaw.",
+        "label": "contradiction",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Hindi nakakamatay ang sakit na tetanus.",
+        "premise": "Ang mga malubhang komplikasyon ng tetanus ay maaaring maging banta sa buhay.",
+        "label": "contradiction",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Nagkaroon ako ng tetanus simula noong nakaraang linggo.",
+        "premise": "Ang Tetanus ay isang malubhang sakit ng nervous system na sanhi ng isang bacterium na gumagawa ng lason.",
+        "label": "neutral",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Nakakaramdam ako ng pag-urong ng kalamnan.",
+        "premise": "Ang Tetanus ay nagdudulot ng pag-urong ng kalamnan, lalo na ng mga kalamnan sa panga at leeg.",
+        "label": "neutral",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Ano ba yung lockjaw?",
+        "premise": "Ang Tetanus ay karaniwang kilala bilang lockjaw.",
+        "label": "neutral",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Parang sumasakit ang panga at leeg ko, nakakaramdam ako ng pag-urong ng kalamnan.",
+        "premise": "Ang Tetanus ay nagdudulot ng pag-urong ng kalamnan, lalo na ng mga kalamnan sa panga at leeg.",
+        "label": "neutral",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Isa sa mga sintomas ng tetanus ay ang pagkakaroon ng muscle contractions sa panga at leeg.",
+        "premise": "Ang Tetanus ay nagdudulot ng pag-urong ng kalamnan, lalo na ng mga kalamnan sa panga at leeg.",
+        "label": "entailment",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    },
+    {
+        "hypothesis": "Ang isang toxin-producing bacterium ang sanhi ng tetanus.",
+        "premise": "Ang Tetanus ay isang malubhang sakit ng nervous system na sanhi ng isang bacterium na gumagawa ng lason.",
+        "label": "entailment",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tetanus/symptoms-causes/syc-20351625"
+    }
+]

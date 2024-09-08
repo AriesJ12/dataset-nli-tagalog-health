@@ -3,7 +3,7 @@ import os
 import random
 
 def main():
-    output_file = "output.json"
+    output_file = "week1-final_premise.json"
     hypothesis_file = "hypothesis-pair.json"
     amount_done = 0
     
