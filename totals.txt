@@ -1,0 +1,21 @@
+week 1:
+hypothesis pair - 2420 - 2 / 6
+drex - 128 = total 21(standalone file)
+max - 3194 - 2420 - 2 / 6= total 128
+phoebe - 3074 - 2420 - 2 / 6 = total 108
+rosgen - 2618 - 2420 - 2 / 6= total 32
+
+
+total = 4214 - 2 / 6 = 702 hypothesis-premise pair
+
+total = 1412 - 2 / 6 = 235 premise
+
+
+
+Expected next week:
+bruce - 400 
+drex - 379
+max - 272
+phoebe - 292
+rosgen - 368
+shania - 400
