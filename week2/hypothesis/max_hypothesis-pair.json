@@ -1,0 +1,380 @@
+[
+    {
+        "hypothesis": "May gamot ang depresyon.",
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "label": "entailment",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Maaaring sumailalim sa terapiya ang isang taong may leukemia bilang bahagi ng kanyang paggamot. ",
+        "premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "May ilang paraan upang maibsan ang Chikungunya kahit na wala itong bakuna o gamot.",
+        "premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang OCD ay may mga sanhi na maaaring magdulot sa isang tao na magkaroon nito.",
+        "premise": "Ang mga kadahilanan ng panganib para sa OCD ay kinabibilangan ng kasaysayan ng pamilya, istraktura at paggana ng utak, trauma sa pagkabata, at impeksyon sa streptococcal.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Kathang-isip lamang ang depresyon at hindi seryosong sakit.",
+        "premise": "Ang depresyon ay isang seryosong sakit na medikal na nasasangkot ang utak at higit pa sa pakiramdam ng pagkalumbay o pagkalungkot sa loob ng ilang araw.",
+        "label": "contradiction",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Maaaring magamot ang isang taong may leukemia sa pamamagita ng ng terapiya.",
+        "premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Walang kinalaman ang HIV sa paghina ng immune system ng isang taong may HIV.",
+        "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Nakakapaglala ng psoriasis ang malamig na panahon.",
+        "premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo.",
+        "label": "neutral",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Karaniwang naaapektuhan ng prostate cancer ang mga taong ganap na ang pagbuo ng prostate gland o mga matatandang lalaki.",
+        "premise": "Ang prostate cancer ay karaniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang prostate cancer.",
+        "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Walang bagay na nakakagpagpapalala sa psoriasis.",
+        "premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo.",
+        "label": "contradiction",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang atake sa puso ay nagganap kapag sobra ang dugo na natatanggap ng puso.",
+        "premise": "Isa itong mapanganib na kondisyon kung saan ang puso ay hindi nakatatanggap ng sapat na dami ng dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang gout ay sanhi ng kakulangan sa uric acid sa dugo.",
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang gout ay nakakaapekto lamang sa malaking daliri ng paa.",
+        "premise": "Karaniwang apektado ang daliri ng paa, tuhod, at siko.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang depresyon ay nakakaapekto sa kakayahan ng utak na kontrolin ang emosyon at motibasyon.",
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "label": "entailment",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Maaaring makaranas ang mga taong may OCD ng tinatawag na \"compulsions,\" o mga paulit-ulit na pag-uugali na ginagawa upang subukang mabawasan ang kanilang pagkabalisa.",
+        "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makapagpapaalis ng leukemia.",
+        "premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "May mga gamot sa gout na nakakatulong sa pagpapagaan ng mga sintomas na dulot ng sakit.",
+        "premise": "Ang paggamot sa gout ay maaaring kabilangan ng mga gamot upang mapababa ang uric acid at mapagaan ang sintomas.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Sa paglipas ng panahon, humihina ang immune system ng mga taong may HIV, at hindi na kayang labanan ang mga karaniwang impeksyon.",
+        "premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Nangyayari ang epilepsy kapag ang mga nerve cell o neuron sa utak ay nagpapadala ng mga maling senyales, na nagiging sanhi ng biglaang pagbabago sa pag-uugali o mga paggalaw ng katawan.",
+        "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Maaaring magamot ang prostate cancer sa pamamagitan ng operasyon o terapiya depende sa yugto ng kanser.",
+        "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Maaaring sintomas ng Chikungunya ay pananakit sa kasukasuan.",
+        "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "May lunas ang epilepsy.",
+        "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang HIV ay isang mikrobyo.",
+        "premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Maraming iba't ibang uri ng kanser sa suso na maaaring makaapekto sa isang babae.",
+        "premise": "May iba't ibang uri ng kanser sa suso tulad ng ductal carcinoma, lobular carcinoma, at iba oa.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang gout.",
+        "premise": "Ang mga sintomas ng gout ay kinabibilangan ng biglaang pananakit ng kasukasuan, pamamaga, at pamumula.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Isa lamang ang uri ng leukemia.",
+        "premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL).",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Nakakatulong ang pagkakaroon ng maayos at malusog na pamumuhay upang maiwasan ang atake sa puso.",
+        "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang epilepsy ay isang malubhang sakit.",
+        "premise": "Ang epilepsy ay isang sakit sa utak na nagiging sanhi ng mga tao na magkaroon ng paulit-ulit na seizures.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang sanhi ng epilepsy ay hindi alam.",
+        "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Hayaan muna atakihin ang pasyenta sa puso bago siya isugod sa ospital.",
+        "premise": "Mahalagang dalhin agad ang pasyente sa ospital kung siya ay inaatake sa puso.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Maaaring makontrol ang epilepsy.",
+        "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Walang sintomas ang atake sa puso.",
+        "premise": "Ang bawat tao ay maaaring makaranas ng iba’t ibang sintomas ng atake sa puso, tulad ng hirap sa paghinga, pagduduwal, at labis na pamamawis.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Nakukukuha ang prostate cancer sa murang edad.",
+        "premise": "Ang prostate cancer ay karaKaramihan sa mga impeksyon ng Zika virus ay nagdudulot ng matinding komplikasyonniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "May iba't ibang sintomas ang trichomoniasis.",
+        "premise": "Ang trichomoniasis ay maaaring magdulot ng dilaw-berde o kulay abong paglabas mula sa ari, kakulangan sa ginhawa habang nakikipagtalik, amoy ng ari, masakit na pag-ihi, at pangangati sa mga babae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Malalaman ng isang tao ay may Chikungunya virus sa pamamagitan ng pagsusuri sa dugo.",
+        "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Karamihan sa mga impeksyon ng Zika virus ay nagdudulot ng matinding komplikasyon",
+        "premise": "Karamihan sa impeksyon ng Zika virus ay walang sintomas, ngunit kapag mayroon, kasama ang mga ito ay mga pantal sa balat, lagnat, pamamaga at pamumula ng mata, pananakit ng kalamnan o kasukasuhan, at masamang pakiramdam sa katawan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1"
+    },
+    {
+        "hypothesis": "Ang bakuna laban sa tigdas ay maaaring magdulot ng higit pang komplikasyon kaysa sa mismong sakit.",
+        "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Walang sintomas ang tigdas.",
+        "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng lagnat, ubo, sipon, mapupulang mata, at puting mantsa sa loob ng bibig.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kailangan ng regular na pagsusuri upang maagapan ang prostate cancer.",
+        "premise": "Ang prostate cancer ay maaaring maagapan sa pamamagitan ng regular na pagsusuri, tulad ng digital rectal exam (DRE) at prostate-specific antigen (PSA) test.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang sanhi ng tetanus ay kalawang.",
+        "premise": "Ang bakterya na sanhi ng tetanus ay nabubuhay sa lupa, laway, alikabok, at dumi.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Kadalasan hindi nangangailangan ng paggamot ang taong may Toxoplasmosis.",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang maganda at malusog na pamumuhay ay nakakatulong upang maiwasan ang leukemia.",
+        "premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Iwasan ang pagkakaroon ng  mga masasamang bisyo upang maiwasan ang atake sa puso.",
+        "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Kung mayroon mang sintomas ang trichomoniasis, kadalasang lumalabas ang mga ito sa loob ng 5 hanggang 28 araw pagkatapos mahawa.",
+        "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang bakuna laban sa tetanus ay bahagi ng mga regular na pagbabakuna para sa mga bata.",
+        "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Maaari hindi kailangan ng paggamot ang karamihan sa mga taong may Toxoplasmosis, ngunit may mga gamot para sa mga buntis at mga taong may mahina ang immune system.",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Maaari magdulot ng pamamaga ng utak ang West Nile virus kung ito ay pumasok sa utak.",
+        "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas."
+    },
+    {
+        "hypothesis": "Ang psoriasis ay maaari ring magdulot ng pangangati at pamumula sa mga apektadong bahagi ng katawan.",
+        "premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit.",
+        "label": "entailment",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang paghirap umihi ay maaaring isang sintomas ng prostate cancer. ",
+        "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Maaaring kontrolin ang ulcerative colitis sa pamamagitan ng iba't ibang uri ng gamot.",
+        "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "May gamot laban sa tetanus.",
+        "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Maaaring dalhin ang pasyente sa ospital kapag nakararanas ng mga sintomas ng atake sa puso.",
+        "premise": "Mahalagang dalhin agad ang pasyente sa ospital kung siya ay inaatake sa puso.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Hindi maaaring magamot ang leukemia sa pamamagitan ng anumang uri ng terapiya.",
+        "premise": "Ang leukemia ay maaaring gamutin sa pamamagitan ng operasyon, chemotherapy, radiation, at stem cell transplant.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Nakakahawa ang psoriasis.",
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "label": "contradiction",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Walang gamot na makakapagkontrol sa ulcerative colitis.",
+        "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang parehong uri ng mga lamok na nagdadala ng dengue at Zika virus ay maaari ring magdala ng Chikungunya.",
+        "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat ng dengue at Zika virus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang pertussis ay hindi nakakamatay.",
+        "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang psoriasis ay sanhi ng bakterya at maaaring gamutin gamit ang mga antibiyotik.",
+        "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
+        "label": "contradiction",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang ulcerative colitis (UC) ay sanhi ng mga impeksyon sa tiyan at maaaring gamutin gamit ang mga antibiotics.",
+        "premise": "Ang ulcerative colitis (UC) ay isang sakit na nagdudulot ng pamamaga at mga sugat, na tinatawag na ulcers, sa lining ng tumbong at colon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang tigdas ay hindi napapasa sa ibang tao sa pamamagitan ng hangin.",
+        "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pangunahing sintomas ng atake sa puso ay ang paminsan-minsan na pananakit sa mga binti o balikat.",
+        "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang epilepsiya ay sanhi ng mga masasamang espiritu.",
+        "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    }
+]

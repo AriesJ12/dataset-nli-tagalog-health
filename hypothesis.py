@@ -2,11 +2,28 @@ import json
 import os
 import random
 
+def get_user_name():
+    valid_names = ["max", "pb", "gen", "drex", "bru", "sha"]
+    while True:
+        name = input("Please enter your name: ").strip().lower()
+        if name in valid_names:
+            return name
+        else:
+            print("Invalid name. Please try again.")
+
 def main():
-    output_file = "week1-final_premise.json"
-    hypothesis_file = "hypothesis-pair.json"
+    # Get the user's name
+    user_name = get_user_name()
+
+    # Create the output file paths
+    output_file = f"week2/premise/{user_name}_premise.json"
+    hypothesis_file = f"week2/hypothesis/{user_name}_hypothesis-pair.json"
     amount_done = 0
-    
+
+    # Ensure the directories exist
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    os.makedirs(os.path.dirname(hypothesis_file), exist_ok=True)
+
     while True:
         print(f"You have done: {amount_done}")
         amount_done += 1

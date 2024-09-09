@@ -1,0 +1,176 @@
+[
+    {
+        "id": 30,
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 1
+    },
+    {
+        "id": 31,
+        "premise": "Ang Tetanus ay isang malubhang sakit na dulot ng Clostridium bacteria.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 0
+    },
+    {
+        "id": 32,
+        "premise": "Ang bakterya na sanhi ng tetanus ay nabubuhay sa lupa, laway, alikabok, at dumi.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 1
+    },
+    {
+        "id": 33,
+        "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 0
+    },
+    {
+        "id": 34,
+        "premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 0
+    },
+    {
+        "id": 35,
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 0
+    },
+    {
+        "id": 36,
+        "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 2
+    },
+    {
+        "id": 37,
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
+        "counter": 0
+    },
+    {
+        "id": 142,
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 143,
+        "premise": "Karamihan sa mga taong magkakaroon ng impeksyon ay makararanas ng hindi malalang sintomas at gagaling, ngunit ang iba ay makararanas ng malubhang sakit, lalo na sa mga matatanda at mga may dati nang karamdaman.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 0
+    },
+    {
+        "id": 144,
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 147,
+        "premise": "Iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 149,
+        "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 151,
+        "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 154,
+        "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 155,
+        "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 159,
+        "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 160,
+        "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 161,
+        "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 162,
+        "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 164,
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 166,
+        "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 167,
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 168,
+        "premise": "Marami ang maaaring mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 169,
+        "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 170,
+        "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 171,
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 173,
+        "premise": "Mahalagang gamutin ang pertussis nang maaga.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 174,
+        "premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    }
+]

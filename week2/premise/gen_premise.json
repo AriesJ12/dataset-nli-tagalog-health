@@ -1,0 +1,176 @@
+[
+    {
+        "id": 175,
+        "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 177,
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 178,
+        "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 179,
+        "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 180,
+        "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 182,
+        "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 183,
+        "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 184,
+        "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 185,
+        "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 186,
+        "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 187,
+        "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 189,
+        "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 191,
+        "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 192,
+        "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 193,
+        "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 194,
+        "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 195,
+        "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 196,
+        "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 197,
+        "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 198,
+        "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 199,
+        "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 200,
+        "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 202,
+        "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 194,
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 2
+    },
+    {
+        "id": 196,
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 2
+    },
+    {
+        "id": 197,
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    },
+    {
+        "id": 198,
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 1
+    },
+    {
+        "id": 201,
+        "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    },
+    {
+        "id": 202,
+        "premise": "Ang isang partikular na uri ng cognitive behavioral therapy (CBT) na maaaring gamutin ang OCD ay tinatawag na Exposure and Response Prevention (EX/RP).",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    }
+]

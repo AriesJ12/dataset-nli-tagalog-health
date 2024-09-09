@@ -11,11 +11,12 @@ def save_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-def combine_json_files(file1, file2, output_file):
-    data1 = load_json(file1)
-    data2 = load_json(file2)
+def combine_json_files(file_paths, output_file):
+    combined_data = []
 
-    combined_data = data1 + data2
+    for file_path in file_paths:
+        data = load_json(file_path)
+        combined_data.extend(data)
 
     # Remove duplicates (case insensitive)
     unique_pairs = {}
@@ -30,8 +31,12 @@ def combine_json_files(file1, file2, output_file):
     save_json(combined_unique_data, output_file)
 
 if __name__ == "__main__":
-    #CHANGE HERE
-    file1 = "rosgen-hypothesis-pair.json"
-    file2 = "prelim-week1-hypothesis-pair.json"
+    file_paths = [
+        "drex-hyp.json",
+        "rosgen-hypothesis-pair.json", 
+        "hypothesis-pair.json",
+        "max-hypothesis-pair.json",
+        "phoebe-hypothesis-pair.json",
+    ]  # Add as many files as needed
     output_file = "week1-hypothesis-pair.json"
-    combine_json_files(file1, file2, output_file)
+    combine_json_files(file_paths, output_file)

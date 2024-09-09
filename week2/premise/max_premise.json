@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 2
+    },
+    {
+        "id": 2,
+        "premise": "Ang mga sintomas ng gout ay kinabibilangan ng biglaang pananakit ng kasukasuan, pamamaga, at pamumula.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 3,
+        "premise": "Karaniwang apektado ang daliri ng paa, tuhod, at siko.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 4,
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 2
+    },
+    {
+        "id": 5,
+        "premise": "Ang paggamot sa gout ay maaaring kabilangan ng mga gamot upang mapababa ang uric acid at mapagaan ang sintomas.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 6,
+        "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 7,
+        "premise": "Ang regular na ehersisyo at sapat na tulog ay makakatulong sa pag-iwas sa gout.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 8,
+        "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 9,
+        "premise": "Isa itong mapanganib na kondisyon kung saan ang puso ay hindi nakatatanggap ng sapat na dami ng dugo.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 10,
+        "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 11,
+        "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 2
+    },
+    {
+        "id": 12,
+        "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 13,
+        "premise": "Kung tumigil ang paghinga ng pasyente, kailangang magsagawa ng cardio-pulmonary resuscitation (CPR) upang mabombahan muli ng dugo at oxygen ang puso.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 14,
+        "premise": "Pagkarating sa ospital, maaaring bigyan ang pasyente ng mga gamot upang matanggal ang mga nakabara sa ugat.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 15,
+        "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 16,
+        "premise": "Ang bawat tao ay maaaring makaranas ng iba’t ibang sintomas ng atake sa puso, tulad ng hirap sa paghinga, pagduduwal, at labis na pamamawis.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 17,
+        "premise": "Ang mga salik sa panganib ng atake sa puso ay kinabibilangan ng pagiging matanda, pagiging lalaki, at pagkakaroon ng kasaysayan ng kondisyon sa pamilya.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 18,
+        "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 2
+    },
+    {
+        "id": 19,
+        "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 20,
+        "premise": "Karaniwan itong tinatawag na 'kanser sa dugo' dahil sa paggawa ng bone marrow ng mga abnormal na uri ng white blood cell.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 21,
+        "premise": "Kapag lubhang dumami ang mga abnormal na white blood cell, maaapawan ng mga ito ang mga malulusog na blood cell.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 22,
+        "premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 23,
+        "premise": "Ang leukemia ay maaaring gamutin sa pamamagitan ng operasyon, chemotherapy, radiation, at stem cell transplant.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 2
+    },
+    {
+        "id": 24,
+        "premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL).",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 25,
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 26,
+        "premise": "Ang mga salik sa panganib ng leukemia ay kinabibilangan ng kasarian, edad, pagkakaroon nito sa pamilya, at pagkakalantad sa radiation at mga kemikal.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 27,
+        "premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 28,
+        "premise": "Karamihan sa impeksyon ng Zika virus ay walang sintomas, ngunit kapag mayroon, kasama ang mga ito ay mga pantal sa balat, lagnat, pamamaga at pamumula ng mata, pananakit ng kalamnan o kasukasuhan, at masamang pakiramdam sa katawan.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 1
+    },
+    {
+        "id": 29,
+        "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 30,
+        "premise": "Ang Zika virus ay pangunahing naikakalat sa tao sa pamamagitan ng kagat ng nahawaang lamok na Aedes, ngunit maaari ring maipasa sa pamamagitan ng pagtatalik at posibleng sa pagsasalin ng dugo o mula sa ina patungo sa sanggol.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 31,
+        "premise": "Walang gamot at bakuna para sa Zika virus; ang paggamot ay nakatuon sa pagpapaginhawa ng sintomas at pag-iwas sa sa pagkawala ng tubig sa katawan o dehydration",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 32,
+        "premise": "Ang West Nile virus (WNV) ay isang nakakahawang sakit na unang lumitaw sa Estados Unidos noong 1999.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 33,
+        "premise": "Ang mga taong nakakakuha ng West Nile virus ay karaniwang walang sintomas o banayad na sintomas tulad ng lagnat, pananakit ng ulo, at pantal sa balat.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 34,
+        "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 1
+    },
+    {
+        "id": 35,
+        "premise": "Ang mga matatandang tao at ang mga may mahinang immune system ay higit na nasa panganib para sa West Nile virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 36,
+        "premise": "Walang partikular na bakuna o paggamot para sa West Nile virus; ang pinakamainam na paraan upang maiwasan ito ay ang pag-iwas sa kagat ng lamok.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 37,
+        "premise": "Ang ulcerative colitis (UC) ay isang sakit na nagdudulot ng pamamaga at mga sugat, na tinatawag na ulcers, sa lining ng tumbong at colon.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 1
+    },
+    {
+        "id": 38,
+        "premise": "Ang ulcerative colitis ay kabilang sa grupo ng mga sakit na tinatawag na inflammatory bowel disease.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 39,
+        "premise": "Karaniwan ang ulcerative colitis na nagsisimula sa pagitan ng edad na 15 at 30 at may posibilidad na tumakbo sa mga pamilya.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 40,
+        "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 41,
+        "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 42,
+        "premise": "Ginagamit ng mga doktor ang mga pagsusuri sa dugo, pagsusuri sa dumi, colonoscopy o sigmoidoscopy, at mga pagsusuri sa imaging upang masuri ang ulcerative colitis.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 43,
+        "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 2
+    },
+    {
+        "id": 44,
+        "premise": "Ang trichomoniasis ay kumakalat mula sa tao patungo sa iba habang nakikipagtalik.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 45,
+        "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 1
+    },
+    {
+        "id": 46,
+        "premise": "Ang trichomoniasis ay maaaring magdulot ng dilaw-berde o kulay abong paglabas mula sa ari, kakulangan sa ginhawa habang nakikipagtalik, amoy ng ari, masakit na pag-ihi, at pangangati sa mga babae.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 1
+    },
+    {
+        "id": 47,
+        "premise": "Sa mga lalaki, ang trichomoniasis ay maaaring magdulot ng pangangati o pangangati sa loob ng ari, nasusunog na pakiramdam pagkatapos umihi o bulalas, at paglabas mula sa ari ng lalaki.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 48,
+        "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 49,
+        "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 50,
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 51,
+        "premise": "Karamihan sa mga tao na may Toxoplasmosis ay hindi nagkakasakit, ngunit ang parasito ay nagdudulot ng malubhang problema para sa mga taong may mahinang immune system at mga sanggol na ang mga ina ay nahawaan sa panahon ng pagbubuntis.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 52,
+        "premise": "Maaaring magdulot ang Toxoplasmosis ng pinsala sa utak, mata, at iba pang mga organo.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 53,
+        "premise": "Maaaring makuha ang Toxoplasmosis mula sa dumi ng isang nahawaang pusa, pagkain ng kontaminadong karne na hilaw o hindi maayos na luto, paggamit ng mga kagamitan o cutting board na kontaminado ng hilaw na karne, pag-inom ng nahawaang tubig, o pagtanggap ng infected organ transplant o blood transfusion.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 54,
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 1
+    },
+    {
+        "id": 55,
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasito na Toxoplasma gondii.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 56,
+        "premise": "Ang leukemia ay isang kanser ng mga selula ng dugo na nagsisimula sa mga tissue na bumubuo ng dugo tulad ng bone marrow.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 1
+    },
+    {
+        "id": 57,
+        "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 2
+    },
+    {
+        "id": 58,
+        "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 1
+    },
+    {
+        "id": 59,
+        "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 60,
+        "premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 61,
+        "premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 62,
+        "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 1
+    },
+    {
+        "id": 63,
+        "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 2
+    },
+    {
+        "id": 64,
+        "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 2
+    },
+    {
+        "id": 65,
+        "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat ng dengue at Zika virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 1
+    },
+    {
+        "id": 66,
+        "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 2
+    },
+    {
+        "id": 67,
+        "premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 1
+    },
+    {
+        "id": 68,
+        "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 2
+    },
+    {
+        "id": 69,
+        "premise": "Ang depresyon ay isang seryosong sakit na medikal na nasasangkot ang utak at higit pa sa pakiramdam ng pagkalumbay o pagkalungkot sa loob ng ilang araw.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 2
+    },
+    {
+        "id": 70,
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 1
+    },
+    {
+        "id": 71,
+        "premise": "Ang depresyon ay nagdudulot ng pangunahing pagbabago sa mood, pananaw, ambisyon, paglutas ng problema, antas ng aktibidad, at mga proseso ng katawan tulad ng pagtulog, enerhiya, at gana sa pagkain.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 2
+    },
+    {
+        "id": 72,
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 1
+    },
+    {
+        "id": 73,
+        "premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 74,
+        "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 1
+    },
+    {
+        "id": 75,
+        "premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 1
+    },
+    {
+        "id": 76,
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 1
+    },
+    {
+        "id": 77,
+        "premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 2
+    },
+    {
+        "id": 78,
+        "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/",
+        "counter": 0
+    },
+    {
+        "id": 79,
+        "premise": "Ang prostate cancer ay isang uri ng kanser na nagsisimula sa prostate, isang maliliit na lenticular na organo na matatagpuan sa ibaba ng baldeng at sa likod ng puwerta.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 80,
+        "premise": "Ang prostate cancer ay karaniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 81,
+        "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 82,
+        "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 83,
+        "premise": "Ang prostate cancer ay maaaring maagapan sa pamamagitan ng regular na pagsusuri, tulad ng digital rectal exam (DRE) at prostate-specific antigen (PSA) test.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 84,
+        "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 1
+    }
+]

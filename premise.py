@@ -1,6 +1,15 @@
 import json
 import os
 
+def get_user_name():
+    valid_names = ["max", "pb", "gen", "drex", "bru", "sha"]
+    while True:
+        name = input("Please enter your name: ").strip().lower()
+        if name in valid_names:
+            return name
+        else:
+            print("Invalid name. Please try again.")
+
 def main():
     # add your text here
     input_json = '''
@@ -16,14 +25,6 @@ def main():
     {"premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso."}
   ]
 }
-
-
-
-
-
-
-
-
     '''
 
     data = json.loads(input_json)
@@ -34,8 +35,14 @@ def main():
     # Prepare the list to store all premises
     output_data_list = []
 
-    output_file = "week1-final_premise.json"
+    # Get the user's name
+    user_name = get_user_name()
 
+    # Create the output file path
+    output_file = f"week2/premise/{user_name}_premise.json"
+
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
     # Check if the output file exists
     if os.path.exists(output_file):
