@@ -45,25 +45,25 @@
         "id": 8,
         "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 9,
         "premise": "Isa itong mapanganib na kondisyon kung saan ang puso ay hindi nakatatanggap ng sapat na dami ng dugo.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 10,
         "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 11,
         "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 12,
@@ -147,7 +147,7 @@
         "id": 25,
         "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 26,
@@ -171,13 +171,13 @@
         "id": 29,
         "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
         "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 30,
         "premise": "Ang Zika virus ay pangunahing naikakalat sa tao sa pamamagitan ng kagat ng nahawaang lamok na Aedes, ngunit maaari ring maipasa sa pamamagitan ng pagtatalik at posibleng sa pagsasalin ng dugo o mula sa ina patungo sa sanggol.",
         "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 31,
@@ -201,7 +201,7 @@
         "id": 34,
         "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 35,
@@ -237,13 +237,13 @@
         "id": 40,
         "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 41,
         "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 42,
@@ -285,7 +285,7 @@
         "id": 48,
         "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 49,
@@ -297,13 +297,13 @@
         "id": 50,
         "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 51,
         "premise": "Karamihan sa mga tao na may Toxoplasmosis ay hindi nagkakasakit, ngunit ang parasito ay nagdudulot ng malubhang problema para sa mga taong may mahinang immune system at mga sanggol na ang mga ina ay nahawaan sa panahon ng pagbubuntis.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 52,
@@ -321,7 +321,7 @@
         "id": 54,
         "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 55,
@@ -375,7 +375,7 @@
         "id": 63,
         "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 64,
@@ -417,7 +417,7 @@
         "id": 70,
         "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
         "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 71,
@@ -429,19 +429,19 @@
         "id": 72,
         "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
         "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 73,
         "premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 74,
         "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 75,
@@ -453,7 +453,7 @@
         "id": 76,
         "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 77,
@@ -465,7 +465,7 @@
         "id": 78,
         "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 79,
@@ -502,5 +502,143 @@
         "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
         "counter": 1
+    },
+    {
+        "id": 85,
+        "premise": "Ang syphilis ay isang bacterial na STI at naipapasa sa pamamagitan ng pagkikiskis ng mga balat.",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
+        "counter": 0
+    },
+    {
+        "id": 86,
+        "premise": "Naipapasa ang syphilis sa pamamagitan ng direktang ugnayan kapag nagsasagawa ng oral, vaginal o anal na pakikipagtalik sa isang taong may syphilis.",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
+        "counter": 0
+    },
+    {
+        "id": 87,
+        "premise": "Ang pagsusuri sa syphilis ay karaniwang sa pamamagitan ng swab mula sa sugat sa balat at sa pamamagitan ng mga pagsusuri sa balat.",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
+        "counter": 1
+    },
+    {
+        "id": 88,
+        "premise": "Ang syphilis ay nalulunasan gamit ang mga antibiotic, ngunit kapag hindi ipinagamot ay maaaring magdulot ng mga malalang problema sa utak, puso at mga mata.",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
+        "counter": 1
+    },
+    {
+        "id": 89,
+        "premise": "Ang mga sugat na dulot ng syphilis ay nagpapadali sa pagkuha o pagbibigay sa isang tao ng HIV sa panahon ng pakikipagtalik.",
+        "url": "https://www.chcrr.org/tl/health-topic/syphilis/",
+        "counter": 1
+    },
+    {
+        "id": 90,
+        "premise": "Ang varicella-zoster virus ay kumakalat sa hangin kapag ang isang taong may bulutong-tubig ay umuubo o bumabahing.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2024/01/Chickenpox_Fact_Sheet_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 91,
+        "premise": "Ang bulutong-tubig ay maaaring kumalat sa pamamagitan ng direktang kontak sa rash ng bulutong-tubig o shingles bago magkaroon ng langib.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2024/01/Chickenpox_Fact_Sheet_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 92,
+        "premise": "Ang karaniwang sipon ay isang banayad na impeksyon sa upper respiratory tract (na kinabibilangan ng ilong at lalamunan).",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 0
+    },
+    {
+        "id": 93,
+        "premise": "Mahigit sa 200 iba't ibang mga virus ang maaaring magdulot ng sipon, ngunit ang mga rhinovirus ay ang pinakakaraniwang uri.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 1
+    },
+    {
+        "id": 94,
+        "premise": "Ang mga virus na nagdudulot ng sipon ay lubhang nakakahawa at maaaring kumalat mula sa tao patungo sa iba sa pamamagitan ng hangin at malapiting pakikipag-ugnayan.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 0
+    },
+    {
+        "id": 95,
+        "premise": "Ang mga sintomas ng karaniwang sipon ay kinabibilangan ng: pagbabara ng ilong, sipon, namamagang lalamunan, at sakit ng ulo.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 1
+    },
+    {
+        "id": 96,
+        "premise": "Walang gamot para sa karaniwang sipon, ngunit may mga paggamot na makapagpapaginhawa sa mga sintomas tulad ng pagpapahinga ng marami, pag-inom ng maraming likido, at paggamit ng humidifier o cool mist vaporizer.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 0
+    },
+    {
+        "id": 97,
+        "premise": "Ang antibiotics ay hindi makakatulong sa sipon dahil ito ay sanhi ng viral infections, hindi bacterial infections.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 0
+    },
+    {
+        "id": 98,
+        "premise": "Ang sipon ay maaaring magdulot ng mga komplikasyon tulad ng brongkitis o pulmonya sa mga taong may mahinang immune system, hika, o ibang mga kondisyon sa paghinga.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 0
+    },
+    {
+        "id": 99,
+        "premise": "Walang bakuna upang maprotektahan laban sa karaniwang sipon, ngunit maaaring bawasan ang panganib sa pamamagitan ng paghuhugas ng kamay, pag-iwas sa malapit na pakikipag-ugnayan, at pagtakip ng ubo at pagbahin gamit ang tissue.",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
+        "counter": 1
+    },
+    {
+        "id": 100,
+        "premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 1
+    },
+    {
+        "id": 101,
+        "premise": "Ang COVID-19 ay labis na nakakahawa at maaaring magresulta sa pagkakasakit sa mga taong walang immunity mula sa pagbabakuna o kamakailang pagkakasakit.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
+    },
+    {
+        "id": 102,
+        "premise": "Ang mga matatanda at mga taong may malubhang karamdaman tulad ng sakit sa puso o baga, at diyabetis, ay nasa mas mataas na peligro para sa malalang COVID-19 na pagkakasakit.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
+    },
+    {
+        "id": 103,
+        "premise": "Kumakalat ang COVID-19 kapag ang taong nahawahan ay nagbubuga ng hininga na may kasamang droplet o maliliit na particle na naglalaman ng virus, na maaaring malanghap ng ibang tao.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
+    },
+    {
+        "id": 104,
+        "premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 1
+    },
+    {
+        "id": 105,
+        "premise": "Ang mga matatanda at may malubhang karamdaman ay may mas mataas na peligro na magkaroon ng malalang COVID-19, na maaaring magdulot ng hirap sa paghinga, pananakit ng dibdib, at pagkamatay.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
+    },
+    {
+        "id": 106,
+        "premise": "Dalawang klase ng viral test ang ginagamit para ma-diagnose ang COVID-19: molecular test (RT-PCR) at antigen test.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
+    },
+    {
+        "id": 107,
+        "premise": "Ang pagbabakuna ay isang mahalagang estratehiya para mapabagal ang pagkalat ng COVID-19, lalo na sa mga matatanda at mga may umiiral na kondisyong medikal.",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 0
     }
 ]

@@ -376,5 +376,221 @@
         "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
         "label": "contradiction",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang AIDS ay kondisyon na dulot ng malubhang pagkasira ng immune system ng katawan bunga ng impeksyon sa HIV.",
+        "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Ang epilepsy ay maaaring dulot ng pagkakaroon ng pinsala sa utak.",
+        "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang psoriasis ay hindi naikakalat sa ibang tao.",
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "label": "contradiction",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Natutukoy ang syphilis sa pamamagitan ng swab mula sa sugat sa balat at pagsusuri sa balat.",
+        "premise": "Ang pagsusuri sa syphilis ay karaniwang sa pamamagitan ng swab mula sa sugat sa balat at sa pamamagitan ng mga pagsusuri sa balat.",
+        "label": "entailment",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf"
+    },
+    {
+        "hypothesis": "Ang immune system ng karamihan sa mga tao ay sapat na upang makontrol ang Toxoplasmosis nang hindi nangangailangan ng medikal na interbensyon.",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang West Nile virus ay maaari magdulot ng encephalitis o meningitis.",
+        "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas."
+    },
+    {
+        "hypothesis": "Ang mga sintomas ng karaniwang sipon ay maaaring magdulot ng pagkapagod at masamang pakiramdam.",
+        "premise": "Ang mga sintomas ng karaniwang sipon ay kinabibilangan ng: pagbabara ng ilong, sipon, namamagang lalamunan, at sakit ng ulo.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Ang psoriasis ay sanhi ng mabagal na paglago ng mga skin cells na nagreresulta sa pamumuo ng mga plaka sa balat.",
+        "premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat.",
+        "label": "contradiction",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang genetic na pagbabago ay maaaring sanhi ng leukemia.",
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Isa lamang sa mga virus ang nagdudulot ng sipon, at ito ay ang rhinovirus.",
+        "premise": "Mahigit sa 200 iba't ibang mga virus ang maaaring magdulot ng sipon, ngunit ang mga rhinovirus ay ang pinakakaraniwang uri.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Ang SARS-CoV-2 ay ang sanhi ng COVID-19.",
+        "premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).",
+        "label": "neutral",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang atake sa puso ay isang malubhang sakit.",
+        "premise": "Isa itong mapanganib na kondisyon kung saan ang puso ay hindi nakatatanggap ng sapat na dami ng dugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Hindi epektibo ang antibiotic sa syphilis.",
+        "premise": "Ang syphilis ay nalulunasan gamit ang mga antibiotic, ngunit kapag hindi ipinagamot ay maaaring magdulot ng mga malalang problema sa utak, puso at mga mata.",
+        "label": "contradiction",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf"
+    },
+    {
+        "hypothesis": "Ang psychotherapy at pharmacotherapy ay ginagamit upang makatulong sa pamamahala at paggamot ng depresyon.",
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "label": "entailment",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Hindi naaapektuhan ng atake sa puso ang kalamnan ng puso.",
+        "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang psychotherapy at pharmacotherapy ay hindi mabisang  paraan para sa pamamahala at paggamot ng depresyon.",
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "label": "contradiction",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Ang stress ang pangunahing sanhi ng leukemia.",
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang mga taong may mahinang immune system at mga sanggol na ang mga ina ay nahawaan ng Toxoplasmosis ay maaaring magkaruon ng malubhang problema.",
+        "premise": "Karamihan sa mga tao na may Toxoplasmosis ay hindi nagkakasakit, ngunit ang parasito ay nagdudulot ng malubhang problema para sa mga taong may mahinang immune system at mga sanggol na ang mga ina ay nahawaan sa panahon ng pagbubuntis.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang atake sa puso ay  tinatawag din na hypertension.",
+        "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang sugat ng syphilis ay nagpapadali sa pagkuha o pagbibigay ng HIV.",
+        "premise": "Ang mga sugat na dulot ng syphilis ay nagpapadali sa pagkuha o pagbibigay sa isang tao ng HIV sa panahon ng pakikipagtalik.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/syphilis/"
+    },
+    {
+        "hypothesis": "Ang trichomoniasis ay may potensyal na magpataas ng panganib sa iba pang sexually transmitted infection (STI) na sakit.",
+        "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang AIDS ang pinakamatinding yugto ng HIV infection kung saan labis na nasira ang immune system ng katawan dahil sa HIV.",
+        "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Nakukuha ang bulutong-tubig sa pamamagitan ng direktang kontak sa rash.",
+        "premise": "Ang bulutong-tubig ay maaaring kumalat sa pamamagitan ng direktang kontak sa rash ng bulutong-tubig o shingles bago magkaroon ng langib.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2024/01/Chickenpox_Fact_Sheet_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Maaaring magdulot ang trichomoniasis ng mas mataas na panganib sa iba pang sexually transmitted infections (STIs) na sakit dahil sa pamamaga o sugat sa genital area.",
+        "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang psoriasis ay nagdudulot ng makakapal, tuyo, at pulang patse-patse sa balat.",
+        "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
+        "label": "neutral",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang atake sa puso ay sanhi ng pagbara sa mga ugat ng puso na pumipigil sa pagdaloy ng dugo.",
+        "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang depresyon ay mawawala rin sa paglipas ng panahon.",
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "label": "contradiction",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Ang ulcerative colitis ay hindi lamang nagdudulot ng mga sintomas sa tiyan.",
+        "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang pag-alam sa mga sintomas ng COVID-19 ay mahalaga para sa tamang pag-diagnose at paggamot ng sakit.",
+        "premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa.",
+        "label": "neutral",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Karaniwang naipapasa ang Zika virus sa pamamagitan ng kagat ng lamok na Aedes, ngunit maaari ring maipasa sa pamamagitan ng pagtatalik, dugo, o mula sa ina sa sanggol.",
+        "premise": "Ang Zika virus ay pangunahing naikakalat sa tao sa pamamagitan ng kagat ng nahawaang lamok na Aedes, ngunit maaari ring maipasa sa pamamagitan ng pagtatalik at posibleng sa pagsasalin ng dugo o mula sa ina patungo sa sanggol.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1"
+    },
+    {
+        "hypothesis": "Ang Zika virus ay hindi nakakaapekto sa mga sanggol sa sinapupunan.",
+        "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1"
+    },
+    {
+        "hypothesis": "Ang Toxoplasma gondii ay isang parasito na maaaring makuha mula sa kontaminadong pagkain o dumi ng hayop, at ito ang sanhi ng Toxoplasmosis.",
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Walang bakuna para sa karaniwang sipon dahil ito ay sanhi ng iba't ibang uri ng virus.",
+        "premise": "Walang bakuna upang maprotektahan laban sa karaniwang sipon, ngunit maaaring bawasan ang panganib sa pamamagitan ng paghuhugas ng kamay, pag-iwas sa malapit na pakikipag-ugnayan, at pagtakip ng ubo at pagbahin gamit ang tissue.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Pinapataas ng trichomoniasis ang panganib ng iba pang sexually transmitted infection (STI) na sakit.",
+        "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang ulcerative colitis ay isang kondisyon na dulot ng pamamaga at pagbuo ng ulcers sa lining ng colon at rectum.",
+        "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang psoriasis ay hindi isang impeksyon.",
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "label": "neutral",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
     }
 ]
