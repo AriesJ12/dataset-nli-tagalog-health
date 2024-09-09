@@ -1,5 +1,6 @@
 import json
 import os
+import glob
 
 def get_user_name():
     valid_names = ["max", "pb", "gen", "drex", "bru", "sha"]
@@ -10,21 +11,23 @@ def get_user_name():
         else:
             print("Invalid name. Please try again.")
 
+def load_all_premises(folder_paths):
+    all_premises = []
+    for folder_path in folder_paths:
+        for file_path in glob.glob(os.path.join(folder_path, "*_premise.json")):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                all_premises.extend(json.load(f))
+    return all_premises
+
 def main():
-    # add your text here
+    # Corrected JSON string
     input_json = '''
-{
-  "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-  "premises": [
-    {"premise": "Ang Tetanus ay isang malubhang sakit na dulot ng Clostridium bacteria."},
-    {"premise": "Ang bakterya na sanhi ng tetanus ay nabubuhay sa lupa, laway, alikabok, at dumi."},
-    {"premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso."},
-    {"premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga."},
-    {"premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital."},
-    {"premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata."},
-    {"premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso."}
-  ]
-}
+    {
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "premises": [
+            {"premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna."}
+        ]
+    }
     '''
 
     data = json.loads(input_json)
@@ -38,15 +41,23 @@ def main():
     # Get the user's name
     user_name = get_user_name()
 
+    # List of folder paths to check for uniqueness
+    folder_paths = ["week1/premise", "week2/premise", "week3/premise"]  # Add more folders as needed
+
     # Create the output file path
-    output_file = f"week2/premise/{user_name}_premise.json"
+    output_file = f"week2/premise/{user_name}_premise.json" # Change the folder every week
 
     # Ensure the directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-    # Check if the output file exists
+    # Load all existing premises from the folders
+    all_premises = load_all_premises(folder_paths)
+
+    # Extract existing premises for duplicate checking (case insensitive)
+    existing_premises = {item["premise"].lower() for item in all_premises}
+
+    # Check if the output file exists and load existing data
     if os.path.exists(output_file):
-        # Load existing data
         with open(output_file, 'r', encoding='utf-8') as f:
             output_data_list = json.load(f)
         # Determine the next ID
@@ -54,9 +65,6 @@ def main():
     else:
         # Initialize ID counter
         id_counter = 1
-
-    # Extract existing premises for duplicate checking (case insensitive)
-    existing_premises = {item["premise"].lower() for item in output_data_list}
 
     for premise in premises:
         premise_text = premise.get("premise", "")
