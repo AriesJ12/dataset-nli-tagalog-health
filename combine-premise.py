@@ -11,12 +11,18 @@ def save_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-def combine_json_files(file_paths, output_file):
+def combine_and_move_json_files(file_paths, output_file):
     combined_data = []
 
     for file_path in file_paths:
         data = load_json(file_path)
-        combined_data.extend(data)
+        filtered_data = [item for item in data if item["counter"] < 3]
+        remaining_data = [item for item in data if item["counter"] >= 3]
+
+        # Save the remaining data back to the original file
+        save_json(remaining_data, file_path)
+
+        combined_data.extend(filtered_data)
 
     # Remove duplicates (case insensitive) and keep the one with the higher counter
     unique_premises = {}
@@ -37,6 +43,8 @@ def combine_json_files(file_paths, output_file):
     save_json(combined_unique_data, output_file)
 
 if __name__ == "__main__":
-    file_paths = ["week2/premise/bru_premise.json", "week2/premise/max_premise.json", "week2/premise/drex_premise.json"]  # Add as many files as needed
-    output_file = "final_premise.json"
-    combine_json_files(file_paths, output_file)
+    week = "week1"
+    filenames = ["aries_premise.json", "max_premise.json", "gen_premise.json", "pb_premise.json"]  # Add as many files as needed
+    file_paths = [f"{week}/premise/{filename}" for filename in filenames]
+    output_file = f"{week}/unfinished_premise.json"
+    combine_and_move_json_files(file_paths, output_file)

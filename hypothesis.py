@@ -15,7 +15,7 @@ def main():
     # Get the user's name
     user_name = get_user_name()
 
-    # Create the output file paths
+    # Create the output file paths -- change every week
     output_file = f"week2/premise/{user_name}_premise.json"
     hypothesis_file = f"week2/hypothesis/{user_name}_hypothesis-pair.json"
     amount_done = 0
