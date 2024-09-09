@@ -22,12 +22,19 @@ def load_all_premises(folder_paths):
 def main():
     # Corrected JSON string
     input_json = '''
-    {
-        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "premises": [
-            {"premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna."}
-        ]
-    }
+{
+  "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
+  "premises": [
+    {"premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow."},
+    {"premise": "Ang talamak na lymphocytic leukemia (ALL) ay ang pinakakaraniwang uri ng kanser sa mga bata ngunit maaari rin itong makaapekto sa mga matatanda."},
+    {"premise": "Ang talamak na myeloid leukemia (AML) ay mas karaniwan sa mga matatanda ngunit maaari ring makaapekto sa mga bata."},
+    {"premise": "Ang talamak na lymphocytic leukemia (CLL) ay isa sa mga pinakakaraniwang uri ng leukemia sa mga matatanda at madalas nangyayari sa panahon o pagkatapos ng gitnang edad."},
+    {"premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad."},
+    {"premise": "Ang leukemia ay maaaring magdulot ng mga sintomas tulad ng pagkapagod, lagnat, madaling pagkakaroon ng pasa, pagbawas ng timbang, at petechiae."},
+    {"premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, mga pagsusuri sa utak ng buto, at mga pagsusuri sa genetika."},
+    {"premise": "Ang mga paggamot para sa leukemia ay kinabibilangan ng kimoterapya, therapy radiation, chemotherapy na may stem cell transplant, at naka-target na therapy."}
+  ]
+}
     '''
 
     data = json.loads(input_json)
