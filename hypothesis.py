@@ -3,7 +3,7 @@ import os
 import random
 
 def get_user_name():
-    valid_names = ["max", "pb", "rosgen", "drex", "bruce", "shania"]
+    valid_names = ["max", "pb", "gen", "drex", "bru", "sha"]
     while True:
         name = input("Please enter your name: ").strip().lower()
         if name in valid_names:
