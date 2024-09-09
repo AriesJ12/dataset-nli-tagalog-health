@@ -21,7 +21,7 @@
         "id": 33,
         "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 34,
@@ -45,7 +45,7 @@
         "id": 37,
         "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 142,
@@ -93,7 +93,7 @@
         "id": 155,
         "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 159,
@@ -105,7 +105,7 @@
         "id": 160,
         "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 161,
@@ -123,7 +123,7 @@
         "id": 164,
         "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 166,
@@ -139,7 +139,7 @@
     },
     {
         "id": 168,
-        "premise": "Marami ang maaaring mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "premise": "Ang mga sanggol na may banayad na sintomas ng pertussis ay maaari pa rin na mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
         "counter": 1
     },
@@ -165,7 +165,7 @@
         "id": 173,
         "premise": "Mahalagang gamutin ang pertussis nang maaga.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 174,
@@ -261,13 +261,13 @@
         "id": 189,
         "premise": "Ang mga pasyenteng nagdurusa sa epilepsy ay pinagbabawalang magkaroon ng lisensya sa pagmamaneho sa Hong Kong.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 190,
         "premise": "Ang ibang gamot kontra epilepsy ay maaaring makagambala sa ibang gamot at magdulot ng masamang epekto.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 191,
@@ -291,25 +291,25 @@
         "id": 194,
         "premise": "Ang gamot para sa epilepsy ay kinakailangang nakatago sa tuyo at malamig na lugar.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 195,
         "premise": "Ang Alzheimer's disease (AD) ay ang pinakakaraniwang anyo ng demensya sa mga matatandang tao.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 196,
         "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 197,
         "premise": "Ang Alzheimer's disease ay unang kinasasangkutan ng mga bahagi ng utak na kumokontrol sa pag-iisip, memorya, at wika.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 198,
@@ -327,7 +327,7 @@
         "id": 200,
         "premise": "Sa paglipas ng panahon, lumalala ang mga sintomas ng Alzheimer's disease, at maaaring hindi makilala ng mga tao ang mga miyembro ng pamilya.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 201,
@@ -357,7 +357,7 @@
         "id": 205,
         "premise": "Ang panganib ng Alzheimer's disease ay mas mataas kung ang isang miyembro ng pamilya ay nagkaroon ng sakit.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 206,
@@ -391,15 +391,15 @@
     },
     {
         "id": 211,
-        "premise": "Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "premise": "Para maiwasan ang athlete's foot, Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 212,
         "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 213,
@@ -411,7 +411,7 @@
         "id": 214,
         "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 215,
@@ -471,7 +471,7 @@
         "id": 224,
         "premise": "Ang mga African American ay mas malamang na magkaroon ng sakit sa puso o heart disease kaysa sa mga puti, habang ang mga Hispanic American ay mas malamang na magkaroon nito.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 225,
@@ -483,7 +483,7 @@
         "id": 226,
         "premise": "Mas malaki ang panganib ng sakit sa puso o heart disease kung mayroon kang malapit na miyembro ng pamilya na nagkaroon ng sakit sa puso sa murang edad.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 227,
@@ -507,13 +507,13 @@
         "id": 230,
         "premise": "Ang pagiging sobra sa timbang o may labis na katabaan ay maaaring tumaas ang panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 231,
         "premise": "Ang pag-eehersisyo ay maaaring makatulong sa pagpapalakas ng puso, pagpapabuti ng sirkulasyon, at pagpapababa ng panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 232,
@@ -561,7 +561,7 @@
         "id": 239,
         "premise": "Ang HIV, kung walang paggamot, ay maaaring humantong sa AIDS, ang huling yugto ng impeksyon sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 240,
@@ -603,7 +603,7 @@
         "id": 246,
         "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 247,
@@ -627,7 +627,7 @@
         "id": 250,
         "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 251,

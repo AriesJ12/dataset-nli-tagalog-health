@@ -1,0 +1,266 @@
+[
+    {
+        "hypothesis": "Walang kinalaman ang pagkakaroon ng athlete's foot sa Maaring maglakad ng walang tsinelas o sapin sa paa kung ikaw ay gagamit ng shower sa pampublikong lugar.",
+        "premise": "Para maiwasan ang athlete's foot, huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang sakit sa puso o heart disease ay mapanganib kung ang malapit na  miyembro ng pamilya ay mayroong sakit sa puso.",
+        "premise": "Mas malaki ang panganib ng sakit sa puso o heart disease kung mayroon kang malapit na miyembro ng pamilya na nagkaroon ng sakit sa puso sa murang edad.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang sobrang timbang ay dahil sa sobrang pagkain ng matatamis.",
+        "premise": "Ang pagiging sobra sa timbang o may labis na katabaan ay maaaring tumaas ang panganib ng sakit sa puso o heart disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Maaring maglakad ng walang tsinelas o sapin sa paa kung ikaw ay gagamit ng shower sa pampublikong lugar.",
+        "premise": "Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang Epilepsy ay may sintomas ng pagkawala nang malay.",
+        "premise": "Ang Epilepsy, kilala din bilang seizure disorder, ay isang sakit na sanhi ng abnormal na aktibidad ng mga cells ng utak.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga matatanda ay lapitin ng sakit.",
+        "premise": "Ang mga lalaking edad 45 at mas matanda at mga babaeng edad 55 at mas matanda ay may mas malaking panganib ng sakit sa puso o heart disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang taong may  Mild Cognitive Impairement (MCI) ay may posibilidad na magkaroon ng Alzheimer's disease.",
+        "premise": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mas maraming problema sa memorya kaysa sa karaniwan para sa mga taong kapareho ng edad, at marami sa mga taong may MCI ay magkakaroon ng Alzheimer's disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Dapat uminom ng mga gamot ang taong may HIV.",
+        "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang rubella ay mabilis makahawa.",
+        "premise": "Ang rubella ay pinakamapanganib para sa sanggol ng isang buntis at maaaring magdulot ng pagkakuha o mga depekto sa panganganak.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang tetanus booster shot ay hindi na mahalaga.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang hiwa o paso ay dapat agad gamutin.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang rubella ay madalas kumalat sa mga bata.",
+        "premise": "Ang mga taong walang sintomas ay maaari pa ring kumalat ng rubella.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang may Taxoplamosis ay hindi nangangailangan ng paggamot.",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang dementia ay sakit sa utak na hindi nakakahadlang sa isang tao.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Maaring lumala ang athlete's foot sa pag-swimming ng matagal.",
+        "premise": "Maaari kang makakuha ng athlete's foot mula sa mamasa-masa na ibabaw, tulad ng mga shower, swimming pool, at mga sahig ng locker room.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Hindi konektado ang sleep apnea sa paglala ng sakit sa puso o heart disease.",
+        "premise": "Ang sleep apnea, kung hindi magagamot, ay maaaring magpataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang rubella ay kumakalat sa pamamagitan ng ubo o bahing ng may impeksyon.",
+        "premise": "Kumakalat ang rubella kapag umuubo o bumahing ang isang taong may impeksyon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang blood pressure ay walang kinalaman sa sakit ng puso o heart disease.",
+        "premise": "Ang altapresyon o blood pressure ay isang pangunahing kadahilanan ng panganib para sa sakit sa puso o heart disease, kaya't mahalagang regular na suriin ito.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang bakterya ay mabilis kumalat.",
+        "premise": "Ang bakterya na sanhi ng tetanus ay nabubuhay sa lupa, laway, alikabok, at dumi.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang tetanus booster ay kailangan ng taong nasa husto na ang gulang.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang mga gamot sa HIV ay may side effect.",
+        "premise": "Ang mga gamot sa HIV ay maaaring magdulot ng mga side effect, at mahalagang ipagbigay-alam ang mga ito sa iyong tagapagbigay ng pangangalagang pangkalusugan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Hindi totoo na nasa lahi ang pagkakaroon ng Alzheimer's disease.",
+        "premise": "Ang panganib ng Alzheimer's disease ay mas mataas kung ang isang miyembro ng pamilya ay nagkaroon ng sakit.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay lumalala kung hindi aagapan.",
+        "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang tetanus ay lumalala kung hindi aagapan.",
+        "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Isang impeksyon na dahil sa virus ang rubella.",
+        "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang Alzheimer's disease (AD) ay sakit sa utak.",
+        "premise": "Ang Alzheimer's disease (AD) ay ang pinakakaraniwang anyo ng demensya sa mga matatandang tao.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Isa sa sanhi ng heart disease o sakit sa puso ang sobra sa timbang.",
+        "premise": "Ang pagiging sobra sa timbang o may labis na katabaan ay maaaring tumaas ang panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang dementia ay nakakaapekto sa pang araw-araw na gawin ng tao.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang labis na pag-iisip ay sanhi ng Alzheimer's disease.",
+        "premise": "Ang Alzheimer's disease ay unang kinasasangkutan ng mga bahagi ng utak na kumokontrol sa pag-iisip, memorya, at wika.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Wag na bigyan ng lunas ang pertussis.",
+        "premise": "Mahalagang gamutin ang pertussis nang maaga.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi maaring magmaneho sa Hong Kong ang taong may epilepsy.",
+        "premise": "Ang mga pasyenteng nagdurusa sa epilepsy ay pinagbabawalang magkaroon ng lisensya sa pagmamaneho sa Hong Kong.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Maraming epekto ang tigdas sa buntis.",
+        "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang mga American ay lapitin ng ibat-ibang uri ng sakit.",
+        "premise": "Ang mga African American ay mas malamang na magkaroon ng sakit sa puso o heart disease kaysa sa mga puti, habang ang mga Hispanic American ay mas malamang na magkaroon nito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang mga matanda ay sadyang makakalimutin na.",
+        "premise": "Ang Alzheimer's disease (AD) ay ang pinakakaraniwang anyo ng demensya sa mga matatandang tao.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Marami pang mas epektibong paraan sa paglunas ng tigdas maliban sa bakuna. ",
+        "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pag-eehersisyo ay nakakatulong sa mga may sakit sa puso o heart disease.",
+        "premise": "Ang pag-eehersisyo ay maaaring makatulong sa pagpapalakas ng puso, pagpapabuti ng sirkulasyon, at pagpapababa ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang sakit sa puso ay hindi seryosong sakit.",
+        "premise": "Mas malaki ang panganib ng sakit sa puso o heart disease kung mayroon kang malapit na miyembro ng pamilya na nagkaroon ng sakit sa puso sa murang edad.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang mga gamot sa epilepsy ay hindi maaring mainitan.",
+        "premise": "Ang gamot para sa epilepsy ay kinakailangang nakatago sa tuyo at malamig na lugar.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang leukemia ay nagsisimula sa utak.",
+        "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang ubo ay mahirap pigilan kaya nararapat itong malunasan agad.",
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao na may pertussis ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang tetanus booster shot ay dapat magpakuha tuwing 2 taon.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang taong may Alzheimer's disease ay lumalala.",
+        "premise": "Sa paglipas ng panahon, lumalala ang mga sintomas ng Alzheimer's disease, at maaaring hindi makilala ng mga tao ang mga miyembro ng pamilya.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang athlete's foot ay nakukuha sa palaging pagsuot ng flip-flops o tsinelas.",
+        "premise": "Para maiwasan ang athlete's foot, Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang antifungal cream para sa athlete's foot ay masakit sa balat.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    }
+]
