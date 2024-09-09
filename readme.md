@@ -1,3 +1,12 @@
+# your name choices
+max - maxine
+pb - phoebe
+gen - rosgen
+drex - drexler
+bru - bruce
+sha - shania
+
+
 # how to get premises
 1. Find a tagalog article regarding a diseases
 2. Go to gpt and paste this(replace the article and url)

@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "premise": "Karamihan sa impeksyon ng Zika virus ay walang sintomas, ngunit kapag mayroon, kasama ang mga ito ay mga pantal sa balat, lagnat, pamamaga at pamumula ng mata, pananakit ng kalamnan o kasukasuhan, at masamang pakiramdam sa katawan.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 1
+    },
+    {
+        "id": 2,
+        "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 3,
+        "premise": "Ang Zika virus ay pangunahing naikakalat sa tao sa pamamagitan ng kagat ng nahawaang lamok na Aedes, ngunit maaari ring maipasa sa pamamagitan ng pagtatalik at posibleng sa pagsasalin ng dugo o mula sa ina patungo sa sanggol.",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 4,
+        "premise": "Walang gamot at bakuna para sa Zika virus; ang paggamot ay nakatuon sa pagpapaginhawa ng sintomas at pag-iwas sa sa pagkawala ng tubig sa katawan o dehydration",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
+        "counter": 0
+    },
+    {
+        "id": 5,
+        "premise": "Ang West Nile virus (WNV) ay isang nakakahawang sakit na unang lumitaw sa Estados Unidos noong 1999.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 6,
+        "premise": "Ang mga taong nakakakuha ng West Nile virus ay karaniwang walang sintomas o banayad na sintomas tulad ng lagnat, pananakit ng ulo, at pantal sa balat.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 7,
+        "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 1
+    },
+    {
+        "id": 8,
+        "premise": "Ang mga matatandang tao at ang mga may mahinang immune system ay higit na nasa panganib para sa West Nile virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 9,
+        "premise": "Walang partikular na bakuna o paggamot para sa West Nile virus; ang pinakamainam na paraan upang maiwasan ito ay ang pag-iwas sa kagat ng lamok.",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
+        "counter": 0
+    },
+    {
+        "id": 10,
+        "premise": "Ang ulcerative colitis (UC) ay isang sakit na nagdudulot ng pamamaga at mga sugat, na tinatawag na ulcers, sa lining ng tumbong at colon.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 1
+    },
+    {
+        "id": 11,
+        "premise": "Ang ulcerative colitis ay kabilang sa grupo ng mga sakit na tinatawag na inflammatory bowel disease.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 12,
+        "premise": "Karaniwan ang ulcerative colitis na nagsisimula sa pagitan ng edad na 15 at 30 at may posibilidad na tumakbo sa mga pamilya.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 13,
+        "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 14,
+        "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 15,
+        "premise": "Ginagamit ng mga doktor ang mga pagsusuri sa dugo, pagsusuri sa dumi, colonoscopy o sigmoidoscopy, at mga pagsusuri sa imaging upang masuri ang ulcerative colitis.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 0
+    },
+    {
+        "id": 16,
+        "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
+        "counter": 2
+    },
+    {
+        "id": 17,
+        "premise": "Ang trichomoniasis ay kumakalat mula sa tao patungo sa iba habang nakikipagtalik.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 18,
+        "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 1
+    },
+    {
+        "id": 19,
+        "premise": "Ang trichomoniasis ay maaaring magdulot ng dilaw-berde o kulay abong paglabas mula sa ari, kakulangan sa ginhawa habang nakikipagtalik, amoy ng ari, masakit na pag-ihi, at pangangati sa mga babae.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 1
+    },
+    {
+        "id": 20,
+        "premise": "Sa mga lalaki, ang trichomoniasis ay maaaring magdulot ng pangangati o pangangati sa loob ng ari, nasusunog na pakiramdam pagkatapos umihi o bulalas, at paglabas mula sa ari ng lalaki.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 21,
+        "premise": "Maaaring mapataas ng trichomoniasis ang panganib ng pagkuha o pagkalat ng iba pang mga sakit na nakukuha sa pakikipagtalik.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 22,
+        "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
+        "counter": 0
+    },
+    {
+        "id": 23,
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 24,
+        "premise": "Karamihan sa mga tao na may Toxoplasmosis ay hindi nagkakasakit, ngunit ang parasito ay nagdudulot ng malubhang problema para sa mga taong may mahinang immune system at mga sanggol na ang mga ina ay nahawaan sa panahon ng pagbubuntis.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 25,
+        "premise": "Maaaring magdulot ang Toxoplasmosis ng pinsala sa utak, mata, at iba pang mga organo.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 26,
+        "premise": "Maaaring makuha ang Toxoplasmosis mula sa dumi ng isang nahawaang pusa, pagkain ng kontaminadong karne na hilaw o hindi maayos na luto, paggamit ng mga kagamitan o cutting board na kontaminado ng hilaw na karne, pag-inom ng nahawaang tubig, o pagtanggap ng infected organ transplant o blood transfusion.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 27,
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 1
+    },
+    {
+        "id": 28,
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasito na Toxoplasma gondii.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    },
+    {
+        "id": 29,
+        "premise": "Maaaring magdulot ang Toxoplasmosis ng pinsala sa utak, mata, at iba pang mga organo.",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
+        "counter": 0
+    }
+]
