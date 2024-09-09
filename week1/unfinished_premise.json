@@ -1,0 +1,776 @@
+[
+    {
+        "id": 1,
+        "premise": "Ang tuberkulosis, sakit sa tuyo, MTB, o TB o tuberculosis sa Ingles ay isang nakamamatay na nakakahawang sakit.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 2
+    },
+    {
+        "id": 2,
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 2
+    },
+    {
+        "id": 3,
+        "premise": "Ang tuberkulosis ay karaniwang umaatake sa mga baga, ngunit maaari ring makaapekto sa ibang mga bahagi ng katawan.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 1
+    },
+    {
+        "id": 4,
+        "premise": "Ang tuberkulosis ay naikakalat sa pamamagitan ng hangin kapag ang mga taong may aktibong impeksiyon ng TB ay umuubo, bumabahin, o dinadala ang kanilang laway sa hangin.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 2
+    },
+    {
+        "id": 5,
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 2
+    },
+    {
+        "id": 6,
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 1
+    },
+    {
+        "id": 7,
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
+        "counter": 2
+    },
+    {
+        "id": 8,
+        "premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo.",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 2
+    },
+    {
+        "id": 9,
+        "premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat.",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 2
+    },
+    {
+        "id": 10,
+        "premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat.",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 2
+    },
+    {
+        "id": 11,
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 0
+    },
+    {
+        "id": 12,
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "counter": 1
+    },
+    {
+        "id": 13,
+        "premise": "May iba't ibang uri ng kanser sa suso tulad ng ductal carcinoma, lobular carcinoma, at iba oa.",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 14,
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 2
+    },
+    {
+        "id": 15,
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/",
+        "counter": 2
+    },
+    {
+        "id": 16,
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    },
+    {
+        "id": 17,
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 1
+    },
+    {
+        "id": 18,
+        "premise": "Ang mga kadahilanan ng panganib para sa OCD ay kinabibilangan ng kasaysayan ng pamilya, istraktura at paggana ng utak, trauma sa pagkabata, at impeksyon sa streptococcal.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    },
+    {
+        "id": 19,
+        "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 1
+    },
+    {
+        "id": 20,
+        "premise": "Ang isang partikular na uri ng cognitive behavioral therapy (CBT) na maaaring gamutin ang OCD ay tinatawag na Exposure and Response Prevention (EX/RP).",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 2
+    },
+    {
+        "id": 21,
+        "premise": "Ang leukemia ay isang kanser ng mga selula ng dugo na nagsisimula sa mga tissue na bumubuo ng dugo tulad ng bone marrow.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 1
+    },
+    {
+        "id": 22,
+        "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 2
+    },
+    {
+        "id": 23,
+        "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 1
+    },
+    {
+        "id": 24,
+        "premise": "Ang mga paggamot para sa leukemia ay maaaring kabilang ang kimoterapya, therapy radiation, chemotherapy na may pag-transplant ng stem cell, at naka-target na therapy.",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
+        "counter": 1
+    },
+    {
+        "id": 25,
+        "premise": "Ang HIV (Human Immunodeficiency Virus) ay isang napakaliit na mikrobyo na hindi nakikita ng mata.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 26,
+        "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 1
+    },
+    {
+        "id": 27,
+        "premise": "Karamihan sa mga taong may HIV ay hindi nagkakasakit mula sa virus nang 5–10 taon, ngunit sa kalaunan ay hindi na nila kayang labanan ang karaniwang mga impeksyon.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 28,
+        "premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 29,
+        "premise": "Ang mga taong may AIDS ay may huminang immune system at maaaring magkaruon ng mga bihirang impeksyon o kanser.",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
+        "counter": 2
+    },
+    {
+        "id": 30,
+        "premise": "Ang epilepsy ay isang sakit sa utak na nagiging sanhi ng mga tao na magkaroon ng paulit-ulit na seizures.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 2
+    },
+    {
+        "id": 31,
+        "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 0
+    },
+    {
+        "id": 32,
+        "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 0
+    },
+    {
+        "id": 33,
+        "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
+        "counter": 0
+    },
+    {
+        "id": 34,
+        "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat ng dengue at Zika virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 0
+    },
+    {
+        "id": 35,
+        "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 1
+    },
+    {
+        "id": 36,
+        "premise": "Ang mga taong nasa panganib para sa mas malubhang sakit mula sa Chikungunya ay kinabibilangan ng mga bagong silang, matatanda, at mga taong may mga sakit gaya ng altapresyon, diabetes, o sakit sa puso.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 1
+    },
+    {
+        "id": 37,
+        "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 1
+    },
+    {
+        "id": 38,
+        "premise": "Walang bakuna o gamot para sa Chikungunya, ngunit maaaring makatulong ang pag-inom ng maraming likido, pagpapahinga, at pag-inom ng mga non-aspirin pain reliever.",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
+        "counter": 2
+    },
+    {
+        "id": 39,
+        "premise": "Ang depresyon ay isang seryosong sakit na medikal na nasasangkot ang utak at higit pa sa pakiramdam ng pagkalumbay o pagkalungkot sa loob ng ilang araw.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 1
+    },
+    {
+        "id": 40,
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 0
+    },
+    {
+        "id": 41,
+        "premise": "Ang depresyon ay nagdudulot ng pangunahing pagbabago sa mood, pananaw, ambisyon, paglutas ng problema, antas ng aktibidad, at mga proseso ng katawan tulad ng pagtulog, enerhiya, at gana sa pagkain.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 2
+    },
+    {
+        "id": 42,
+        "premise": "Ang depresyon ay magagamot gamit ang psychotherapy, pharmacotherapy (antidepressants), o kombinasyon ng dalawa.",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
+        "counter": 0
+    },
+    {
+        "id": 43,
+        "premise": "Ang Psoriasis ay isang sakit kung saan mabilis na mabuo ang mga cells sa ibabaw ng balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 44,
+        "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 45,
+        "premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 46,
+        "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 47,
+        "premise": "Ang mga bagay na maaaring makapagpalala ng psoriasis ay ang impeksyon, pinsala sa balat, stress, malamig na panahon at paninigarilyo.",
+        "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
+        "counter": 0
+    },
+    {
+        "id": 48,
+        "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/",
+        "counter": 0
+    },
+    {
+        "id": 49,
+        "premise": "Ang prostate cancer ay isang uri ng kanser na nagsisimula sa prostate, isang maliliit na lenticular na organo na matatagpuan sa ibaba ng baldeng at sa likod ng puwerta.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 50,
+        "premise": "Ang prostate cancer ay karaniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 51,
+        "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 52,
+        "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 53,
+        "premise": "Ang prostate cancer ay maaaring maagapan sa pamamagitan ng regular na pagsusuri, tulad ng digital rectal exam (DRE) at prostate-specific antigen (PSA) test.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 54,
+        "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 55,
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 56,
+        "premise": "Ang mga sintomas ng gout ay kinabibilangan ng biglaang pananakit ng kasukasuan, pamamaga, at pamumula.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 0
+    },
+    {
+        "id": 57,
+        "premise": "Karaniwang apektado ang daliri ng paa, tuhod, at siko.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 0
+    },
+    {
+        "id": 58,
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 2
+    },
+    {
+        "id": 59,
+        "premise": "Ang paggamot sa gout ay maaaring kabilangan ng mga gamot upang mapababa ang uric acid at mapagaan ang sintomas.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 0
+    },
+    {
+        "id": 60,
+        "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 61,
+        "premise": "Ang regular na ehersisyo at sapat na tulog ay makakatulong sa pag-iwas sa gout.",
+        "url": "https://mediko.ph/karamdaman/gout/",
+        "counter": 1
+    },
+    {
+        "id": 62,
+        "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 63,
+        "premise": "Isa itong mapanganib na kondisyon kung saan ang puso ay hindi nakatatanggap ng sapat na dami ng dugo.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 64,
+        "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 65,
+        "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 66,
+        "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 67,
+        "premise": "Mahalagang dalhin agad ang pasyente sa ospital kung siya ay inaatake sa puso.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 68,
+        "premise": "Kung tumigil ang paghinga ng pasyente, kailangang magsagawa ng cardio-pulmonary resuscitation (CPR) upang mabombahan muli ng dugo at oxygen ang puso.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 69,
+        "premise": "Pagkarating sa ospital, maaaring bigyan ang pasyente ng mga gamot upang matanggal ang mga nakabara sa ugat.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 1
+    },
+    {
+        "id": 70,
+        "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 71,
+        "premise": "Ang bawat tao ay maaaring makaranas ng iba’t ibang sintomas ng atake sa puso, tulad ng hirap sa paghinga, pagduduwal, at labis na pamamawis.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 72,
+        "premise": "Ang mga salik sa panganib ng atake sa puso ay kinabibilangan ng pagiging matanda, pagiging lalaki, at pagkakaroon ng kasaysayan ng kondisyon sa pamilya.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 73,
+        "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
+        "counter": 0
+    },
+    {
+        "id": 74,
+        "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 75,
+        "premise": "Karaniwan itong tinatawag na 'kanser sa dugo' dahil sa paggawa ng bone marrow ng mga abnormal na uri ng white blood cell.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 76,
+        "premise": "Kapag lubhang dumami ang mga abnormal na white blood cell, maaapawan ng mga ito ang mga malulusog na blood cell.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 77,
+        "premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 78,
+        "premise": "Ang leukemia ay maaaring gamutin sa pamamagitan ng operasyon, chemotherapy, radiation, at stem cell transplant.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 79,
+        "premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL).",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 80,
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 81,
+        "premise": "Ang mga salik sa panganib ng leukemia ay kinabibilangan ng kasarian, edad, pagkakaroon nito sa pamilya, at pagkakalantad sa radiation at mga kemikal.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 82,
+        "premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 0
+    },
+    {
+        "id": 83,
+        "premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia.",
+        "url": "https://mediko.ph/karamdaman/leukemia/",
+        "counter": 1
+    },
+    {
+        "id": 84,
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 85,
+        "premise": "Karamihan sa mga taong magkakaroon ng impeksyon ay makararanas ng hindi malalang sintomas at gagaling, ngunit ang iba ay makararanas ng malubhang sakit, lalo na sa mga matatanda at mga may dati nang karamdaman.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 0
+    },
+    {
+        "id": 86,
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 87,
+        "premise": "Iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 88,
+        "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
+        "counter": 2
+    },
+    {
+        "id": 89,
+        "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 90,
+        "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng lagnat, ubo, sipon, mapupulang mata, at puting mantsa sa loob ng bibig.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 91,
+        "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 92,
+        "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 93,
+        "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 94,
+        "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 95,
+        "premise": "Ang bakuna laban sa tigdas ay ang pinakaepektibong hakbang upang maiwasan ang sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 96,
+        "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 97,
+        "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 98,
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 99,
+        "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 100,
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 101,
+        "premise": "Marami ang maaaring mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 102,
+        "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 103,
+        "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 104,
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 105,
+        "premise": "Mahalagang gamutin ang pertussis nang maaga.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 106,
+        "premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 107,
+        "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 108,
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 109,
+        "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 110,
+        "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 111,
+        "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 112,
+        "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 113,
+        "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 114,
+        "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 115,
+        "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 116,
+        "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 117,
+        "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 118,
+        "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 119,
+        "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 120,
+        "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 121,
+        "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 122,
+        "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 123,
+        "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 124,
+        "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 125,
+        "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 126,
+        "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    },
+    {
+        "id": 127,
+        "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 0
+    },
+    {
+        "id": 128,
+        "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 1
+    },
+    {
+        "id": 129,
+        "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
+        "counter": 2
+    }
+]

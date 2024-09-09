@@ -43,8 +43,8 @@ def combine_and_move_json_files(file_paths, output_file):
     save_json(combined_unique_data, output_file)
 
 if __name__ == "__main__":
-    week = "week2"
-    filenames = ["bru_premise.json", "max_premise.json", "drex_premise.json"]  # Add as many files as needed
+    week = "week1"
+    filenames = ["aries_premise.json", "max_premise.json", "gen_premise.json", "pb_premise.json"]  # Add as many files as needed
     file_paths = [f"{week}/premise/{filename}" for filename in filenames]
     output_file = f"{week}/unfinished_premise.json"
     combine_and_move_json_files(file_paths, output_file)
