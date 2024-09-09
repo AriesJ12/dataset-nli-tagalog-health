@@ -783,7 +783,7 @@
         "id": 131,
         "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 132,
@@ -807,7 +807,7 @@
         "id": 135,
         "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
         "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 136,
@@ -837,7 +837,7 @@
         "id": 140,
         "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
         "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 141,
@@ -873,13 +873,13 @@
         "id": 146,
         "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 147,
         "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 148,
@@ -891,13 +891,13 @@
         "id": 149,
         "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 150,
         "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 151,
@@ -915,7 +915,7 @@
         "id": 153,
         "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 154,
@@ -927,13 +927,13 @@
         "id": 155,
         "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 156,
         "premise": "Ang regular na ehersisyo at sapat na tulog ay makakatulong sa pag-iwas sa gout.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 157,
@@ -951,19 +951,19 @@
         "id": 159,
         "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 160,
         "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 161,
         "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 162,
@@ -981,7 +981,7 @@
         "id": 164,
         "premise": "Pagkarating sa ospital, maaaring bigyan ang pasyente ng mga gamot upang matanggal ang mga nakabara sa ugat.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 165,
@@ -999,19 +999,19 @@
         "id": 167,
         "premise": "Ang mga salik sa panganib ng atake sa puso ay kinabibilangan ng pagiging matanda, pagiging lalaki, at pagkakaroon ng kasaysayan ng kondisyon sa pamilya.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 168,
         "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 169,
         "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 170,
@@ -1047,7 +1047,7 @@
         "id": 175,
         "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 176,

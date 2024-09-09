@@ -2614,5 +2614,125 @@
         "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
         "label": "entailment",
         "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang sintomas tulad ng pagdurogo sa ihi ay hindi lamang sa prostate cancer ito nakukuha",
+        "premise": "Ang ibang sintomas ay maaaring kabilangan ng pananakit ng bato, sakit sa baba ng tiyan, at pagdurugo sa ihi.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng malubhang stress ay maaring palalain nito ang acne",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang chemotherapy isa sa paraan upang humilom mula sa prostate cancer",
+        "premise": "Ang paggamot sa prostate cancer ay maaaring kabilangan ng surgery, radiation therapy, hormone therapy, at chemotherapy, depende sa stage ng kanser at kalagayan ng pasyente.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Hindi nakakatulong sa pagbaba ng uric acid ang pag-iwas sa alak",
+        "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Bigyan ng agarang gamot ang pasyente kapag may nakabarang ugat",
+        "premise": "Pagkarating sa ospital, maaaring bigyan ang pasyente ng mga gamot upang matanggal ang mga nakabara sa ugat.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Hindi ang pag-inom ng alak ang nagdudulot ng atake sa puso",
+        "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang pagtaas uric acid ay nagmumula sa mga pagkaing mataas sa purine",
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Kapag ang ugat ay nabarahan maaring atakihin sa puso ang isang tao",
+        "premise": "Karaniwang inaatake sa puso ang isang tao kapag ang kanyang mga ugat o artery ay nabarahan ng namuong dugo o taba.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng leukemia ay maaring nasa dugo o lahi",
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng leukemia ay nakakaapekto ito sa dugo",
+        "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Hindi unti-unting napipinsala ang puso kapag ito'y naapektuhan ng anong kondisyon",
+        "premise": "Ang mga kalamnan ng puso ay unti-unting napipinsala at namamatay kapag naapektuhan ng kondisyong ito.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang tuberkulosis ay hindi nagmula sa mycobacteria",
+        "premise": "Ang sakit na ito ay dulot ng mga sari-saring strain ng mycobacteria, na karaniwan ay Mycobacterium na tuberkulosis.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi nakakatulong sa pag-iwas ang pagtigil sa paninigarilyo",
+        "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Nakakatulong ang ehersisyo",
+        "premise": "Ang regular na ehersisyo at sapat na tulog ay makakatulong sa pag-iwas sa gout.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang pagtanda ng tao ay mas mataas ang tyansa na atakihin sa puso",
+        "premise": "Ang mga salik sa panganib ng atake sa puso ay kinabibilangan ng pagiging matanda, pagiging lalaki, at pagkakaroon ng kasaysayan ng kondisyon sa pamilya.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang panganib ng tubkerkulosis ay mababa kumapara noong wala itong gamot",
+        "premise": "Halos isa sa sampung hindi aktibong impeksiyon ng tuberkulosis sa kalaunan ay magiging aktibong sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Wala pang ganap na kaalaman tungkol sa tiyak na sanhi na leukemia",
+        "premise": "Wala pang tiyak na sanhi ang leukemia, ngunit ang mga genetic at pangkapaligirang salik ay maaaring magdulot nito.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon gout ay pagkakaroon ng arthritis ",
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang madalas ng pag-ihi tuwing gabi ay maaring sintomas din ng prostate cancer",
+        "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng alak ay hindi nakakataas ng uric acid",
+        "premise": "Mahalaga ring iwasan ang mga pagkain at inumin na nagdudulot ng pagtaas ng uric acid, tulad ng alak.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
     }
 ]
