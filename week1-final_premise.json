@@ -39,7 +39,7 @@
         "id": 7,
         "premise": "Kung ang West Nile virus ay pumasok sa utak, maaari itong maging sanhi ng pamamaga ng utak (encephalitis) o pamamaga ng tissue na pumapalibot sa utak at spinal cord (mininghitis).",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 8,
@@ -57,7 +57,7 @@
         "id": 10,
         "premise": "Ang ulcerative colitis (UC) ay isang sakit na nagdudulot ng pamamaga at mga sugat, na tinatawag na ulcers, sa lining ng tumbong at colon.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "id": 16,
         "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 17,
@@ -105,7 +105,7 @@
         "id": 18,
         "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 19,
@@ -159,7 +159,7 @@
         "id": 27,
         "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 28,
@@ -177,7 +177,7 @@
         "id": 30,
         "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 31,
@@ -213,7 +213,7 @@
         "id": 36,
         "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 37,
@@ -1155,7 +1155,7 @@
         "id": 156,
         "premise": "Ang tigdas ay maaaring maipasa sa pamamagitan ng hangin at direktang pagdikit sa mga sekresyon mula sa ilong o lalamunan ng mga taong may impeksiyon.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 157,
@@ -1191,7 +1191,7 @@
         "id": 162,
         "premise": "Ang pertussis ay maaaring magdulot ng malubhang sakit, na humahantong sa pagkakaospital at maging sa pagkamatay, lalo na sa mga sanggol na wala pang 6 na buwan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 163,
@@ -1677,7 +1677,7 @@
         "id": 219,
         "premise": "Ang epilepsy ay maraming posibleng dahilan, kabilang ang karamdaman, pinsala sa utak, at abnormal na pag-unlad ng utak.",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 220,
@@ -1689,7 +1689,7 @@
         "id": 221,
         "premise": "Ang Chikungunya ay isang virus na kumakalat ng parehong mga uri ng lamok na kumakalat ng dengue at Zika virus.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 222,
@@ -1755,19 +1755,19 @@
         "id": 232,
         "premise": "Ang psoriasis ay bumubuo at kumakapal ang balat na parang kaliskis, tuyong patse-patse, kulay pula at makati.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 233,
         "premise": "Ang mga kaliskis ng psoriasis ay gaya ng makakapal na balakubak at sumisingaw sa ibang parte ng iyong katawan tulad ng tuhod, siko, tadyang at anit.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 234,
         "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 235,
@@ -1803,7 +1803,7 @@
         "id": 240,
         "premise": "Ang mga sintomas ng prostate cancer ay maaaring kabilangan ng problema sa pag-ihi, tulad ng paghina ng stream ng ihi, pag-ihi nang madalas, at pag-ihi sa gabi.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 241,
@@ -1899,7 +1899,7 @@
         "id": 256,
         "premise": "Mahalagang dalhin agad ang pasyente sa ospital kung siya ay inaatake sa puso.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 257,
@@ -1917,7 +1917,7 @@
         "id": 259,
         "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 260,
@@ -1935,7 +1935,7 @@
         "id": 262,
         "premise": "Upang maiwasan ang atake sa puso, itigil ang paninigarilyo at labis na pag-inom ng alak, at mag-ehersisyo araw-araw.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 263,
@@ -1965,7 +1965,7 @@
         "id": 267,
         "premise": "Ang leukemia ay maaaring gamutin sa pamamagitan ng operasyon, chemotherapy, radiation, at stem cell transplant.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 268,
@@ -1995,6 +1995,6 @@
         "id": 272,
         "premise": "Ang pagbabago sa pamumuhay at pag-iwas sa ilang uri ng pagkain ay makatutulong upang maiwasan ang leukemia.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 2
+        "counter": 3
     }
 ]
