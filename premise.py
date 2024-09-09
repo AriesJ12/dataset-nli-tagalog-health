@@ -1,5 +1,6 @@
 import json
 import os
+import glob
 
 def get_user_name():
     valid_names = ["max", "pb", "gen", "drex", "bru", "sha"]
@@ -10,19 +11,23 @@ def get_user_name():
         else:
             print("Invalid name. Please try again.")
 
+def load_all_premises(folder_paths):
+    all_premises = []
+    for folder_path in folder_paths:
+        for file_path in glob.glob(os.path.join(folder_path, "*_premise.json")):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                all_premises.extend(json.load(f))
+    return all_premises
+
 def main():
-    # add your text here
+    # Corrected JSON string
     input_json = '''
     {
-  "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-  "premises": [
-    {"premise": "Ang acne ay isang kondisyon ng balat kung saan nagbabara ang pores sa katawan dahil sa sobrang langis o sebo."},
-    {"premise": "Kapag barado ang pores, maaaring lumitaw ang mga itim na tuldok, puting butlig, mamula-mulang butlig, at tigyawat."},
-    {"premise": "Ang acne vulgaris ay ang pinakakaraniwang klase ng acne na nakikita sa mukha, dibdib, likod, at balikat."},
-    {"premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain."},
-    {"premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama."}
-  ]
-}
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
+        "premises": [
+            {"premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna."}
+        ]
+    }
     '''
 
     data = json.loads(input_json)
@@ -36,15 +41,23 @@ def main():
     # Get the user's name
     user_name = get_user_name()
 
+    # List of folder paths to check for uniqueness
+    folder_paths = ["week1/premise", "week2/premise", "week3/premise"]  # Add more folders as needed
+
     # Create the output file path
-    output_file = f"week2/premise/{user_name}_premise.json"
+    output_file = f"week2/premise/{user_name}_premise.json" # Change the folder every week
 
     # Ensure the directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-    # Check if the output file exists
+    # Load all existing premises from the folders
+    all_premises = load_all_premises(folder_paths)
+
+    # Extract existing premises for duplicate checking (case insensitive)
+    existing_premises = {item["premise"].lower() for item in all_premises}
+
+    # Check if the output file exists and load existing data
     if os.path.exists(output_file):
-        # Load existing data
         with open(output_file, 'r', encoding='utf-8') as f:
             output_data_list = json.load(f)
         # Determine the next ID
@@ -52,9 +65,6 @@ def main():
     else:
         # Initialize ID counter
         id_counter = 1
-
-    # Extract existing premises for duplicate checking (case insensitive)
-    existing_premises = {item["premise"].lower() for item in output_data_list}
 
     for premise in premises:
         premise_text = premise.get("premise", "")
