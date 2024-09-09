@@ -37,6 +37,6 @@ def combine_json_files(file_paths, output_file):
     save_json(combined_unique_data, output_file)
 
 if __name__ == "__main__":
-    file_paths = ["output.json", "max-premises.json", "phoebe-premises.json", "rosgen-premises.json"]  # Add as many files as needed
+    file_paths = ["week2/premise/bru_premise.json", "week2/premise/max_premise.json", "week2/premise/drex_premise.json"]  # Add as many files as needed
     output_file = "final_premise.json"
     combine_json_files(file_paths, output_file)
