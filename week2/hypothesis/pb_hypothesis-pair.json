@@ -138,8 +138,8 @@
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
     },
     {
-        "hypothesis": "Ang tetanus ay lumalala kung hindi aagapan.",
-        "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
+        "hypothesis": "Ang chronic myeloid leukemia (CML) ay madalas lumalabas sa mga taong nasa hustong edad na. .",
+        "premise": "Ang chronic myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
         "label": "entailment",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
     },
@@ -262,5 +262,1541 @@
         "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
         "label": "neutral",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay kinakailangan hugasan upang hindi lumala.",
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang gamot kontra epilepsy ay maaring magdulot ng kamatayan.",
+        "premise": "Ang ibang gamot kontra epilepsy ay maaaring makagambala sa ibang gamot at magdulot ng masamang epekto.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Kung may masama o malalang hiwa o paso ay nararapat magpa tetanus booster.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Obserbahan muna at huwag tumawag sa ospital o health center kung mayroon kang sintomas ng Covid",
+        "premise": "Kung ikaw ay may sintomas ng covid tulad ng lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang taong may epilepsy ay hindi na normal ang buhay.",
+        "premise": "Ang regular na pag-inom ng gamot ay maaaring makapigil sa epileptic seizures upang ang pasyente ay magkaroon ng normal na pamumuhay.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Uminom ng gamot kontra epilepsy para ma kontrol ito.",
+        "premise": "Ang gamot kontra epilepsy ay gamot upang makontrol ang pag-atake.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng alak ay nakakatulong sa mga taong may problema sa buhay.",
+        "premise": "Ang pag-inom ng labis na alak ay maaaring magpataas ng presyon ng dugo at magdagdag ng timbang, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Kung ang isa sa pamilya mo ay may Alzheimer's disease, hindi na magkakaroon ang iba pang miyembro ng pamilya.",
+        "premise": "Ang panganib ng Alzheimer's disease ay mas mataas kung ang isang miyembro ng pamilya ay nagkaroon ng sakit.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang mga pasyente na may epilepsy ay nararapat uminom ng gamot sa tamang oras.",
+        "premise": "Ang pasyente ay kinakailangang uminom ng niresetang gamot sa eksaktong agwat upang mapanatili ang pagkontrol at mabawasan ang pagbalik ng epilepsy.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang tigdas ay pumapasok sa loob ng utak na nagsasanhi ng pagkabaliw.",
+        "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang rubella sa mga buntis ay hindi nakakaapekto sa kanilang anak sa sinapupunan.",
+        "premise": "Ang rubella ay pinakamapanganib para sa sanggol ng isang buntis at maaaring magdulot ng pagkakuha o mga depekto sa panganganak.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang mga gamot para sa HIV ay nakakatulong upang mawala ang sakit.",
+        "premise": "Ang mga gamot sa HIV ay maaaring magdulot ng mga side effect, at mahalagang ipagbigay-alam ang mga ito sa iyong tagapagbigay ng pangangalagang pangkalusugan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Wala sa edad at kasarian ang pagkakaroon ng sakit sa puso o heart disease.",
+        "premise": "Ang mga lalaking edad 45 at mas matanda at mga babaeng edad 55 at mas matanda ay may mas malaking panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Kung walang gamot para sa tigdas ay maaring magpareseta ng ibang gamotpara bawasan ang sintomas na dulot ng bakterya.",
+        "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang acute lymphocytic leukemia (ALL) ay uri ng kanser na mahirap labanan at gamutin.",
+        "premise": "Ang acute lymphocytic leukemia (ALL) ay ang pinakakaraniwang uri ng kanser sa mga bata ngunit maaari rin itong makaapekto sa mga matatanda.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mga problema sa memorya.",
+        "premise": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mas maraming problema sa memorya kaysa sa karaniwan para sa mga taong kapareho ng edad, at marami sa mga taong may MCI ay magkakaroon ng Alzheimer's disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang pananakit ng tiyan ng mga pasyenteng may epilepsy ay dahil sa paginom ng gamot nang walang laman ang sikmura.",
+        "premise": "Ang ibang pasyente ay maaaring dumanas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga may epilepsy ay kinukulong sa HongKong. ",
+        "premise": "Ang mga pasyenteng nagdurusa sa epilepsy ay pinagbabawalang magkaroon ng lisensya sa pagmamaneho sa Hong Kong.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Maaring magkaroon ng sinat at panghihina ng katawan ang may rubella.",
+        "premise": "Ang rubella ay maaaring magdulot ng pantal, sinat, masakit na mga kasukasuan, at namamaga ng mga glandula.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay nararapat na bigyan ng medikal na pansin.",
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang tetanus ay may masamang epekto at nararapat na ipagamot sa ospital.",
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang sakit sa puso o heart disease ay maaring lumala sa pag-eehersisyo..",
+        "premise": "Ang pag-eehersisyo ay maaaring makatulong sa pagpapalakas ng puso, pagpapabuti ng sirkulasyon, at pagpapababa ng panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang mga lalaking matanda lamang ang may malaking posibilidad na magkaroon ng sakit sa puso o heart disease.",
+        "premise": "Ang mga lalaking edad 45 at mas matanda at mga babaeng edad 55 at mas matanda ay may mas malaking panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang pantal sa balat lamang ang sintomas na mararanasan sa pagkakaroon ng rubella.",
+        "premise": "Ang rubella ay maaaring magdulot ng pantal, sinat, masakit na mga kasukasuan, at namamaga ng mga glandula.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Hindi na kailangan ng medikal na atensyon sa mga taong may sintomas ng covid.",
+        "premise": "Kung ikaw ay may sintomas ng covid tulad ng lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang slep anea ay hindi na kailangan gamutin.",
+        "premise": "Ang sleep apnea, kung hindi magagamot, ay maaaring magpataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang pertussis ay mabilis kumalat sa mga pampublikong lugar.",
+        "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna sa mga bata ay mahalaga upang makaiwas sa mga uri ng sakit.",
+        "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang gamot para sa HIV ay hindi epektikbo upang malabanan ang mga impeksyon.",
+        "premise": "Ang mga gamot sa HIV ay nagpapababa ng dami ng HIV sa katawan at nagbibigay ng pagkakataon sa immune system na gumaling at labanan ang mga impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang pag-atake ng epilepsy ay pagkawala ng malay.",
+        "premise": "Ang gamot kontra epilepsy ay gamot upang makontrol ang pag-atake.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Maraming uri ng epilepsy, ngunit iisa lamang ang uri ng  gamot para dito.",
+        "premise": "Ang iba’t ibang uri ng epilepsy ay nangangailangan ng iba’t ibang gamot kontra epilepsy.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang heart disease o sakit sa puso ay maaring nasa katandaan.",
+        "premise": "Ang panganib ng sakit sa puso o heart disease ay tumataas habang ikaw ay tumatanda.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang pagkalat ng rubella ay dahil sa hangin.",
+        "premise": "Ang mga taong walang sintomas ay maaari pa ring kumalat ng rubella.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang Chronic lymphocytic leukemia (CLL) ay pinakamalalang sakit na hindi na kayang lunasan.",
+        "premise": "Ang talamak na lymphocytic leukemia (CLL) ay isa sa mga pinakakaraniwang uri ng leukemia sa mga matatanda at madalas nangyayari sa panahon o pagkatapos ng gitnang edad.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang taong may epilepsy sa HongKong ay hindi maaring magmaneho dahil samga maaring panganib para sakanila.",
+        "premise": "Ang mga pasyenteng nagdurusa sa epilepsy ay pinagbabawalang magkaroon ng lisensya sa pagmamaneho sa Hong Kong.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Hindi hadlang ang pag trabaho sa mga taong may epilepsy.",
+        "premise": "Ang ibang trabaho at mga aktibidad sa palakasan ay maaaring magdulot ng peligro sa pasyente kung saan ang epilepsy ay hindi maayos na nakokontrol.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Kung hindi epektibo ang gamot sa epilepsy ay wag na lamang uminom.",
+        "premise": "Ang hindi epektibong pagkontrol sa epilepsy ay isang tanda upang kumuha ng medikal na atensyon.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng sakit sa puso o heart disease ay maaring dahil sa pamilya o genes.",
+        "premise": "Mas malaki ang panganib ng sakit sa puso o heart disease kung mayroon kang malapit na miyembro ng pamilya na nagkaroon ng sakit sa puso sa murang edad.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang pag-eehersisyo ng may mga sakit sa puso o heart disease ay nakakapagod at maaring magdulot ng atake.",
+        "premise": "Ang pag-eehersisyo ay maaaring makatulong sa pagpapalakas ng puso, pagpapabuti ng sirkulasyon, at pagpapababa ng panganib ng sakit sa puso o heart disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang Akzheimer's disease ay hindi nakukuha sa genes.",
+        "premise": "Ang panganib ng Alzheimer's disease ay mas mataas kung ang isang miyembro ng pamilya ay nagkaroon ng sakit.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng alak ay may masamang epekto sa katawan at maaring makaapekto sa may mga sakit sa puso o heart disease.",
+        "premise": "Ang pag-inom ng labis na alak ay maaaring magpataas ng presyon ng dugo at magdagdag ng timbang, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Walang dapat ipangamba ang mga taong may sleep apnea.",
+        "premise": "Ang sleep apnea, kung hindi magagamot, ay maaaring magpataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Anh gamot kontra epilepsy ay hindi nagdudulot ng masamang epekto.",
+        "premise": "Ang ibang gamot kontra epilepsy ay maaaring makagambala sa ibang gamot at magdulot ng masamang epekto.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong nalantad sa mga may HIV ay nararapat magpunta sa ospital upang magpatingin.",
+        "premise": "Ang PrEP (pre-exposure prophylaxis) ay para sa mga taong wala pang HIV ngunit nasa napakataas na panganib na makakuha nito. Ang PEP (post-exposure prophylaxis) ay para sa mga taong posibleng nalantad sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang pinakakaraniwang uri ng leukemia ay ang tinatawag na chronic lymphoctic leukemia (CLL). ",
+        "premise": "Ang talamak na lymphocytic leukemia (CLL) ay isa sa mga pinakakaraniwang uri ng leukemia sa mga matatanda at madalas nangyayari sa panahon o pagkatapos ng gitnang edad.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang mga sanggol na may pertussis ay hindi makakaranas ng problema sa paghinga.",
+        "premise": "Ang mga sanggol na may banayad na sintomas ng pertussis ay maaari pa rin na mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "May mga gamot para sa mga buntis ang  taong may Toxoplasmosis. ",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Dapat uminom ng gamot ang  taong may taxoplasmosis kahit malakas ang immune system nito.",
+        "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang tetanus ay simpleng sakit lamang.",
+        "premise": "Ang Tetanus ay isang malubhang sakit na dulot ng Clostridium bacteria.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Hindi kumakalat ang rubella kung ikaw ay walang sintomas nito.",
+        "premise": "Ang mga taong walang sintomas ay maaari pa ring kumalat ng rubella.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang leukemia ay nasusuri sa ibat-ibang paraan.",
+        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, bone marrow test, at genetic testing.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang chronic myeloid leukemia (CML) ay hindi nararanasan ng mga nasa hustong gulang.",
+        "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pagsusuri ng leukemia ay nasa pamamagitan lamang ng pagsusuri sa dugo.",
+        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, bone marrow test, at genetic testing.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang Alzheimer's disease ay bagong sakit.",
+        "premise": "Ang Alzheimer's disease (AD) ay ang pinakakaraniwang anyo ng demensya sa mga matatandang tao.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay maaring pumasok sa mata, ilong o tainga.",
+        "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang impeksyon na athlete's food ay hindi na malulunasan kaya dapat alamin kung ano ang nararapat na iwasan upang hindi magkaroon nito.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Kahit na ang regular na pag-inom ng gamot para sa epilepsy ay hindi solusyon upang magkaroon ng normal na buhay ang mga ito.",
+        "premise": "Ang regular na pag-inom ng gamot ay maaaring makapigil sa epileptic seizures upang ang pasyente ay magkaroon ng normal na pamumuhay.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Hindi na kayang laban ang impeksyon na HIV. ",
+        "premise": "Ang mga gamot sa HIV ay nagpapababa ng dami ng HIV sa katawan at nagbibigay ng pagkakataon sa immune system na gumaling at labanan ang mga impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang sakit sa puso o heart disease ay epekto ng pagkain ng matamis.",
+        "premise": "Ang pagkakaroon ng diabetes ay doble ang panganib ng sakit sa puso o heart disease dahil ang mataas na blood sugar ay maaaring makapinsala sa mga daluyan ng dugo at ugat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang acute lymphocytic leukemia (ALL) ay uri ng kanser na nararansan lamang ng mga bata.",
+        "premise": "Ang talamak na lymphocytic leukemia (ALL) ay ang pinakakaraniwang uri ng kanser sa mga bata ngunit maaari rin itong makaapekto sa mga matatanda.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang edad 60 pataas ay mas malaking posibilidad na magkaroon ng Covid -19.",
+        "premise": "Upang maiwasan ang Covid-19, iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Walang ibang lunas sa pertussis kundi ang bakuna.",
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit na pertussis.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang paginom ng gamot para sa HIV ay mahalaga lalo na sa mga buntis, may AID o impeksyon na nauugnay sa HIV.",
+        "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Mababawasan ang pagsumpong ng epilepsy kung regular ang paginom ng gamot.",
+        "premise": "Ang pasyente ay kinakailangang uminom ng niresetang gamot sa eksaktong agwat upang mapanatili ang pagkontrol at mabawasan ang pagbalik ng epilepsy.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Nakokontrol ang epilepsy.",
+        "premise": "Ang gamot kontra epilepsy ay gamot upang makontrol ang pag-atake.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga impeksyon ay dapat agad na pinapagamot upang hindi kumalat.",
+        "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang dementia ay sakit na mahirap kaharapin. ",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Kung hindi gagamutin ang Alzheimer's disease ay magreresulta ito ng stress sa sarili.",
+        "premise": "Sa paglipas ng panahon, lumalala ang mga sintomas ng Alzheimer's disease, at maaaring hindi makilala ng mga tao ang mga miyembro ng pamilya.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Nagsisimula ang Alzheimer's disease sa pagtanda.",
+        "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Mahirap makahanap ng gamot para sa athlete's foot.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang dementia ay nakakahawa.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Mababawasan ang pagsumpong ng epilepsy kung regular ang paginom ng gamot.",
+        "premise": "Ang pasyente ay kinakailangang uminom ng niresetang gamot sa eksaktong agwat upang mapanatili ang pagkontrol at mabawasan ang pagbalik ng epilepsy.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Nakokontrol ang epilepsy.",
+        "premise": "Ang gamot kontra epilepsy ay gamot upang makontrol ang pag-atake.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga impeksyon ay dapat agad na pinapagamot upang hindi kumalat.",
+        "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang dementia ay sakit na mahirap kaharapin. ",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Kung hindi gagamutin ang Alzheimer's disease ay magreresulta ito ng stress sa sarili.",
+        "premise": "Sa paglipas ng panahon, lumalala ang mga sintomas ng Alzheimer's disease, at maaaring hindi makilala ng mga tao ang mga miyembro ng pamilya.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Nagsisimula ang Alzheimer's disease sa pagtanda.",
+        "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Mahirap makahanap ng gamot para sa athlete's foot.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang dementia ay nakakahawa.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang rubella ay walang sintomas.",
+        "premise": "Ang rubella ay maaaring magdulot ng pantal, sinat, masakit na mga kasukasuan, at namamaga ng mga glandula.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang sapat na tulog ay nakakabuti sa taong may sakit sa puso o heart disease.",
+        "premise": "Ang kakulangan ng sapat na tulog ay nagpapataas ng panganib ng mataas na presyon ng dugo, labis na katabaan, at diabetes, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang leukemia ay sakit na nakakahawa.",
+        "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Mahirap suriin kung ang tao ay may leukemia.",
+        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, bone marrow test, at genetic testing.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pag-aalaga sa paa ay nakakaalis o nakakaiwas sa pagkakaroon ng kalyo.",
+        "premise": "Para maiwasan ang athlete's foot, panatilihing malinis, tuyo, at malamig ang iyong mga paa, at magsuot ng malinis na medyas.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang mataas na kolesterol ay maaring maging bunga ng atake sa puso. ",
+        "premise": "Ang mataas na antas ng kolesterol ay maaaring makabara sa mga arterya at mapataas ang panganib ng sakit sa coronary artery at atake sa puso .",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay agapan gamutin sa bahay.",
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang leukemia ay hindi kanser.",
+        "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Kung ikaw ay may posibilidad na magkaroon ng HIV, mag pa check up o magpatingin sa doktor.",
+        "premise": "Ang PrEP (pre-exposure prophylaxis) ay para sa mga taong wala pang HIV ngunit nasa napakataas na panganib na makakuha nito. Ang PEP (post-exposure prophylaxis) ay para sa mga taong posibleng nalantad sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Hindi makakaranas ng kahit anong epekto sa paginom ng gamot sa epilepsy.",
+        "premise": "Ang ibang pasyente ay maaaring dumanas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkawala ng malay ay hindi dahil sa epilepsy.",
+        "premise": "Sa pagsisimula ng epilepsy, mayroong panginginig ng kalamnan sa buong katawan at panandaliang pagkawala ng malay.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Uminom ng tubig kung hirap huminga.",
+        "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Normal lang ang pagkakaroon ng sakit sa puso o heart disease.",
+        "premise": "Ang panganib ng sakit sa puso o heart disease ay tumataas habang ikaw ay tumatanda.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang gamot sa HIV ay hindi nakakatulong at nakakapagpalala lamang ng sakit.",
+        "premise": "Ang mga gamot sa HIV ay nagpapababa ng dami ng HIV sa katawan at nagbibigay ng pagkakataon sa immune system na gumaling at labanan ang mga impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng heart disease o sakit sa puso ay hindi normal para sa mga matatanda.",
+        "premise": "Ang panganib ng sakit sa puso o heart disease ay tumataas habang ikaw ay tumatanda.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang banayad na sintomas ng pertussis ay agad na nawawala.",
+        "premise": "Ang mga sanggol na may banayad na sintomas ng pertussis ay maaari pa rin na mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang estrogen ay walang koneksyon sa pagkakaroon ng sakit sa puso o heart disease.",
+        "premise": "Ang estrogen ay nagbibigay ng ilang proteksyon sa mga kababaihan laban sa sakit sa puso o heart disease, ngunit ang diabetes ay nagpapataas ng panganib ng sakit sa puso o heart disease nang higit sa mga babae kaysa sa mga lalaki.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang gamot sa alzheimer ay mahirap kunin o  hanapin. ",
+        "premise": "Walang paggamot ang makakapigil sa Alzheimer's disease, ngunit ang ilang gamot ay maaaring makatulong na maiwasang lumala ang mga sintomas sa loob ng limitadong panahon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang paninigarilyo ay walang epekto sa presyon ng dugo at atake sa puso.",
+        "premise": "Ang paninigarilyo ay nagpapataas ng presyon ng dugo at nagpapataas ng panganib ng atake sa puso at stroke.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang rubella ay dulot ng virus.",
+        "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Kung nagkaroon na ng HIV, huwag na uminom ng gamot laban dito.",
+        "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Dapat magpakonsulta sa doktor ang mga babaeng may epilepsy kung may planong magbuntis.",
+        "premise": "Ang mga babaeng nagdurusa sa epilepsy ay dapat kumonsulta sa kanilang doktor kung nais magbuntis dahil ang ibang gamot kontra epilepsy, tulad ng Valproic acid, ay maaaring magdulot ng hindi tamang pagkabuo ng sanggol.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Isang sanhi ng sakit sa puso o heart disease ang labis na timbang.",
+        "premise": "Ang pagiging sobra sa timbang o may labis na katabaan ay maaaring tumaas ang panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang tigdas ay hindi virus.",
+        "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang HIV ay maari pa rin humantong sa AIDS kahit ginagamot na ito.",
+        "premise": "Ang HIV, kung walang paggamot, ay maaaring humantong sa AIDS, ang huling yugto ng impeksyon sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Makakaranas ng paglalaway ang taong may epilepsy.",
+        "premise": "Sa pagsisimula ng epilepsy, mayroong panginginig ng kalamnan sa buong katawan at panandaliang pagkawala ng malay.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang may nabakunahang bata ay makakaranas pa rin ng matinding ubo.",
+        "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bone marrow test ay isang pagsusuri upang malaman kung ikaw ay may leukemia. ",
+        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, bone marrow test, at genetic testing.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Hindi na mapipigilan ang epileptic seizures.",
+        "premise": "Ang regular na pag-inom ng gamot ay maaaring makapigil sa epileptic seizures upang ang pasyente ay magkaroon ng normal na pamumuhay.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Measles virus and sanhi ng tigdas.",
+        "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang diabetes ay nakakasama sa mga matatanda.",
+        "premise": "Ang pagkakaroon ng diabetes ay doble ang panganib ng sakit sa puso o heart disease dahil ang mataas na blood sugar ay maaaring makapinsala sa mga daluyan ng dugo at ugat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang gamot sa rubella ay may kamahalan at maraming epekto sa katawan.",
+        "premise": "Walang paggamot para sa rubella, ngunit ang bakunang tigdas-mumps-rubella (MMR) ay maaaring maiwasan ito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Agad na makakaranas ng malalang sintomas ng pertussis ang mga sanggol.",
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang muna ng mga banayad na sintomas ng pertussis tulad ng nagbabarang ilong at sipon.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Malapit sa peligro ang taong may epilepsy.",
+        "premise": "Ang ibang trabaho at mga aktibidad sa palakasan ay maaaring magdulot ng peligro sa pasyente kung saan ang epilepsy ay hindi maayos na nakokontrol.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang antiretroviral theraphy (ART) ay para sa lahat ng may HIV.",
+        "premise": "Ang antiretroviral therapy (ART) ay inirerekomenda para sa lahat ng may HIV at binabawasan ang panganib ng pagkalat ng virus sa iba.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang may  Alzheimer's disease ay maaring makalimot ng mga simpleng bagay tulad ng pagsipilyo o suklay ng buhok.",
+        "premise": "Sa mga advanced na yugto ng Alzheimer's disease, maaaring makalimutan ng mga tao kung paano magsipilyo o magsuklay ng buhok.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Sa pamamagitan ng pag ubo o bahing ay kumakalat ang rubella.",
+        "premise": "Kumakalat ang rubella kapag umuubo o bumahing ang isang taong may impeksyon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang babaeng may diabetes ay delikado sa may sakit sa puso.",
+        "premise": "Ang estrogen ay nagbibigay ng ilang proteksyon sa mga kababaihan laban sa sakit sa puso o heart disease, ngunit ang diabetes ay nagpapataas ng panganib ng sakit sa puso o heart disease nang higit sa mga babae kaysa sa mga lalaki.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang mild cognitive impairment (MCI) ay walang kinalaman sa Allzheimer's disease. ",
+        "premise": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mas maraming problema sa memorya kaysa sa karaniwan para sa mga taong kapareho ng edad, at marami sa mga taong may MCI ay magkakaroon ng Alzheimer's disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Virus ang dahilan ng rubella.",
+        "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang HIV ang tumutulong sa immune system.",
+        "premise": "Ang HIV ay isang virus na sumisira sa immune system sa pamamagitan ng pagsira sa mga selulang CD4, na nagpapahirap sa katawan na lumaban sa mga impeksiyon at kanser na may kaugnayan sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Delikado ang may sleep apnea kung ikaw ay may sakit sa puso.",
+        "premise": "Ang sleep apnea, kung hindi magagamot, ay maaaring magpataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang pananakit ng tiyan ay kadahilanan ng pagtatae. ",
+        "premise": "Ang ibang pasyente ay maaaring dumanas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang antibiotics ay para sa mga taong may impeksyon.",
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit na pertussis.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Pinipigilan ng Phenobarbital ang epilepsy.",
+        "premise": "Ang Phenobarbital ay epektibong nakokontrol ang iba’t ibang uri ng epilepsy sa pamamagitan ng pagpipigil sa central nervous system.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang nangangaliskis na balat ay hindi dahil sa athlete's foot.",
+        "premise": "Ang athlete's foot ay kadalasang nakakaapekto sa espasyo sa pagitan ng mga daliri ng paa at maaaring magdulot ng pangangati, pagkasunog, at nangangaliskis na balat.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang taong may epilepsy ay maraming iniinom na gamot.",
+        "premise": "Ang hindi epektibong pagkontrol sa epilepsy ay isang tanda upang kumuha ng medikal na atensyon.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng diabetes ay nakakadagdag ng timbang.",
+        "premise": "Ang pagkakaroon ng diabetes ay doble ang panganib ng sakit sa puso o heart disease dahil ang mataas na blood sugar ay maaaring makapinsala sa mga daluyan ng dugo at ugat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang panginginig ng kalamnan ay dahil sa gutom.",
+        "premise": "Sa pagsisimula ng epilepsy, mayroong panginginig ng kalamnan sa buong katawan at panandaliang pagkawala ng malay.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pertussis ay maaring gamutin anumang oras.",
+        "premise": "Mahalagang gamutin ang pertussis nang maaga.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang leukemia ay hindi nagsisimula sa buto.",
+        "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "marami sa mga taong may mild cognitive impairment (MCI) ay walang Alzheimer's disease.",
+        "premise": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mas maraming problema sa memorya kaysa sa karaniwan para sa mga taong kapareho ng edad, at marami sa mga taong may MCI ay magkakaroon ng Alzheimer's disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang athlete's foot ay nagdudulot ng mabahong paa.",
+        "premise": "Ang athlete's foot ay kadalasang nakakaapekto sa espasyo sa pagitan ng mga daliri ng paa at maaaring magdulot ng pangangati, pagkasunog, at nangangaliskis na balat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang batang may bakuna ay mas malakas ang immune system.",
+        "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Wala nang nakakaranas ng  Chronic Myeloid Leukemia.",
+        "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Walang gamot para sa leukemia.",
+        "premise": "Ang mga paggamot para sa leukemia ay kinabibilangan ng kimoterapya, therapy radiation, chemotherapy na may stem cell transplant, at naka-target na therapy.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Maaring magdulot ng pagkadepekto sa batang nasa sinapupunan ang rubella.",
+        "premise": "Ang rubella ay pinakamapanganib para sa sanggol ng isang buntis at maaaring magdulot ng pagkakuha o mga depekto sa panganganak.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang HIV ay mapanganib.",
+        "premise": "Ang HIV, kung walang paggamot, ay maaaring humantong sa AIDS, ang huling yugto ng impeksyon sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Lahat ng nakakaranas ng rubella ay may sintomas.",
+        "premise": "Halos kalahati ng mga taong nagkakasakit ng rubella ay walang sintomas.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang African American ay hindi magkakaroon ng sakit sa puso o heart disease.",
+        "premise": "Ang mga African American ay mas malamang na magkaroon ng sakit sa puso o heart disease kaysa sa mga puti, habang ang mga Hispanic American ay mas malamang na magkaroon nito.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang 'pag-lock' ng panga ay nangangailangan mag brace.",
+        "premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang Epilepsy ay tinatawag na seizure disorder.",
+        "premise": "Ang Epilepsy, kilala din bilang seizure disorder, ay isang sakit na sanhi ng abnormal na aktibidad ng mga cells ng utak.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong may epilepsy ay mabilis na gagaling kung sila ay regular na iinom ng gamot.",
+        "premise": "Ang mga pasyente ay kinakailangang magdala ng kanilang talaan ng gamot at pagkakakilanlan upang maging sanggunian ng mga dalubhasa sa kalusugan para sa paunang paglunas sa kaso ng emergency.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang Pep o post-exposure prophylaxis ay para sa mga taong walang HIV ngunit may tsansa na makakuha nito.",
+        "premise": "Ang PrEP (pre-exposure prophylaxis) ay para sa mga taong wala pang HIV ngunit nasa napakataas na panganib na makakuha nito. Ang PEP (post-exposure prophylaxis) ay para sa mga taong posibleng nalantad sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Hindi na aapektuhan ng Alzheimer's disease ang wika ng isang tao.",
+        "premise": "Ang Alzheimer's disease ay unang kinasasangkutan ng mga bahagi ng utak na kumokontrol sa pag-iisip, memorya, at wika.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang mga Hispanic American ay lapitin ng mga ibat ibang  impeksyon.",
+        "premise": "Ang mga African American ay mas malamang na magkaroon ng sakit sa puso o heart disease kaysa sa mga puti, habang ang mga Hispanic American ay mas malamang na magkaroon nito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang mga taong may epilepsy ay hindi na ngangailangan ng talaan ng gamot.",
+        "premise": "Ang mga pasyente ay kinakailangang magdala ng kanilang talaan ng gamot at pagkakakilanlan upang maging sanggunian ng mga dalubhasa sa kalusugan para sa paunang paglunas sa kaso ng emergency.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ilagay sa maayos na lagayan ang gamot para sa epilepsy",
+        "premise": "Ang gamot para sa epilepsy ay kinakailangang nakatago sa tuyo at malamig na lugar.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pangangaliskis ng balat ay dahil sa dry na balat.",
+        "premise": "Ang athlete's foot ay kadalasang nakakaapekto sa espasyo sa pagitan ng mga daliri ng paa at maaaring magdulot ng pangangati, pagkasunog, at nangangaliskis na balat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Lagyan ng ointment cream ang hiwa o paso upang mabilis gumaling.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang triglycerides ay dahil sa fats o  matatabang pakain.",
+        "premise": "Ang mataas na antas ng triglycerides ay maaari ring magpataas ng panganib ng sakit sa coronary artery, lalo na sa mga kababaihan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ikaw ay may Alzheimer's kung ikaw ay may problema sa pag-alala ng pangalan na nakilala mo na.",
+        "premise": "Ang mga taong may Alzheimer's disease ay maaaring magkaroon ng problema sa pag-alala sa mga bagay na nangyari kamakailan o mga pangalan ng mga taong kilala nila.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang hiwa o paso na malalim ay nararapat na hugasan kaagad.",
+        "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang mga kababaihan ay lapitin ng mga sakit.",
+        "premise": "Ang mataas na antas ng triglycerides ay maaari ring magpataas ng panganib ng sakit sa coronary artery, lalo na sa mga kababaihan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Walang kinalaman ang paninigarilyo sa atake ng puso at stroke.",
+        "premise": "Ang paninigarilyo ay nagpapataas ng presyon ng dugo at nagpapataas ng panganib ng atake sa puso at stroke.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang tigdas ay simpleng sakit at hindi nagdudulot ng kamatayan.",
+        "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang seizure disorder ay nasa lahi o  genes. ",
+        "premise": "Ang Epilepsy, kilala din bilang seizure disorder, ay isang sakit na sanhi ng abnormal na aktibidad ng mga cells ng utak.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang estrogen ay hormones na nagmumula sa obaryo ng babae.",
+        "premise": "Ang estrogen ay nagbibigay ng ilang proteksyon sa mga kababaihan laban sa sakit sa puso o heart disease, ngunit ang diabetes ay nagpapataas ng panganib ng sakit sa puso o heart disease nang higit sa mga babae kaysa sa mga lalaki.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang seizure disorder ay madaling malunasan.",
+        "premise": "Ang Epilepsy, kilala din bilang seizure disorder, ay isang sakit na sanhi ng abnormal na aktibidad ng mga cells ng utak.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang HIV ay hindi na kailangan gamutin.",
+        "premise": "Ang HIV, kung walang paggamot, ay maaaring humantong sa AIDS, ang huling yugto ng impeksyon sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Antifungal cream ang gamot sa impeksyon na athlete's foot.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang mga matatanda ay hirap sa pagkilala at umalala ng mga bagay.",
+        "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Lunasan agad ang ubo upang hindi lumala.",
+        "premise": "Kumakalat ang rubella kapag umuubo o bumahing ang isang taong may impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang pagsuot ng flip-flops o tsinelas ay solusyon upang hindi magkaugat ang paa.",
+        "premise": "Para maiwasan ang athlete's foot, Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang  Nucleoside reverse transcriptase inhibitors (NRTIs), Non-nucleoside reverse transcriptase inhibitors (NNRTIs), integrase inhibitors, at protease inhibitors ay gamot sa HIV.",
+        "premise": "Mayroong iba't ibang uri ng gamot sa HIV na pumipigil sa HIV na makapagparami, kabilang ang Nucleoside reverse transcriptase inhibitors (NRTIs), Non-nucleoside reverse transcriptase inhibitors (NNRTIs), integrase inhibitors, at protease inhibitors.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Bantayan ang timbang, presyon ng dugo, at blood sugar dahil ang kakulangan ng tulog ay maaaring magpalala ng kondisyon para sa mga may sakit sa puso.",
+        "premise": "Ang kakulangan ng sapat na tulog ay nagpapataas ng panganib ng mataas na presyon ng dugo, labis na katabaan, at diabetes, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang tigdas ay delikado sa mga buntis at anak nito.",
+        "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "May mga gamot na para sa sintomas ng tigdas.",
+        "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Huwag takpan ang daanan ng hangin ng pasyenteng may seizure.",
+        "premise": "Sa kaso ng seizure, napaka importante na mapanatili ng pasyente ang maayos na daanan ng hangin.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang gamot pang epilepsy ay maraming masamang epekto sa katawan.",
+        "premise": "Ang iba’t ibang uri ng epilepsy ay nangangailangan ng iba’t ibang gamot kontra epilepsy.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang taong may Alzheimers ay normal ang pag-iisip at ugali.",
+        "premise": "Ang mga taong may Alzheimer's disease ay maaaring maging balisa o agresibo, o lumayo sa kanilang mga tahanan.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang leukemia ay walang kinalaman sa dugo.",
+        "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pagkain ng masesebo ay nakakapagpataas ng presyon ng dugo.",
+        "premise": "Ang paninigarilyo ay nagpapataas ng presyon ng dugo at nagpapataas ng panganib ng atake sa puso at stroke.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Maaring maging agresibo o balisa ang mga may Alzheimer's disease.",
+        "premise": "Ang mga taong may Alzheimer's disease ay maaaring maging balisa o agresibo, o lumayo sa kanilang mga tahanan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Maraming sintomas ang epilepsy.",
+        "premise": "Sa pagsisimula ng epilepsy, mayroong panginginig ng kalamnan sa buong katawan at panandaliang pagkawala ng malay.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Bumabalik ang impeksyon o athlete's foot.",
+        "premise": "Ang impeksiyon o athlete's foot ay karaniwang nalilinis ng paggamot, ngunit maaari itong bumalik.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Maraming sintomas ang leukemia.",
+        "premise": "Ang leukemia ay maaaring magdulot ng mga sintomas tulad ng pagkapagod, lagnat, madaling pagkakaroon ng pasa, pagbawas ng timbang, at petechiae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang Valproic acid na gamot kontra epilepsy ay nakakatulog sa tamang pagbuo ng sanggol para sa mga buntis.",
+        "premise": "Ang mga babaeng nagdurusa sa epilepsy ay dapat kumonsulta sa kanilang doktor kung nais magbuntis dahil ang ibang gamot kontra epilepsy, tulad ng Valproic acid, ay maaaring magdulot ng hindi tamang pagkabuo ng sanggol.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang may mga may seizure ay nahihirapang gumalaw.",
+        "premise": "Sa kaso ng seizure, napaka importante na mapanatili ng pasyente ang maayos na daanan ng hangin.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Anng athlete's foot ay nakukuha sa mamamsa-masang lugar.",
+        "premise": "Maaari kang makakuha ng athlete's foot mula sa mamasa-masa na ibabaw, tulad ng mga shower, swimming pool, at mga sahig ng locker room.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang mga lalaki edad 45 pataas  ay malabong magkaroon ng heart disease.",
+        "premise": "Ang mga lalaking edad 45 at mas matanda at mga babaeng edad 55 at mas matanda ay may mas malaking panganib ng sakit sa puso o heart disease.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang may taong may leukemia ay maiksi ang buhay.",
+        "premise": "Ang leukemia ay maaaring magdulot ng mga sintomas tulad ng pagkapagod, lagnat, madaling pagkakaroon ng pasa, pagbawas ng timbang, at petechiae.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Maghugas ng kamay pagkatapos dumikit sa taong may rubella o impeksyon.",
+        "premise": "Kumakalat ang rubella kapag umuubo o bumahing ang isang taong may impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang coronovirus ay nakakahawa.",
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang nasa hustong gulang ay dapat mag-ingat at huwag lumabas ng bahay upang hindi masugatan at magkaroon ng tetanus.",
+        "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Talamak sa mga East Asian ang sakit sa puso o heart disease.",
+        "premise": "Ang mga East Asian ay may mas mababang mga rate ng sakit sa puso o heart disease , ngunit ang mga South Asian ay may mas mataas na mga rate.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Ang dementia ay hindi sakit sa utak.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang gamot sa epilepsy ay pwedeng maarawan.",
+        "premise": "Ang gamot para sa epilepsy ay kinakailangang nakatago sa tuyo at malamig na lugar.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang Phenytoin ay ginagamit upang maiwasan ang  seizures na sanhi ng pagopera.",
+        "premise": "Ang Phenytoin ay kadalasang ginagamit na may phenobarbital upang lunasan ang iba’t ibang uri ng epilepsy at maiwasan ang seizures na sanhi ng pag opera sa utak o pinsala sa ulo.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong may epilepsy ay kailangan ng reseta at ID. ",
+        "premise": "Ang mga pasyente ay kinakailangang magdala ng kanilang talaan ng gamot at pagkakakilanlan upang maging sanggunian ng mga dalubhasa sa kalusugan para sa paunang paglunas sa kaso ng emergency.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang acute lymphocytic leukemia (ALL) ay nakamamatay.",
+        "premise": "Ang talamak na lymphocytic leukemia (ALL) ay ang pinakakaraniwang uri ng kanser sa mga bata ngunit maaari rin itong makaapekto sa mga matatanda.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang epilepsy ay nakakahawa.",
+        "premise": "Ang epilepsy ay hindi nakakahawa at ang pasyente na nagdurusa mula sa sakit na ito ay maaaring mabuhay ng normal katulad ng iba pa.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkalaglag ng sanggol ay maaring maging resulta ng tigdas.",
+        "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang rubella na walang sintomas ay hindi naipapasa sa iba.",
+        "premise": "Ang mga taong walang sintomas ay maaari pa ring kumalat ng rubella.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Walang paraan upang maiwasan ang athlete's foot.",
+        "premise": "Para maiwasan ang athlete's foot, Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Normal lamang na makaranas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
+        "premise": "Ang ibang pasyente ay maaaring dumanas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Walang gamot para sa HIV.",
+        "premise": "Mayroong iba't ibang uri ng gamot sa HIV na pumipigil sa HIV na makapagparami, kabilang ang Nucleoside reverse transcriptase inhibitors (NRTIs), Non-nucleoside reverse transcriptase inhibitors (NNRTIs), integrase inhibitors, at protease inhibitors.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Walang gamot ang Alzheimer's disease.",
+        "premise": "Walang paggamot ang makakapigil sa Alzheimer's disease, ngunit ang ilang gamot ay maaaring makatulong na maiwasang lumala ang mga sintomas sa loob ng limitadong panahon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang  Alzheimer's disease ay hindi sakit sa pag-iisip.",
+        "premise": "Ang Alzheimer's disease ay unang kinasasangkutan ng mga bahagi ng utak na kumokontrol sa pag-iisip, memorya, at wika.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Huwag lumabas ng bahay upang makaiwas sa pertussis.",
+        "premise": "Ang pinakamahusay na paraan para mapigilan ang Pertussis ito ay ang pagpapabakuna.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "May mga side effect ang gamot sa HIV.",
+        "premise": "Ang mga gamot sa HIV ay maaaring magdulot ng mga side effect, at mahalagang ipagbigay-alam ang mga ito sa iyong tagapagbigay ng pangangalagang pangkalusugan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Magpakonsulta kung ang ubo ay nagdudulot ng pagsusuka.",
+        "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang paglala ng Alzheimer's disease ay dahil sa stress.",
+        "premise": "Walang paggamot ang makakapigil sa Alzheimer's disease, ngunit ang ilang gamot ay maaaring makatulong na maiwasang lumala ang mga sintomas sa loob ng limitadong panahon.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Maaring ikaw ay may Alzheimer's disease kung hirap kang  makaalala ng mga taong nakilala mo na.",
+        "premise": "Ang mga taong may Alzheimer's disease ay maaaring magkaroon ng problema sa pag-alala sa mga bagay na nangyari kamakailan o mga pangalan ng mga taong kilala nila.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Nakakaapekto sa pangaraw-araw na gawain ang masakit na ulo.",
+        "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang pananatili sa tuyong  paa ay isang pangangalaga sa sarili.",
+        "premise": "Para maiwasan ang athlete's foot, panatilihing malinis, tuyo, at malamig ang iyong mga paa, at magsuot ng malinis na medyas.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Dapat ipaalam sa iyong doktor ang mga nararanasang side effect ng gamot para sa epilepsy.",
+        "premise": "Ang mga gamot sa HIV ay maaaring magdulot ng mga side effect, at mahalagang ipagbigay-alam ang mga ito sa iyong tagapagbigay ng pangangalagang pangkalusugan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang pertussis ay nasososlusyonan ng mga antibiotics.",
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit na pertussis.",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nararapat na uminom ng gamot ang may HIV upang malabanan ang impeksyon.",
+        "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Bigyan ng maayos na hangin ang pasyenteng nakakaranas ng seizure.",
+        "premise": "Sa kaso ng seizure, napaka importante na mapanatili ng pasyente ang maayos na daanan ng hangin.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang antiretroviral theraphy (ART) ay hindi epektibong solusyon  sa pagkalat ng virus.",
+        "premise": "Ang antiretroviral therapy (ART) ay inirerekomenda para sa lahat ng may HIV at binabawasan ang panganib ng pagkalat ng virus sa iba.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Magpakonsulta sa doktor kung hindi makontrol ang epilepsy.",
+        "premise": "Ang hindi epektibong pagkontrol sa epilepsy ay isang tanda upang kumuha ng medikal na atensyon.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang paginom ng alak ay delikado para sa mga may sakit sa puso o heart disease.",
+        "premise": "Ang pag-inom ng labis na alak ay maaaring magpataas ng presyon ng dugo at magdagdag ng timbang, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "May mga gamot na makakabawas sa sintomas ng tigdas.",
+        "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Lahat ng uri ng epilepsy ay nakamamatay.",
+        "premise": "Ang Phenobarbital ay epektibong nakokontrol ang iba’t ibang uri ng epilepsy sa pamamagitan ng pagpipigil sa central nervous system.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang taong may Alzheimer's disease ay maaring hindi na makabalik sa kanilang tahanan na dulot nang pagkalimot.",
+        "premise": "Ang mga taong may Alzheimer's disease ay maaaring maging balisa o agresibo, o lumayo sa kanilang mga tahanan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Hindi tumatalab ang mga gamot sa impeksyon o athlete's foot.",
+        "premise": "Ang impeksiyon o athlete's foot ay karaniwang nalilinis ng paggamot, ngunit maaari itong bumalik.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Lahat ng taong magkakaroon ng impeksyon ay makakaranas ng malubhang sintomas.",
+        "premise": "Karamihan sa mga taong magkakaroon ng covid-19 ay makararanas ng hindi malalang sintomas at gagaling, ngunit ang iba ay makararanas ng malubhang sakit, lalo na sa mga matatanda at mga may dati nang karamdaman.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang hand sanitizer ay madaling paraan upang luminis ang mga kamay",
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig upang maiwasan ang Covid-19.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang Acute myeloid (AML) ay nakakaapekto lamang sa mga sanggol.",
+        "premise": "Ang talamak na myeloid leukemia (AML) ay mas karaniwan sa mga matatanda ngunit maaari ring makaapekto sa mga bata.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang pagsuot ng malinis na medyas ay nagdudulot ng mabahong paa.",
+        "premise": "Para maiwasan ang athlete's foot, panatilihing malinis, tuyo, at malamig ang iyong mga paa, at magsuot ng malinis na medyas.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Maari nang hindi uminom ng gamot pagkatapos ng HIV diagnosis.",
+        "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Manatiling may sapat na tubig sa katawan (hydrated) kung ang pag atake ng ubo ay nagdudulot ng pagsuka.",
+        "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
+        "label": "entailment",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi hadlang ang epilepsy upang mamuhay ng normal.",
+        "premise": "Ang epilepsy ay hindi nakakahawa at ang pasyente na nagdurusa mula sa sakit na ito ay maaaring mabuhay ng normal katulad ng iba pa.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Nakakapagpataas ng presyon ng dugo ang kulang na tulog.",
+        "premise": "Ang kakulangan ng sapat na tulog ay nagpapataas ng panganib ng mataas na presyon ng dugo, labis na katabaan, at diabetes, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Bata pa lamang ay nagkakaroon na ng Alzheimer's disease.",
+        "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang antifungal cream para sa athlete's foot ay makukuha kahit na walang reseta ng doktor.",
+        "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang antibiotics ay hindi epektibo para sa mga may pertussis.",
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit na pertussis.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang sapat na tubig sa katawan ay mahalaga upang maiwasan ang sakit ng ulo.",
+        "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang seizures na sanhi ng opera ay may side effect.",
+        "premise": "Ang Phenytoin ay kadalasang ginagamit na may phenobarbital upang lunasan ang iba’t ibang uri ng epilepsy at maiwasan ang seizures na sanhi ng pag opera sa utak o pinsala sa ulo.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang babaeng may epilepsy ay maaring hindi mmakabuo ng sanggol.",
+        "premise": "Ang mga babaeng nagdurusa sa epilepsy ay dapat kumonsulta sa kanilang doktor kung nais magbuntis dahil ang ibang gamot kontra epilepsy, tulad ng Valproic acid, ay maaaring magdulot ng hindi tamang pagkabuo ng sanggol.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Hindi kailangan umiwas sa alcohol ang taong may epilepsy.",
+        "premise": "Ang mga pasyente na may epilepsy ay kinakailangang umiwas sa pag-inom ng alcohol habang naggagamot.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna ay hindi solusyon sa pertussis.",
+        "premise": "Ang pinakamahusay na paraan para mapigilan ang Pertussis ito ay ang pagpapabakuna.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang paninikip ng kalamnan ay hindi dulot ng tetanus.",
+        "premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang ibang taong may rubella ay walang sintomas na nararamdaman.",
+        "premise": "Halos kalahati ng mga taong nagkakasakit ng rubella ay walang sintomas.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang stress ay maaring makapagpataas ng presyon ng dugo.",
+        "premise": "Ang stress ay nauugnay sa sakit sa puso o heart disease at maaaring magpataas ng presyon ng dugo at mag-trigger ng atake sa puso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Hindi mahalaga ang pagsuri ng blood pressure ng mga taong may sakit sa puso o heart disease.",
+        "premise": "Ang altapresyon o blood pressure ay isang pangunahing kadahilanan ng panganib para sa sakit sa puso o heart disease, kaya't mahalagang regular na suriin ito.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Maaring atakihin sa puso ang taong nakakaramdam ng stress.",
+        "premise": "Ang stress ay nauugnay sa sakit sa puso o heart disease at maaaring magpataas ng presyon ng dugo at mag-trigger ng atake sa puso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Nalilinis ng gamot ang impeksyon o athlete's foot ",
+        "premise": "Ang impeksiyon o athlete's foot ay karaniwang nalilinis ng paggamot, ngunit maaari itong bumalik.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Walang epektibong pagkontrol sa epilepsy.",
+        "premise": "Ang Phenobarbital ay epektibong nakokontrol ang iba’t ibang uri ng epilepsy sa pamamagitan ng pagpipigil sa central nervous system.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang paglaban sa HIV ay tumatagal ng ilang taon.",
+        "premise": "Ang HIV ay isang virus na sumisira sa immune system sa pamamagitan ng pagsira sa mga selulang CD4, na nagpapahirap sa katawan na lumaban sa mga impeksiyon at kanser na may kaugnayan sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang PreP (pre-exposure prophylaxis) at PEP (post-exposure prophylaxis) ay walang kinalaman sa HIV.",
+        "premise": "Ang PrEP (pre-exposure prophylaxis) ay para sa mga taong wala pang HIV ngunit nasa napakataas na panganib na makakuha nito. Ang PEP (post-exposure prophylaxis) ay para sa mga taong posibleng nalantad sa HIV.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/"
+    },
+    {
+        "hypothesis": "Ang tetanus ay kailangan ipatingin sa doktor.",
+        "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso."
+    },
+    {
+        "hypothesis": "Ang karaniwang impeksiyon na dulot ng fungus ay athlete's foot.",
+        "premise": "Ang athlete's foot ay isang karaniwang impeksiyon na dulot ng fungus.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/"
+    },
+    {
+        "hypothesis": "Ang mataas na presyon ng dugo ay nagdudulot ng pagkawala ng malay.",
+        "premise": "Ang kakulangan ng sapat na tulog ay nagpapataas ng panganib ng mataas na presyon ng dugo, labis na katabaan, at diabetes, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/"
+    },
+    {
+        "hypothesis": "Hindi sagabal ang pagbasa at sulat sa taong may Alzheimer's disease.",
+        "premise": "Maaaring nahihirapan ang mga taong may Alzheimer's disease na magsalita, magbasa o magsulat.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Ang bakunang tigdas-mumos-rubella(MMR) ay nakakatulong upang maiwasan ang rubella.",
+        "premise": "Walang paggamot para sa rubella, ngunit ang bakunang tigdas-mumps-rubella (MMR) ay maaaring maiwasan ito.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang kimoterapya o chemotherapy ay pinakaepektibong paraan sa paglaban ng kanser,",
+        "premise": "Ang mga paggamot para sa leukemia ay kinabibilangan ng kimoterapya, therapy radiation, chemotherapy na may stem cell transplant, at naka-target na therapy.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Isa lamang ang uri ng epilepsy.",
+        "premise": "Ang iba’t ibang uri ng epilepsy ay nangangailangan ng iba’t ibang gamot kontra epilepsy.",
+        "label": "contradiction",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang madalas na paghugas sa kamay ay nakakaganda at lambot ng kamay.",
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig upang maiwasan ang Covid-19.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Ang ibat ibang uri ng leukemia ay mahirap gamutin.",
+        "premise": "Ang talamak na lymphocytic leukemia (CLL) ay isa sa mga pinakakaraniwang uri ng leukemia sa mga matatanda at madalas nangyayari sa panahon o pagkatapos ng gitnang edad.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/"
+    },
+    {
+        "hypothesis": "Ang Valproic acid ay ginagamit sa mga taong may migraine.",
+        "premise": "Ang Valproic acid ay mabilis na hinihigop ng bituka at gumagana sa iba’t ibang uri ng epilepsy.",
+        "label": "neutral",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang Alzheimer's disease ay mapanganib para sa mga kababaihan.",
+        "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/"
+    },
+    {
+        "hypothesis": "Halos kalahati ng kaso ng rubella ay walang makitang sintomas.",
+        "premise": "Halos kalahati ng mga taong nagkakasakit ng rubella ay walang sintomas.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
+    },
+    {
+        "hypothesis": "Ang epilepsy ay hindi nakakahawa.",
+        "premise": "Ang epilepsy ay hindi nakakahawa at ang pasyente na nagdurusa mula sa sakit na ito ay maaaring mabuhay ng normal katulad ng iba pa.",
+        "label": "entailment",
+        "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong walang nararamdamang sintomas ay biglang makakaranas ng matinding sakit.",
+        "premise": "Karamihan sa mga taong magkakaroon ng impeksyon ay makararanas ng hindi malalang sintomas at gagaling, ngunit ang iba ay makararanas ng malubhang sakit, lalo na sa mga matatanda at mga may dati nang karamdaman.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Hindi na maiiwasan ang pagkakaroon ng rubella.",
+        "premise": "Walang paggamot para sa rubella, ngunit ang bakunang tigdas-mumps-rubella (MMR) ay maaaring maiwasan ito.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/rubella/"
     }
 ]

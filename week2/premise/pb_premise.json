@@ -3,13 +3,13 @@
         "id": 30,
         "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot ito para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 31,
         "premise": "Ang Tetanus ay isang malubhang sakit na dulot ng Clostridium bacteria.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 32,
@@ -21,85 +21,85 @@
         "id": 33,
         "premise": "Ang bakterya ng tetanus ay maaaring makapasok sa katawan sa pamamagitan ng malalim na hiwa o paso.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 34,
         "premise": "Ang impeksyon ng tetanus ay nagdudulot ng masakit na paninikip ng mga kalamnan at maaaring humantong sa 'pag-lock' ng panga.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 35,
         "premise": "Ang tetanus ay isang medikal na emerhensiya at kailangan ng agarang pangangalaga sa ospital.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 36,
         "premise": "Maaari mong maiwasan ang tetanus sa pamamagitan ng pagbabakuna, na ibinibigay bilang bahagi ng karaniwan na pagbabakuna sa pagkabata.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 37,
         "premise": "Ang mga nasa hustong gulang ay dapat magpakuha ng tetanus booster shot tuwing 10 taon at kung magkakaroon ng masamang hiwa o paso.",
         "url": "https://www.chcrr.org/tl/health-topic/tetanus/#:~:text=Buod,o%20sa%20pamamagitan%20ng%20paso.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 142,
-        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 143,
         "premise": "Karamihan sa mga taong magkakaroon ng impeksyon ay makararanas ng hindi malalang sintomas at gagaling, ngunit ang iba ay makararanas ng malubhang sakit, lalo na sa mga matatanda at mga may dati nang karamdaman.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 144,
-        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig.",
+        "premise": "Hugasan nang madalas ang iyong mga kamay gamit ang hand sanitizer na may alkohol o sabon at tubig upang maiwasan ang Covid-19.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 147,
-        "premise": "Iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
+        "premise": "Upang maiwasan ang Covid-19, iwasan ang matataong lugar at malapit na pakikipagsalamuha sa taong may lagnat o ubo, lalo na kung ikaw ay 60 pataas o may dati nang karamdaman gaya ng altapresyon, diyabetis, sakit sa puso, baga, o kanser.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 149,
-        "premise": "Kung ikaw ay may lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
+        "premise": "Kung ikaw ay may sintomas ng covid tulad ng lagnat, ubo at hirap sa pag-hinga, magpakonsulta agad – ngunit tumawag muna sa ospital o health center.",
         "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 151,
         "premise": "Ang tigdas ay isang impeksyon na dulot ng virus na tinatawag na Measles virus.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 154,
         "premise": "Sa mga malalang kaso ng tigdas, maaaring maapektuhan ang baga, bituka, at utak, na maaaring magresulta sa seryosong komplikasyon o kamatayan.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 155,
         "premise": "Ang tigdas sa pagbubuntis ay maaaring magresulta sa pagkalaglag, panganganak ng mas maaga, at mababang timbang ng sanggol.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 159,
         "premise": "Walang tiyak na panggagamot para sa tigdas, ngunit maaaring magreseta ng gamot para bawasan ang sintomas, at antibiotiko para sa mga komplikasyong dulot ng bakterya.",
         "url": "https://www.chp.gov.hk/files/pdf/measles_tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 160,
@@ -111,7 +111,7 @@
         "id": 161,
         "premise": "Ang pertussis ay isang nakakahawang sakit na maaaring kumalat kapag ang isang tao ay umuubo o bumabahin.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 162,
@@ -121,7 +121,7 @@
     },
     {
         "id": 164,
-        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
+        "premise": "Pagkatapos ng isang linggo o dalawa, ang mga tao na may pertussis ay nagsisimulang magkaroon ng biglaang pag-atake ng ubo na mahirap pigilan.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
         "counter": 3
     },
@@ -129,139 +129,139 @@
         "id": 166,
         "premise": "Ang mga hindi pa nabakunahang bata at sanggol ay may matinding ubo, na kadalasang humihinga na may malakas na 'dumadalahit (whooping)' na tunog.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 167,
-        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
+        "premise": "Ang ilang mga sanggol ay maaaring makaranas lamang muna ng mga banayad na sintomas tulad ng nagbabarang ilong at sipon.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 168,
         "premise": "Ang mga sanggol na may banayad na sintomas ng pertussis ay maaari pa rin na mahirapang huminga, o kahit na pansamantalang huminto sa paghinga (apnea).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 169,
         "premise": "Tawagan ang iyong doktor o pumunta kaagad sa pinakamalapit na kwartong pang-emerhensiya (emergency room) kung ang mga pag-atake ng ubo ay nagdudulot sa iyong anak na magsuka na nahihirapang uminom at manatiling may sapat na tubig sa katawan (hydrated).",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 170,
         "premise": "Tawagan ang iyong doktor kung ang iyong anak ay mahirapang huminga o magkulay asul.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 171,
-        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit.",
+        "premise": "Ang mga doktor ay maaaring magbigay ng antibiotics para gamutin ang sakit na pertussis.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 173,
         "premise": "Mahalagang gamutin ang pertussis nang maaga.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 174,
-        "premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna.",
+        "premise": "Ang pinakamahusay na paraan para mapigilan ang Pertussis ito ay ang pagpapabakuna.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 175,
         "premise": "Ang Epilepsy, kilala din bilang seizure disorder, ay isang sakit na sanhi ng abnormal na aktibidad ng mga cells ng utak.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 176,
         "premise": "Sa pagsisimula ng epilepsy, mayroong panginginig ng kalamnan sa buong katawan at panandaliang pagkawala ng malay.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 177,
         "premise": "Ang gamot kontra epilepsy ay gamot upang makontrol ang pag-atake.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 178,
         "premise": "Ang regular na pag-inom ng gamot ay maaaring makapigil sa epileptic seizures upang ang pasyente ay magkaroon ng normal na pamumuhay.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 179,
         "premise": "Ang iba’t ibang uri ng epilepsy ay nangangailangan ng iba’t ibang gamot kontra epilepsy.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 180,
         "premise": "Ang Phenobarbital ay epektibong nakokontrol ang iba’t ibang uri ng epilepsy sa pamamagitan ng pagpipigil sa central nervous system.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 181,
         "premise": "Ang Phenytoin ay kadalasang ginagamit na may phenobarbital upang lunasan ang iba’t ibang uri ng epilepsy at maiwasan ang seizures na sanhi ng pag opera sa utak o pinsala sa ulo.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 182,
         "premise": "Ang Valproic acid ay mabilis na hinihigop ng bituka at gumagana sa iba’t ibang uri ng epilepsy.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 183,
         "premise": "Ang pasyente ay kinakailangang uminom ng niresetang gamot sa eksaktong agwat upang mapanatili ang pagkontrol at mabawasan ang pagbalik ng epilepsy.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 184,
         "premise": "Ang hindi epektibong pagkontrol sa epilepsy ay isang tanda upang kumuha ng medikal na atensyon.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 185,
         "premise": "Ang ibang pasyente ay maaaring dumanas ng pananakit ng tiyan pagkatapos uminom ng gamot para sa epilepsy.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 186,
         "premise": "Ang epilepsy ay hindi nakakahawa at ang pasyente na nagdurusa mula sa sakit na ito ay maaaring mabuhay ng normal katulad ng iba pa.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 187,
         "premise": "Ang mga pasyente na may epilepsy ay kinakailangang umiwas sa pag-inom ng alcohol habang naggagamot.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 188,
         "premise": "Ang ibang trabaho at mga aktibidad sa palakasan ay maaaring magdulot ng peligro sa pasyente kung saan ang epilepsy ay hindi maayos na nakokontrol.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 189,
         "premise": "Ang mga pasyenteng nagdurusa sa epilepsy ay pinagbabawalang magkaroon ng lisensya sa pagmamaneho sa Hong Kong.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 190,
@@ -273,223 +273,223 @@
         "id": 191,
         "premise": "Ang mga babaeng nagdurusa sa epilepsy ay dapat kumonsulta sa kanilang doktor kung nais magbuntis dahil ang ibang gamot kontra epilepsy, tulad ng Valproic acid, ay maaaring magdulot ng hindi tamang pagkabuo ng sanggol.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 192,
         "premise": "Ang mga pasyente ay kinakailangang magdala ng kanilang talaan ng gamot at pagkakakilanlan upang maging sanggunian ng mga dalubhasa sa kalusugan para sa paunang paglunas sa kaso ng emergency.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 193,
         "premise": "Sa kaso ng seizure, napaka importante na mapanatili ng pasyente ang maayos na daanan ng hangin.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 194,
         "premise": "Ang gamot para sa epilepsy ay kinakailangang nakatago sa tuyo at malamig na lugar.",
         "url": "https://www.drugoffice.gov.hk/eps/do/en/doc/ethnic_minorities/tagalog/Tagalog_K08_Antiepileptic_Drugs.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 195,
         "premise": "Ang Alzheimer's disease (AD) ay ang pinakakaraniwang anyo ng demensya sa mga matatandang tao.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 196,
         "premise": "Ang dementia ay isang sakit sa utak na seryosong nakakaapekto sa kakayahan ng isang tao na magsagawa ng pang-araw-araw na gawain.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 197,
         "premise": "Ang Alzheimer's disease ay unang kinasasangkutan ng mga bahagi ng utak na kumokontrol sa pag-iisip, memorya, at wika.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 198,
         "premise": "Ang mga taong may Alzheimer's disease ay maaaring magkaroon ng problema sa pag-alala sa mga bagay na nangyari kamakailan o mga pangalan ng mga taong kilala nila.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 199,
         "premise": "Ang mild cognitive impairment (MCI) ay nagdudulot ng mas maraming problema sa memorya kaysa sa karaniwan para sa mga taong kapareho ng edad, at marami sa mga taong may MCI ay magkakaroon ng Alzheimer's disease.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 200,
         "premise": "Sa paglipas ng panahon, lumalala ang mga sintomas ng Alzheimer's disease, at maaaring hindi makilala ng mga tao ang mga miyembro ng pamilya.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 1
+        "counter": 0
     },
     {
         "id": 201,
         "premise": "Maaaring nahihirapan ang mga taong may Alzheimer's disease na magsalita, magbasa o magsulat.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 202,
         "premise": "Sa mga advanced na yugto ng Alzheimer's disease, maaaring makalimutan ng mga tao kung paano magsipilyo o magsuklay ng buhok.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 203,
         "premise": "Ang mga taong may Alzheimer's disease ay maaaring maging balisa o agresibo, o lumayo sa kanilang mga tahanan.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 204,
         "premise": "Ang Alzheimer's disease ay karaniwang nagsisimula pagkatapos ng edad na 60 at ang panganib ay tumataas habang ikaw ay tumatanda.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 205,
         "premise": "Ang panganib ng Alzheimer's disease ay mas mataas kung ang isang miyembro ng pamilya ay nagkaroon ng sakit.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 206,
         "premise": "Walang paggamot ang makakapigil sa Alzheimer's disease, ngunit ang ilang gamot ay maaaring makatulong na maiwasang lumala ang mga sintomas sa loob ng limitadong panahon.",
         "url": "https://www.chcrr.org/tl/health-topic/alzheimers-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 207,
         "premise": "Ang athlete's foot ay isang karaniwang impeksiyon na dulot ng fungus.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 208,
         "premise": "Ang athlete's foot ay kadalasang nakakaapekto sa espasyo sa pagitan ng mga daliri ng paa at maaaring magdulot ng pangangati, pagkasunog, at nangangaliskis na balat.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 209,
         "premise": "Maaari kang makakuha ng athlete's foot mula sa mamasa-masa na ibabaw, tulad ng mga shower, swimming pool, at mga sahig ng locker room.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 210,
         "premise": "Para maiwasan ang athlete's foot, panatilihing malinis, tuyo, at malamig ang iyong mga paa, at magsuot ng malinis na medyas.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 211,
         "premise": "Para maiwasan ang athlete's foot, Huwag maglakad ng walang sapin sa mga pampublikong lugar at magsuot ng flip-flops sa mga shower sa locker room.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 212,
         "premise": "Ang paggamot para sa athlete's foot ay kinabibilangan ng mga over-the-counter na antifungal cream at mga inireresetang gamot para sa mas malubhang impeksyon.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 213,
         "premise": "Ang impeksiyon ay karaniwang nalilinis ng paggamot, ngunit maaari itong bumalik.",
         "url": "https://www.chcrr.org/tl/health-topic/athletes-foot/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 214,
         "premise": "Ang rubella ay isang impeksiyon na dulot ng isang virus.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 215,
         "premise": "Ang rubella ay maaaring magdulot ng pantal, sinat, masakit na mga kasukasuan, at namamaga ng mga glandula.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 216,
         "premise": "Halos kalahati ng mga taong nagkakasakit ng rubella ay walang sintomas.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 217,
         "premise": "Ang rubella ay pinakamapanganib para sa sanggol ng isang buntis at maaaring magdulot ng pagkakuha o mga depekto sa panganganak.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 218,
         "premise": "Kumakalat ang rubella kapag umuubo o bumahing ang isang taong may impeksyon.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 219,
         "premise": "Ang mga taong walang sintomas ay maaari pa ring kumalat ng rubella.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 220,
         "premise": "Walang paggamot para sa rubella, ngunit ang bakunang tigdas-mumps-rubella (MMR) ay maaaring maiwasan ito.",
         "url": "https://www.chcrr.org/tl/health-topic/rubella/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 221,
         "premise": "Ang panganib ng sakit sa puso o heart disease ay tumataas habang ikaw ay tumatanda.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 222,
         "premise": "Ang mga lalaking edad 45 at mas matanda at mga babaeng edad 55 at mas matanda ay may mas malaking panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 223,
         "premise": "Ang estrogen ay nagbibigay ng ilang proteksyon sa mga kababaihan laban sa sakit sa puso o heart disease, ngunit ang diabetes ay nagpapataas ng panganib ng sakit sa puso o heart disease nang higit sa mga babae kaysa sa mga lalaki.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 224,
         "premise": "Ang mga African American ay mas malamang na magkaroon ng sakit sa puso o heart disease kaysa sa mga puti, habang ang mga Hispanic American ay mas malamang na magkaroon nito.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 225,
         "premise": "Ang mga East Asian ay may mas mababang mga rate ng sakit sa puso o heart disease , ngunit ang mga South Asian ay may mas mataas na mga rate.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 226,
         "premise": "Mas malaki ang panganib ng sakit sa puso o heart disease kung mayroon kang malapit na miyembro ng pamilya na nagkaroon ng sakit sa puso sa murang edad.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 227,
         "premise": "Ang altapresyon o blood pressure ay isang pangunahing kadahilanan ng panganib para sa sakit sa puso o heart disease, kaya't mahalagang regular na suriin ito.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 228,
@@ -501,150 +501,150 @@
         "id": 229,
         "premise": "Ang mataas na antas ng triglycerides ay maaari ring magpataas ng panganib ng sakit sa coronary artery, lalo na sa mga kababaihan.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 230,
         "premise": "Ang pagiging sobra sa timbang o may labis na katabaan ay maaaring tumaas ang panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 231,
         "premise": "Ang pag-eehersisyo ay maaaring makatulong sa pagpapalakas ng puso, pagpapabuti ng sirkulasyon, at pagpapababa ng panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 232,
         "premise": "Ang pag-inom ng labis na alak ay maaaring magpataas ng presyon ng dugo at magdagdag ng timbang, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 233,
         "premise": "Ang paninigarilyo ay nagpapataas ng presyon ng dugo at nagpapataas ng panganib ng atake sa puso at stroke.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 234,
         "premise": "Ang stress ay nauugnay sa sakit sa puso o heart disease at maaaring magpataas ng presyon ng dugo at mag-trigger ng atake sa puso.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 235,
         "premise": "Ang pagkakaroon ng diabetes ay doble ang panganib ng sakit sa puso o heart disease dahil ang mataas na asukal sa dugo ay maaaring makapinsala sa mga daluyan ng dugo at ugat.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 236,
         "premise": "Ang kakulangan ng sapat na tulog ay nagpapataas ng panganib ng mataas na presyon ng dugo, labis na katabaan, at diabetes, na nagpapataas ng panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 237,
         "premise": "Ang sleep apnea, kung hindi magagamot, ay maaaring magpataas ng panganib ng sakit sa puso o heart disease.",
         "url": "https://www.chcrr.org/tl/health-topic/how-to-prevent-heart-disease/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 238,
         "premise": "Ang HIV ay isang virus na sumisira sa immune system sa pamamagitan ng pagsira sa mga selulang CD4, na nagpapahirap sa katawan na lumaban sa mga impeksiyon at kanser na may kaugnayan sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 239,
         "premise": "Ang HIV, kung walang paggamot, ay maaaring humantong sa AIDS, ang huling yugto ng impeksyon sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 240,
         "premise": "Ang antiretroviral therapy (ART) ay inirerekomenda para sa lahat ng may HIV at binabawasan ang panganib ng pagkalat ng virus sa iba.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 241,
         "premise": "Ang mga gamot sa HIV ay nagpapababa ng dami ng HIV sa katawan at nagbibigay ng pagkakataon sa immune system na gumaling at labanan ang mga impeksyon.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 242,
         "premise": "Mayroong iba't ibang uri ng gamot sa HIV na pumipigil sa HIV na makapagparami, kabilang ang Nucleoside reverse transcriptase inhibitors (NRTIs), Non-nucleoside reverse transcriptase inhibitors (NNRTIs), integrase inhibitors, at protease inhibitors.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 243,
         "premise": "Mahalagang simulan ang pag-inom ng mga gamot sa HIV sa lalong madaling panahon pagkatapos ng diagnosis, lalo na kung buntis, may AIDS, o may impeksyong nauugnay sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 244,
         "premise": "Ang mga gamot sa HIV ay maaaring magdulot ng mga side effect, at mahalagang ipagbigay-alam ang mga ito sa iyong tagapagbigay ng pangangalagang pangkalusugan.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 245,
         "premise": "Ang PrEP (pre-exposure prophylaxis) ay para sa mga taong wala pang HIV ngunit nasa napakataas na panganib na makakuha nito. Ang PEP (post-exposure prophylaxis) ay para sa mga taong posibleng nalantad sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv-medicines/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 246,
         "premise": "Ang leukemia ay isang uri ng kanser ng mga selula ng dugo, at ito ay nagsisimula sa bone marrow.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 247,
         "premise": "Ang talamak na lymphocytic leukemia (ALL) ay ang pinakakaraniwang uri ng kanser sa mga bata ngunit maaari rin itong makaapekto sa mga matatanda.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 248,
         "premise": "Ang talamak na myeloid leukemia (AML) ay mas karaniwan sa mga matatanda ngunit maaari ring makaapekto sa mga bata.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 249,
         "premise": "Ang talamak na lymphocytic leukemia (CLL) ay isa sa mga pinakakaraniwang uri ng leukemia sa mga matatanda at madalas nangyayari sa panahon o pagkatapos ng gitnang edad.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 250,
         "premise": "Ang talamak na myeloid leukemia (CML) ay kadalasang nangyayari sa mga nasa hustong gulang sa panahon o pagkatapos ng katamtamang edad.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 251,
         "premise": "Ang leukemia ay maaaring magdulot ng mga sintomas tulad ng pagkapagod, lagnat, madaling pagkakaroon ng pasa, pagbawas ng timbang, at petechiae.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 252,
-        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, mga pagsusuri sa utak ng buto, at mga pagsusuri sa genetika.",
+        "premise": "Ang pagsusuri ng leukemia ay pisikal na pagsusulit, medikal na kasaysayan, maaring isagawa sa pamamagitan ng mga pagsusuri sa dugo, bone marrow test, at genetic testing.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 253,
         "premise": "Ang mga paggamot para sa leukemia ay kinabibilangan ng kimoterapya, therapy radiation, chemotherapy na may stem cell transplant, at naka-target na therapy.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/",
-        "counter": 0
+        "counter": 2
     }
 ]
