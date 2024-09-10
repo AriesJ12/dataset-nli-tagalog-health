@@ -1,16 +1,16 @@
 42 to 56
 Diseases in nli:
 (SEARCHES HERE IS "Ano ang INSERT DISEASE")
-- chicken pox
+- chicken pox x
 - Common Cold
-- covid
+- covid x
 - COVID-19
-- dengue
-- influenza
+- dengue x
+- influenza x
 - malaria
-- Measles
-- Mumps
-- polio
+- Measles x
+- Mumps x
+- polio x
 - whopping cough
 
 consider diseaseses:
@@ -18,15 +18,15 @@ Acne
 Alzheimer’s Disease
 Amyotrophic Lateral Sclerosis (ALS)
 Anemia
-Anxiety Disorders
+Anxiety Disorders x
 Aspergillosis
-Asthma
+Asthma X
 Atherosclerosis
 Athlete's Foot
 Attention-Deficit/Hyperactivity Disorder (ADHD)
 Autism Spectrum Disorder
-Bipolar Disorder
-Breast Cancer
+Bipolar Disorder x
+Breast Cancer x
 Bronchitis
 Brucellosis
 Celiac Disease
@@ -38,7 +38,7 @@ Chronic Obstructive Pulmonary Disease (COPD)
 Cirrhosis
 Coccidioidomycosis
 Crohn’s Disease
-Depression
+Depression x
 Diabetes Mellitus Type 1
 Diabetes Mellitus Type 2
 Diphtheria
@@ -54,12 +54,12 @@ Gout
 Heart Attack
 Heart Disease
 Hemophilia
-Hepatitis A
-Hepatitis B
-Hepatitis C
+Hepatitis A x
+Hepatitis B x
+Hepatitis C x
 Herpes Simplex Virus
 Histoplasmosis
-HIV/AIDS
+HIV/AIDS x
 Human Papillomavirus (HPV)
 Huntington’s Disease
 Hypertension (High Blood Pressure)
@@ -70,7 +70,7 @@ Leprosy (Hansen’s Disease)
 Leukemia
 Lung Cancer
 Lupus
-Lyme Disease
+Lyme Disease x
 Lymphoma
 Malaria
 Menstrual Disorders
@@ -95,7 +95,7 @@ Schizophrenia
 Seizure Disorders
 Sickle Cell Disease
 Skin Cancer (Melanoma)
-Stroke
+Stroke x
 Syphilis
 Tetanus
 Thalassemia
@@ -107,4 +107,4 @@ Tularemia
 Ulcerative Colitis
 West Nile Virus
 Whooping Cough (Pertussis)
-Zika Virus
+Zika Virus x

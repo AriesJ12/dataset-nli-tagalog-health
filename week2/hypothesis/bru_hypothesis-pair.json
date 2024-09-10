@@ -1,0 +1,458 @@
+[
+    {
+        "hypothesis": "Hindi mahalagabg magkaroon ng action plan para sa hika dahil hindi ito nakakatulog sa pagbuo ng tamang hakbang kung sila'y magkaroon na asthma attack.",
+        "premise": "Ang pagkakaroon ng action plan para sa hika ay makakatulong sa pamamahala ng kondisyon at sa pagbuo ng tamang hakbang kung sakaling magkaroon ng asthma attack.",
+        "label": "contradiction",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng gamot para sa latent TB infection ay hindii nakakapagpiigil sa pagbuo ng active TB disease at hindi nito mapipigil ang pagkalat ng mikrobyo",
+        "premise": "Ang pag-inom ng gamot para sa latent TB infection ay makakapigil sa pagbuo ng active TB disease at makakapagpigil sa pagkalat ng mikrobyo.",
+        "label": "contradiction",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf"
+    },
+    {
+        "hypothesis": "Hindi dapat kumkonsulta sa doktor and mayroong sintomas ng dengue fever",
+        "premise": "Ang mga tao na nagkakaroon ng sintomas ng dengue fever ay dapat kumonsulta sa doktor upang matukoy ang tamang paggamot at pangangalaga.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang taong mayroong tigdas ay may mataas na posibilidad na makahawa ng ibang taon malapit sakanila",
+        "premise": "Ang tigdas ay kumakalat sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus mula sa isang taong may impeksyon.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay isang malubhang sakit na maaring makuha ng lahat ng edad",
+        "premise": "Ang mga taong may trangkaso ay dapat manatili sa bahay at umiwas sa pakikisalamuha sa iba upang maiwasan ang pagkalat ng virus.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Sa panahon ng tag-init pinapayuhan ang mga taong magsuot ng preskong kadamitan",
+        "premise": "Magsuot ng magaan at maginhawang damit kapag nasa mainit na kapaligiran upang makatulong sa pagpapababa ng temperatura ng katawan.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Walang malalang sintomas na binibigay ang Zika virus",
+        "premise": "Ang mga sintomas ng Zika virus ay kinabibilangan ng lagnat, pantal, sakit ng kasu-kasuan, at pananakit ng mga kalamnan, ngunit maaaring hindi palaging magpakita ng sintomas.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangang manatili sa kanilang tahanan ang mga nakasagap ng tidgas upang maiwasan ang pagkahawaan",
+        "premise": "Ang mga taong may tigdas ay dapat manatili sa bahay upang maiwasan ang pagkalat ng sakit sa iba, lalo na sa mga hindi pa nabakunahan.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang mga naiilang paraas para magamot ang depresyon ay sa pamamagitan ng pagkonsulta sa mga medical professional tulad ng therapist",
+        "premise": "Ang mga available na paggamot para sa depression ay kinabibilangan ng psychotherapy, medication, at iba pang therapeutic interventions.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailangan ng tulong upang malutasan ang mental health ng isang tao",
+        "premise": "Ang pagpapahayag ng nararamdaman at paghahanap ng propesyonal na tulong ay mahalaga upang mapabuti ang iyong mental health at maiwasan ang paglala ng kondisyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng anxiety disorder ay hindi naaagapan at kusa itong dumadating sa tao",
+        "premise": "Ang anxiety disorders ay isang grupo ng mental health conditions na nagdudulot ng labis na pag-aalala, takot, at stress na maaaring makagambala sa pang-araw-araw na buhay.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kailangan maging maingat sa katawan upang maiwasan ang pagkakaroon ng ticks lalo na kapag ikaw ay active sa pakikisalamuha sa mga outdoor activities",
+        "premise": "Pagkatapos ng mga outdoor activities, dapat mag-check ng katawan para sa mga ticks at agad na alisin ang anumang ticks na natagpuan gamit ang tweezers.",
+        "label": "entailment",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf"
+    },
+    {
+        "hypothesis": "Mahalagang makatanggap ng COVID-19 na bakuna",
+        "premise": "Ang mga tao na nakatanggap ng inactivated COVID-19 vaccine ay dapat sundin ang mga rekomendasyon ng mga health authorities para sa mga follow-up doses at booster shots.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailanang gumait ng IPV kapag nagpapabakuma dahil wala naman epektong nagagawa sa katawan",
+        "premise": "Mahalaga ang pagbabakuna gamit ang IPV upang mapanatiling protektado ang mga bata laban sa polio at maiwasan ang paglaganap ng sakit sa komunidad.",
+        "label": "contradiction",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf"
+    },
+    {
+        "hypothesis": "Hindi na kinakailanang magpabakuna ng mmr dahil hindi naman ito nalalaban and tigdas, beke at rubella",
+        "premise": "Ang pagbabakuna ng MMR, na nagpoprotekta laban sa tigdas, beke, at rubella, ay mahalaga para sa lahat, lalo na sa mga bata.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Nawawalan ng motibasyon ang taong nasa kasalukuyang nasa depressive episodes dahil sa halo-halong nnagatibong emosyon na nararamdaman",
+        "premise": "Sa mga depressive episodes, ang mga sintomas ay maaaring magsama ng malalim na kalungkutan, pagkapagod, at pagkawala ng interes sa mga pangkaraniwang gawain.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf"
+    },
+    {
+        "hypothesis": "maaring malunasan ang tetatus sa pamamagitan ng maagang paggamot nito",
+        "premise": "Ang tetanus ay isang bacterial infection na nagdudulot ng matinding panghihina ng mga kalamnan at spasms, na maaaring magresulta sa mga panganib sa buhay kung hindi magagamot agad.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf"
+    },
+    {
+        "hypothesis": "Maari mong makuha ang skin cancer kung ang angkan ng iyong pamilya ay mayroon rekord nito",
+        "premise": "Ang skin cancer ay isang uri ng cancer na nagmumula sa mga selula ng balat at maaaring magresulta sa mga abnormal na pagbuo o paglaki sa balat.",
+        "label": "neutral",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf"
+    },
+    {
+        "hypothesis": "Upang mawala ang Zika virus, kinakailangan lamang magpahing at uminom ng gamot para sa lagnat",
+        "premise": "Walang partikular na paggamot para sa Zika virus, ngunit ang mga sintomas ay maaaring maibsan sa pamamagitan ng rest, fluids, at mga over-the-counter na gamot para sa lagnat at pananakit.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Kailanang umiwas sa mga taong nakasagap ng Zika virus lalo na sa mga buntis na kababaihan",
+        "premise": "Ang mga buntis na kababaihan ay dapat kumonsulta sa kanilang healthcare provider kung nagkaroon sila ng sintomas ng Zika virus o kung sila ay nakipag-ugnayan sa mga lugar na apektado ng Zika.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Nakakatulong ang pagkakaroon ng sapat na tulog para maiwasan magkaroon ng diabetes",
+        "premise": "Ang regular na pagsusuri sa blood glucose levels, malusog na pagkain, at pag-eehersisyo ay mahalaga upang mabawasan ang panganib ng pagkakaroon ng diabetes at mapanatili ang magandang kalusugan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Nakakatulong ang pagkakaroon ng active ng lifestyle upang malutasan ang depression",
+        "premise": "Ang mga available na paggamot para sa depression ay kinabibilangan ng psychotherapy, medication, at iba pang therapeutic interventions.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nakakaroon ng mataas na memorya ang mga taong may dementia",
+        "premise": "Ang dementia ay isang kondisyon na nagdudulot ng pag-kasira ng cognitive functions tulad ng memorya, pag-iisip, at pag-uugali, na maaaring magdulot ng malubhang epekto sa araw-araw na buhay.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailangan ng aksyon ang asthma attacks dahil eto lamang ay dulot ng pagod",
+        "premise": "Ang pagkakaroon ng action plan para sa hika ay makakatulong sa pamamahala ng kondisyon at sa pagbuo ng tamang hakbang kung sakaling magkaroon ng asthma attack.",
+        "label": "contradiction",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailangan ng bakuna ang smallpox dahil hindi naman ito nakakahawa at kailangan lamang magpahinga upang malutasan ito",
+        "premise": "Ang pagbabakuna laban sa smallpox ay nagbibigay ng proteksyon laban sa monkeypox dahil sa pagkakapareho ng mga virus, at maaaring gamitin sa mga sitwasyon ng outbreak.",
+        "label": "contradiction",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong mayroong Hepatits B ay may posibilidad na walang sintomas na pinapakita ngunit patuloy parin ang pagdadala nito",
+        "premise": "Ang Hepatitis B ay maaaring maging chronic condition, na nangangahulugang ang virus ay maaaring manatili sa katawan sa loob ng mahabang panahon at magdulot ng malubhang problema sa atay kung hindi ito maipapagamot.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna para sa trangkaso ay nakakatulong sa pag-iwas sa sakit",
+        "premise": "Ang pagbabakuna laban sa trangkaso ay isang epektibong paraan upang maiwasan ang sakit at protektahan ang sarili at ang iba mula sa impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna para sa COVID-19 ay nagbibigay ng lakas sa resistensya ng katawan upang malaban nito ang kumakalat ng sakit",
+        "premise": "Mahalaga ang pagbabakuna upang mapanatili ang kalusugan ng komunidad at maiwasan ang pagkalat ng COVID-19, lalo na sa mga taong nasa mataas na panganib.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailangan ng diagnose ng MADD dahil hindi naman ito malubhang sakit",
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng MADD upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nakakatulong ang pagiging madumi sa katawan upang maiwans ang Hepatits A",
+        "premise": "Ang magandang personal na hygiene, tulad ng madalas na paghuhugas ng kamay at pag-iwas sa kontaminadong pagkain at tubig, ay makakatulong sa pag-iwas sa Hepatitis A.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Agad maagapan ang Lyme disease kung agad itong bibigyan ng antibiotics",
+        "premise": "Ang Lyme disease ay maaaring gamutin ng antibiotics, ngunit ang maagang diagnosis at paggamot ay mahalaga upang maiwasan ang mga malubhang komplikasyon at pangmatagalang epekto.",
+        "label": "entailment",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf"
+    },
+    {
+        "hypothesis": "And heat stroke ay hinding malubhang kondisyon dahil nakaktulong ito sa init",
+        "premise": "Ang heat stroke ay isang malubhang kondisyon na nangyayari kapag ang katawan ay nagiging sobrang init, na nagdudulot ng panganib sa kalusugan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang stroke ay ang pagbara ng daloy ng duo sa utak",
+        "premise": "Ang stroke ay isang medikal na emergency na nangyayari kapag ang daloy ng dugo sa isang bahagi ng utak ay napuputol o nababara, na nagiging sanhi ng pagkasira ng mga selula ng utak.",
+        "label": "neutral",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangang sumonod sa authoridad na pangkalusugan sa mga kailangan gawin ng mga taong naka tanggap ng inactivated COVID-19 vaccine para sa mga susunod na doses ng booster shots.",
+        "premise": "Ang mga tao na nakatanggap ng inactivated COVID-19 vaccine ay dapat sundin ang mga rekomendasyon ng mga health authorities para sa mga follow-up doses at booster shots.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi na kinakailangan sumunod sa mga authoridad na pang kalusugan sa mga kanilang rekomendasyon",
+        "premise": "Ang mga taong kwalipikado para sa ikalawang yugto ng XBB COVID-19 vaccination ay dapat sumunod sa mga rekomendasyon ng health authorities upang makamit ang pinakamainam na proteksyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi na kinakailangan tanggalin ang ticks na dumapo sa katawan dahil nakakapayat ito.",
+        "premise": "Pagkatapos ng mga outdoor activities, dapat mag-check ng katawan para sa mga ticks at agad na alisin ang anumang ticks na natagpuan gamit ang tweezers.",
+        "label": "contradiction",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi na nagkaroon ng mahusay na gamot ang breast cancer at ito ay panghabang buhay na.",
+        "premise": "Ang mga makabagong pagsubok at paggamot para sa breast cancer ay patuloy na umuunlad, kaya't mahalaga na makipag-ugnayan sa inyong healthcare team para sa pinakabagong impormasyon at opsyon.",
+        "label": "contradiction",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf"
+    },
+    {
+        "hypothesis": "Ang beke ay maari madulot ng sakit sa panga at lagnat.",
+        "premise": "Ang beke ay isang viral infection na nagdudulot ng pamamaga ng mga glandulang salivary, na maaaring magresulta sa sakit sa panga at lagnat.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf"
+    },
+    {
+        "hypothesis": "Ang polyo ay siang malubhang saking na nagdudulot ng lagnat, pagod, at saking ng ulo.",
+        "premise": "Ang mga sintomas ng polyo ay maaaring magsama ng lagnat, pagkapagod, sakit ng ulo, at sa mga malubhang kaso, paralisis ng mga kalamnan.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangang magkaroon ng  konsulta sa doktor upang magamot ito ng mabilisan. ",
+        "premise": "Kung makakaranas ng mga sintomas ng Lyme disease pagkatapos ng pagkakakontak sa mga lugar na may ticks, mahalaga na kumonsulta agad sa isang healthcare provider para sa tamang diagnosis at paggamot.",
+        "label": "entailment",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kailangang uminom ng sapat na tubig sa maiinit na panahon.",
+        "premise": "Magsuot ng magaan at maginhawang damit kapag nasa mainit na kapaligiran upang makatulong sa pagpapababa ng temperatura ng katawan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang polio ay isang nakakahawang sakin.",
+        "premise": "Ang mga bata ay karaniwang nabibigyan ng polio vaccine bilang bahagi ng kanilang routine immunization schedule upang maiwasan ang sakit.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi na kailangang pang ma-diagnose at gamutin ang MADD dahl nakakatulong ito sa resistensya",
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng MADD upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang anxiety ay isang sakit na naka pokus sa emosyon ng tao.",
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, pagkatakot, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso at pag-igting ng kalamnan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi epektibo and XBB COVID-19 vaccine sa mga variant ng COVID-19.",
+        "premise": "Ang XBB COVID-19 vaccine ay epektibo laban sa mga variant ng COVID-19, kabilang ang mga bagong strains na maaaring magdulot ng mas malubhang sakit.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang polyo ay isang malubhang sakit.",
+        "premise": "Ang polyo ay kumakalat sa pamamagitan ng oral-fecal route, na nangangahulugang maaaring makuha ang virus mula sa kontaminadong pagkain o tubig, o sa pamamagitan ng direktang kontak sa isang taong may impeksyon.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "And anxiery disorder and isang saking na nakapokus sa mga nagiging emosyon ng isang tao.",
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso, pag-igting ng kalamnan, at pag-ubo.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Walang side effects ang COVID-19 vaccine at agad mawala ang virus sa iyong katawan.",
+        "premise": "Ang mga side effects ng COVID-19 vaccine ay karaniwang lumalala sa loob ng ilang araw at maaaring mawala nang kusa sa loob ng ilang araw.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagiging malinis sa katawan ay nakakatulong sa pag-iwas sa trangkaso.",
+        "premise": "Ang mga simpleng hakbang tulad ng regular na paghuhugas ng kamay at pag-iwas sa pakikisalamuha sa mga taong may trangkaso ay makakatulong sa pag-iwas sa sakit.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Upang maiwasan ang anxiety disorders, kinakailangang kumausap sa isang therapist.",
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, pagkatakot, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso at pag-igting ng kalamnan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang DTap vaccine ay nakakatulong matanggal ang padadala ng COVID-19",
+        "premise": "Ang DTaP vaccine ay ibinibigay sa mga bata sa mga edad na 2 buwan, 4 na buwan, 6 na buwan, 15-18 na buwan, at isang booster dose sa edad na 4-6 taon.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf"
+    },
+    {
+        "hypothesis": "Hindi kinakailangang magpakonsulta sa doktor kung ang tao ay nagkaroon ng sintomas ng dengue dahil pinapalakas nito ang resistensya",
+        "premise": "Ang mga tao na nagkakaroon ng sintomas ng dengue fever ay dapat kumonsulta sa doktor upang matukoy ang tamang paggamot at pangangalaga.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang Tigdas, Beke, at Rubella ay malubhang sakit na nakakahawa.",
+        "premise": "Ang pagbabakuna gamit ang MMR vaccine ay mahalaga upang mapanatili ang komunidad na protektado at maiwasan ang paglaganap ng mga sakit na tigdas, beke, at rubella.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf"
+    },
+    {
+        "hypothesis": "Pinapayuhan ang mga matatandang na nasa edad na 65 na taon na may kondisyon na panganim sa pneumonia para magpabakuna ng PPSV ",
+        "premise": "Ang PPSV ay inirerekomenda para sa mga matatanda na may edad 65 taon o higit pa, pati na rin sa mga indibidwal na may mga kondisyon na nagpapataas ng panganib sa pneumococcal disease.",
+        "label": "entailment",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf"
+    },
+    {
+        "hypothesis": "Maaring makisalamuha ang mga taong mayroong Zika virus dahil hindi namang ito nakakahawa.",
+        "premise": "Ang mga taong may Zika virus ay dapat umiwas sa pakikisalamuha sa iba upang maiwasan ang pagkalat ng virus, lalo na sa mga buntis na kababaihan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang skin cancer ay maaring maaring makuha sa pamily na may rekord nito.",
+        "premise": "Ang skin cancer ay isang uri ng cancer na nagmumula sa mga selula ng balat at maaaring magresulta sa mga abnormal na pagbuo o paglaki sa balat.",
+        "label": "neutral",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf"
+    },
+    {
+        "hypothesis": "Ang tigdas is isang malubhang saking na nakakahawa.",
+        "premise": "Ang mga kabataan at matatanda na hindi pa nabakunahan laban sa tigdas ay dapat kumonsulta sa kanilang healthcare provider para sa mga rekomendasyon sa pagbabakuna.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangan magpakonsulta ang mga bata at matatanda na hindi pa nagpapabakuna laban sa tigdas.",
+        "premise": "Ang tigdas (measles) ay isang nakakahawang sakit na dulot ng measles virus, na nagdudulot ng mga sintomas tulad ng lagnat, pantal, at ubo.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Kailangang maging alisto sa mga bagong impormasyon tungkol sa mga bakuna para masigurado ang patuloy ng bisa nito.",
+        "premise": "Mahalaga ang pag-monitor ng mga side effects at pag-update ng impormasyon tungkol sa mga vaccines upang masiguro ang patuloy na kaligtasan at bisa.",
+        "label": "entailment",
+        "url": "https://www.fda.gov/media/154475/download"
+    },
+    {
+        "hypothesis": "Ang diabetes ay hindi malubhang kondisyon at nagiging maganda laman ang dami ng glucose sa dugo.",
+        "premise": "Ang diabetes ay isang chronic condition na nagreresulta mula sa mataas na antas ng glucose sa dugo, na maaaring magdulot ng malubhang komplikasyon sa kalusugan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang tigdas ay hindi kumakalat sa hanging at ligtas sa mga tao.",
+        "premise": "Ang tigdas ay kumakalat sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus mula sa isang taong may impeksyon.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang PPSV ay isang bakuna para sa Pneumonia.",
+        "premise": "Ang PPSV ay inirerekomenda para sa mga matatanda na may edad 65 taon o higit pa, pati na rin sa mga indibidwal na may mga kondisyon na nagpapataas ng panganib sa pneumococcal disease.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf"
+    },
+    {
+        "hypothesis": "Ang IPV ay isang bakuna para sa polio.",
+        "premise": "Mahalaga ang pagbabakuna gamit ang IPV upang mapanatiling protektado ang mga bata laban sa polio at maiwasan ang paglaganap ng sakit sa komunidad.",
+        "label": "neutral",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangang ng seryosong medikal na atensyon and Angina dahil sa malubhang komplikasyon nito.",
+        "premise": "Ang angina ay maaaring magpahiwatig ng isang seryosong kondisyon tulad ng coronary artery disease at maaaring mangailangan ng medikal na atensyon upang maiwasan ang mga komplikasyon.",
+        "label": "entailment",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkalimot ng maraming bagay at paibang-ibang mood swing and isa sa mga sintomas ng dementia.",
+        "premise": "Ang dementia ay isang kondisyon na nagdudulot ng pag-kasira ng cognitive functions tulad ng memorya, pag-iisip, at pag-uugali, na maaaring magdulot ng malubhang epekto sa araw-araw na buhay.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Maaring mayroon dinadalang sakit na Hepatits A ang mga taong nagkakaron ng sintomas na pagdidilaw ng mata, pagkapagod, sakit ng tiyan, at pagkawalang ganang kumain.",
+        "premise": "Ang mga sintomas ng Hepatitis A ay kinabibilangan ng pagkapagod, pagkakaroon ng jaundice (pagiging dilaw ng balat at mata), sakit ng tiyan, at pagkawala ng gana sa pagkain.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang Hepatitis B ay isang malubhang saking at nagbibigay impeksyon sa kalusugan.",
+        "premise": "Ang pagbabakuna laban sa Hepatitis B ay isang epektibong paraan upang maiwasan ang impeksyon at protektahan ang sarili laban sa Hepatitis B virus.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Importante ang madalas na pag-konsulta sa mga healthcare provider and mga taong nagdadala ng sakit na hika upang maiwasan ang madalas na pagkakaroon ng asthma attacks.",
+        "premise": "Mahalaga ang regular na monitoring ng mga sintomas at pag-follow up sa healthcare provider upang mapanatiling kontrolado ang hika at maiwasan ang mga malubhang asthma attacks.",
+        "label": "entailment",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf"
+    },
+    {
+        "hypothesis": "Walang opsyon sa paggamot ang breast cancer dahil hindi na ito malulutusan ng kahit anong treatment.",
+        "premise": "Ang mga opsyon sa paggamot para sa breast cancer ay maaaring magsama ng surgery, chemotherapy, radiation therapy, at hormone therapy, na maaaring ipaliwanag ng inyong healthcare team.",
+        "label": "contradiction",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf"
+    },
+    {
+        "hypothesis": "Ang bulutong-tubig ay hindi kumakalat sa direktang kontak sa mga pantal ng isang tao at hindi rin iito kumakalat sa hangin",
+        "premise": "Ang bulutong-tubig ay kumakalat sa pamamagitan ng direktang kontak sa mga pantal ng isang taong may sakit, o sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Kinakailangang sukating palagi ang bilang ng glucose sa dugo, masustansyang pagkain, at pagkakaron ng active na pamumuhay upang maiwasan ang pagkakaroon ng diabetes.",
+        "premise": "Ang regular na pagsusuri sa blood glucose levels, malusog na pagkain, at pag-eehersisyo ay mahalaga upang mabawasan ang panganib ng pagkakaroon ng diabetes at mapanatili ang magandang kalusugan.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf"
+    },
+    {
+        "hypothesis": "Ang depression hindi biro at malubhang sakit.",
+        "premise": "Ang mga paggamot para sa depression ay maaaring magsama ng psychotherapy, medication, at iba pang suportang medikal na makakatulong sa pagpapabuti ng mental health.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Isang nakakahawang sakit and polio at ang  hindi pag-gamot nito ay maaring magresulta ng pagmatagalan na epekto sa pangangatawan.",
+        "premise": "Ang polio ay isang nakakahawang sakit na maaaring magdulot ng pamamanhid, panghihina, at paralisis, na maaaring magresulta sa mga pangmatagalang epekto kung hindi maagapan.",
+        "label": "entailment",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf"
+    },
+    {
+        "hypothesis": "Ang skin cancer ay isang malubhang sakit.",
+        "premise": "Mahalaga ang regular na pagsusuri ng balat upang maagang matukoy ang mga pagbabago at maipadala para sa pagsusuri upang magbigay ng tamang diagnosis at paggamot.",
+        "label": "neutral",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf"
+    },
+    {
+        "hypothesis": "Ang manic episodes ay isa sa mga  mental health disorders.",
+        "premise": "Sa mga manic episodes, ang mga sintomas ay maaaring magsama ng labis na saya, mataas na enerhiya, at impulsive na pag-uugali.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Walang masamang dulot na ibinibigay ang depression sa isang tao.",
+        "premise": "Ang depression ay maaaring magresulta sa mga seryosong problema sa kalusugan, kabilang ang mga suliranin sa pisikal at mental na kalusugan, at maaaring magdulot ng mga panganib tulad ng suicidal thoughts.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf"
+    }
+]

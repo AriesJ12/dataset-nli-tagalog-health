@@ -1,0 +1,1568 @@
+[
+    {
+        "id": 1,
+        "premise": "Ang bulutong-tubig (chickenpox) ay isang nakakahawang sakit na dulot ng varicella-zoster virus, na nagdudulot ng mga pantal at pangangati sa balat.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 2,
+        "premise": "Ang bulutong-tubig ay kumakalat sa pamamagitan ng direktang kontak sa mga pantal ng isang taong may sakit, o sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 3,
+        "premise": "Ang mga sintomas ng bulutong-tubig ay kinabibilangan ng lagnat, pangangati, at pantal sa balat na nagsisimula sa maliit na paltos na kumakalat sa buong katawan.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 4,
+        "premise": "Ang pagbabakuna laban sa bulutong-tubig ay isang epektibong paraan upang maiwasan ang sakit at protektahan ang sarili mula sa impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 5,
+        "premise": "Ang mga taong may bulutong-tubig ay dapat manatili sa bahay upang maiwasan ang pagkalat ng sakit sa iba, lalo na sa mga hindi pa nabakunahan.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 6,
+        "premise": "Ang bulutong-tubig ay maaaring magdulot ng mga komplikasyon tulad ng bacterial skin infections, pneumonia, at encephalitis, lalo na sa mga malubhang kaso.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 7,
+        "premise": "Ang mga buntis na kababaihan at mga taong may compromised immune system ay dapat maging maingat dahil ang bulutong-tubig ay maaaring magdulot ng mas malubhang komplikasyon sa kanila.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 8,
+        "premise": "Mahalaga ang regular na pagsusuri at pagbabakuna upang mapanatili ang kaligtasan laban sa bulutong-tubig, lalo na para sa mga bata at mga taong nasa panganib.",
+        "url": "https://www.chp.gov.hk/files/pdf/cheu_chickenpox_indo_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 9,
+        "premise": "Ang trangkaso (influenza) ay isang nakakahawang sakit na dulot ng influenza virus, na nagdudulot ng mga sintomas tulad ng lagnat, ubo, sore throat, at katawan na sumasakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 10,
+        "premise": "Ang trangkaso ay kumakalat sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus, o sa pamamagitan ng direktang kontak sa mga nahawahan na bagay o tao.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 11,
+        "premise": "Ang mga sintomas ng trangkaso ay kinabibilangan ng mataas na lagnat, ubo, sore throat, panghihina, at sakit ng katawan.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 12,
+        "premise": "Ang pagbabakuna laban sa trangkaso ay isang epektibong paraan upang maiwasan ang sakit at protektahan ang sarili at ang iba mula sa impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 13,
+        "premise": "Ang mga taong may trangkaso ay dapat manatili sa bahay at umiwas sa pakikisalamuha sa iba upang maiwasan ang pagkalat ng virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 14,
+        "premise": "Ang mga taong nasa mataas na panganib, tulad ng mga matatanda, mga bata, at mga taong may chronic illnesses, ay dapat magpabakuna laban sa trangkaso.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 15,
+        "premise": "Ang mga simpleng hakbang tulad ng regular na paghuhugas ng kamay at pag-iwas sa pakikisalamuha sa mga taong may trangkaso ay makakatulong sa pag-iwas sa sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 16,
+        "premise": "Kung ang trangkaso ay nagdudulot ng malubhang sintomas o komplikasyon, mahalagang kumonsulta sa doktor para sa tamang paggamot at pangangalaga.",
+        "url": "https://www.chp.gov.hk/files/pdf/influenza_bahasa_thai_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 17,
+        "premise": "Ang Zika virus ay isang sakit na dulot ng Zika virus, na kumakalat sa pamamagitan ng kagat ng mga infected na lamok, tulad ng Aedes mosquitoes.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 18,
+        "premise": "Ang mga sintomas ng Zika virus ay kinabibilangan ng lagnat, pantal, sakit ng kasu-kasuan, at pananakit ng mga kalamnan, ngunit maaaring hindi palaging magpakita ng sintomas.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 19,
+        "premise": "Ang Zika virus ay maaaring magdulot ng malubhang komplikasyon sa mga buntis na kababaihan, kabilang ang microcephaly at iba pang mga depekto sa kapanganakan sa kanilang mga sanggol.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 20,
+        "premise": "Upang maiwasan ang Zika virus, mahalaga ang paggamit ng insect repellent, pagsusuot ng mga protektadong damit, at pag-iwas sa mga lugar na maraming lamok.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 21,
+        "premise": "Ang mga buntis na kababaihan ay dapat kumonsulta sa kanilang healthcare provider kung nagkaroon sila ng sintomas ng Zika virus o kung sila ay nakipag-ugnayan sa mga lugar na apektado ng Zika.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 22,
+        "premise": "Walang partikular na paggamot para sa Zika virus, ngunit ang mga sintomas ay maaaring maibsan sa pamamagitan ng rest, fluids, at mga over-the-counter na gamot para sa lagnat at pananakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 23,
+        "premise": "Ang mga taong may Zika virus ay dapat umiwas sa pakikisalamuha sa iba upang maiwasan ang pagkalat ng virus, lalo na sa mga buntis na kababaihan.",
+        "url": "https://www.chp.gov.hk/files/pdf/zika_pamphlet_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 24,
+        "premise": "Ang polyo (poliomyelitis) ay isang nakakahawang sakit na dulot ng poliovirus na nagdudulot ng paminsan-minsan na paralisis, partikular sa mga binti.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 25,
+        "premise": "Ang polyo ay kumakalat sa pamamagitan ng oral-fecal route, na nangangahulugang maaaring makuha ang virus mula sa kontaminadong pagkain o tubig, o sa pamamagitan ng direktang kontak sa isang taong may impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 26,
+        "premise": "Ang mga sintomas ng polyo ay maaaring magsama ng lagnat, pagkapagod, sakit ng ulo, at sa mga malubhang kaso, paralisis ng mga kalamnan.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 27,
+        "premise": "Ang pagbabakuna laban sa polyo ay isang epektibong paraan upang maiwasan ang sakit at protektahan ang sarili at ang iba mula sa impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 28,
+        "premise": "Ang mga bata ay karaniwang nabibigyan ng polio vaccine bilang bahagi ng kanilang routine immunization schedule upang maiwasan ang sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 29,
+        "premise": "Ang mga taong may polyo na sintomas ay dapat kumonsulta sa doktor para sa tamang pangangalaga at paggamot upang maiwasan ang mga komplikasyon at mapanatili ang kalidad ng buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 30,
+        "premise": "Ang mga komunidad na hindi nabakunahan laban sa polyo ay nasa panganib ng outbreak, kaya't mahalaga ang pagpapabakuna upang mapanatili ang herd immunity.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 31,
+        "premise": "Mahalaga ang regular na pagbabakuna at monitoring upang mapanatili ang proteksyon laban sa polyo at maiwasan ang paglaganap ng sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 32,
+        "premise": "Ang tigdas (measles) ay isang nakakahawang sakit na dulot ng measles virus, na nagdudulot ng mga sintomas tulad ng lagnat, pantal, at ubo.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 33,
+        "premise": "Ang tigdas ay kumakalat sa pamamagitan ng hangin mula sa mga droplets na naglalaman ng virus mula sa isang taong may impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 2
+    },
+    {
+        "id": 34,
+        "premise": "Ang mga sintomas ng tigdas ay kinabibilangan ng mataas na lagnat, pantal sa balat na karaniwang nagsisimula sa mukha at kumakalat sa buong katawan, at mga sintomas ng paghinga tulad ng ubo.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 35,
+        "premise": "Ang pagbabakuna laban sa tigdas ay isang epektibong paraan upang maiwasan ang sakit at protektahan ang sarili at ang iba mula sa impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 36,
+        "premise": "Ang mga taong may tigdas ay dapat manatili sa bahay upang maiwasan ang pagkalat ng sakit sa iba, lalo na sa mga hindi pa nabakunahan.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 37,
+        "premise": "Ang tigdas ay maaaring magdulot ng malubhang komplikasyon tulad ng pneumonia, encephalitis, at maaaring maging sanhi ng pagkamatay sa mga malubhang kaso.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 38,
+        "premise": "Ang pagbabakuna ng MMR, na nagpoprotekta laban sa tigdas, beke, at rubella, ay mahalaga para sa lahat, lalo na sa mga bata.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 39,
+        "premise": "Ang mga kabataan at matatanda na hindi pa nabakunahan laban sa tigdas ay dapat kumonsulta sa kanilang healthcare provider para sa mga rekomendasyon sa pagbabakuna.",
+        "url": "https://www.chp.gov.hk/files/pdf/measles_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 40,
+        "premise": "Ang MMR (Measles, Mumps, and Rubella) vaccine ay isang kombinasyon ng tatlong bakuna na nagpoprotekta laban sa tigdas, beke, at rubella.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 41,
+        "premise": "Ang pagbabakuna ng MMR ay mahalaga para sa mga foreign domestic helpers upang mapanatili ang kanilang kalusugan at maiwasan ang pagkalat ng mga sakit sa kanilang mga amo.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 42,
+        "premise": "Ang mga foreign domestic helpers na walang sapat na proteksyon laban sa tigdas, beke, at rubella ay nasa panganib na magkaroon ng mga sakit na ito, na maaaring magdulot ng malubhang komplikasyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 43,
+        "premise": "Ang MMR vaccine ay epektibo sa pag-iwas sa mga sakit na tigdas, beke, at rubella, at karaniwan itong ibinibigay sa mga bata at matatanda.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 44,
+        "premise": "Mahalaga ang regular na pagsusuri at pagbabakuna upang mapanatili ang kaligtasan laban sa MMR diseases, lalo na para sa mga foreign domestic helpers na nagtatrabaho sa ibang bansa.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 45,
+        "premise": "Ang mga foreign domestic helpers ay dapat kumonsulta sa kanilang healthcare provider upang matukoy kung sila ay kinakailangang magpabakuna laban sa MMR.",
+        "url": "https://www.chp.gov.hk/files/pdf/mmr_advice_for_foreign_domestic_helpers_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 46,
+        "premise": "Ang dengue fever ay isang nakakahawang sakit na dulot ng dengue virus, na kumakalat sa pamamagitan ng kagat ng Aedes mosquitoes.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 47,
+        "premise": "Ang mga sintomas ng dengue fever ay kinabibilangan ng mataas na lagnat, sakit ng ulo, pananakit ng mga kasu-kasuan at kalamnan, at pantal.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 48,
+        "premise": "Ang dengue fever ay maaaring magdulot ng mga komplikasyon tulad ng dengue hemorrhagic fever at dengue shock syndrome, na maaaring magresulta sa malubhang panganib sa kalusugan.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 49,
+        "premise": "Ang pag-iwas sa dengue fever ay kinabibilangan ng paggamit ng insect repellent, pagsusuot ng mga protektadong damit, at pag-iwas sa mga lugar na maraming lamok.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 50,
+        "premise": "Ang mga tao na nagkakaroon ng sintomas ng dengue fever ay dapat kumonsulta sa doktor upang matukoy ang tamang paggamot at pangangalaga.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 2
+    },
+    {
+        "id": 51,
+        "premise": "Walang partikular na antiviral na gamot para sa dengue fever, ngunit ang mga sintomas ay maaaring maibsan sa pamamagitan ng rest, hydration, at mga over-the-counter na gamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 52,
+        "premise": "Ang regular na monitoring at maagang pagtukoy ng dengue fever ay mahalaga upang maiwasan ang paglala ng sakit at mga komplikasyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/df_pamphlet02_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 53,
+        "premise": "Ang inactivated COVID-19 vaccine ay isang uri ng bakuna na ginagamit upang protektahan laban sa COVID-19 sa pamamagitan ng paggamit ng inactivated o patay na virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 54,
+        "premise": "Ang inactivated COVID-19 vaccine ay epektibo sa pag-iwas sa malubhang sakit at pagkakaroon ng komplikasyon dulot ng COVID-19 virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 55,
+        "premise": "Ang mga pangunahing sintomas ng COVID-19 na maaaring maiwasan ng inactivated vaccine ay kinabibilangan ng lagnat, ubo, at kahirapan sa paghinga.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 56,
+        "premise": "Ang pagbabakuna gamit ang inactivated COVID-19 vaccine ay maaaring magdulot ng mga mild na side effects tulad ng pananakit sa lugar ng pagbabakuna, lagnat, at pagkapagod.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 57,
+        "premise": "Ang inactivated COVID-19 vaccine ay karaniwang ibinibigay sa dalawang doses na may pagitan na ilang linggo upang makamit ang maximum na proteksyon laban sa COVID-19.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 58,
+        "premise": "Mahalaga ang pagbabakuna upang mapanatili ang kalusugan ng komunidad at maiwasan ang pagkalat ng COVID-19, lalo na sa mga taong nasa mataas na panganib.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 59,
+        "premise": "Ang mga tao na nakatanggap ng inactivated COVID-19 vaccine ay dapat sundin ang mga rekomendasyon ng mga health authorities para sa mga follow-up doses at booster shots.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_on_inactivated_covid_19_vaccine_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 60,
+        "premise": "Ang mRNA COVID-19 vaccine ay isang uri ng bakuna na ginagamit upang protektahan laban sa COVID-19 sa pamamagitan ng paggamit ng messenger RNA (mRNA) upang magbigay ng instructions sa katawan na gumawa ng viral protein.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 61,
+        "premise": "Ang mRNA COVID-19 vaccine ay epektibo sa pag-iwas sa malubhang sakit at pagkakaroon ng komplikasyon dulot ng COVID-19 virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 62,
+        "premise": "Ang mga pangunahing sintomas ng COVID-19 na maaaring maiwasan ng mRNA vaccine ay kinabibilangan ng lagnat, ubo, at kahirapan sa paghinga.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 63,
+        "premise": "Ang pagbabakuna gamit ang mRNA COVID-19 vaccine ay maaaring magdulot ng mga mild na side effects tulad ng pananakit sa lugar ng pagbabakuna, lagnat, at pagkapagod.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 64,
+        "premise": "Ang mRNA COVID-19 vaccine ay karaniwang ibinibigay sa dalawang doses na may pagitan na ilang linggo, at maaaring kailanganin ang booster doses para sa mas matagal na proteksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 65,
+        "premise": "Ang mga tao na nakatanggap ng mRNA COVID-19 vaccine ay dapat sundin ang mga rekomendasyon ng mga health authorities para sa mga follow-up doses at booster shots.",
+        "url": "https://www.chp.gov.hk/files/pdf/factsheet_for_vaccination_of_mrna_covid_vaccine_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 66,
+        "premise": "Ang ikalawang yugto ng XBB COVID-19 vaccination ay nagsasangkot ng pagbibigay ng mga karagdagang dosis ng bakuna upang mapanatili ang mataas na antas ng proteksyon laban sa COVID-19.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 67,
+        "premise": "Ang XBB COVID-19 vaccine ay epektibo laban sa mga variant ng COVID-19, kabilang ang mga bagong strains na maaaring magdulot ng mas malubhang sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 68,
+        "premise": "Ang ikalawang yugto ng pagbabakuna ay nagbibigay-diin sa kahalagahan ng booster doses upang mapanatili ang proteksyon laban sa COVID-19 at maiwasan ang paglala ng sakit.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 69,
+        "premise": "Ang mga pangunahing sintomas ng COVID-19 na maaaring maiwasan sa pamamagitan ng XBB vaccine ay kinabibilangan ng lagnat, ubo, at kahirapan sa paghinga.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 70,
+        "premise": "Ang mga taong kwalipikado para sa ikalawang yugto ng XBB COVID-19 vaccination ay dapat sumunod sa mga rekomendasyon ng health authorities upang makamit ang pinakamainam na proteksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 71,
+        "premise": "Mahalaga ang regular na pagbabakuna upang mapanatili ang kalusugan ng komunidad at maiwasan ang pagkalat ng COVID-19, lalo na sa mga taong nasa mataas na panganib.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 72,
+        "premise": "Ang mga side effects ng XBB COVID-19 vaccine ay maaaring maglaman ng mild symptoms tulad ng pananakit sa lugar ng pagbabakuna, lagnat, at pagkapagod.",
+        "url": "https://www.chp.gov.hk/files/pdf/second_phase_of_xbb_covid_19_vaccination_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 73,
+        "premise": "Ang mga karaniwang side effects ng COVID-19 vaccine ay kinabibilangan ng pananakit sa lugar ng pagbabakuna, lagnat, at pagkapagod.",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 74,
+        "premise": "Ang ilang mga tao ay maaaring makaranas ng mild na sintomas tulad ng pananakit ng ulo, panghihina, at pamamaga sa lugar ng pagbabakuna pagkatapos makuha ang COVID-19 vaccine.",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 75,
+        "premise": "Ang mga side effects ng COVID-19 vaccine ay karaniwang lumalala sa loob ng ilang araw at maaaring mawala nang kusa sa loob ng ilang araw.",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 76,
+        "premise": "Kung ang mga sintomas ay malubha o hindi nawawala, mahalaga na kumonsulta sa healthcare provider para sa karagdagang pagsusuri at pangangalaga.",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 77,
+        "premise": "Ang mga benepisyo ng pagbabakuna laban sa COVID-19 ay lumalampas sa mga panganib ng mga side effects, at mahalaga ang pagbabakuna upang protektahan ang sarili at ang iba mula sa COVID-19.",
+        "url": "https://www.chp.gov.hk/files/pdf/dh_covid19_side_effect_poster_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 78,
+        "premise": "Ang heat stroke ay isang malubhang kondisyon na nangyayari kapag ang katawan ay nagiging sobrang init, na nagdudulot ng panganib sa kalusugan.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 79,
+        "premise": "Upang maiwasan ang heat stroke, mahalagang uminom ng sapat na tubig upang mapanatili ang tamang hydration ng katawan.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 80,
+        "premise": "Dapat iwasan ang matagal na pagkakalantad sa direktang sikat ng araw, lalo na sa mga oras na pinakamainit, upang mabawasan ang panganib ng heat stroke.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 81,
+        "premise": "Magsuot ng magaan at maginhawang damit kapag nasa mainit na kapaligiran upang makatulong sa pagpapababa ng temperatura ng katawan.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 2
+    },
+    {
+        "id": 82,
+        "premise": "Ang mga taong nag-eehersisyo o nagtatrabaho sa mainit na kapaligiran ay dapat magpahinga sa mga malamig na lugar upang maiwasan ang sobrang init ng katawan.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 83,
+        "premise": "Kung may sintomas ng heat stroke tulad ng mataas na lagnat, pagkalito, at pagkakahiwalay ng malay, agad na kumonsulta sa medikal na propesyonal para sa tamang paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/5_ways_prevent_heat_stroke_indonesia_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 84,
+        "premise": "Ang Hepatitis C ay isang viral infection na nagdudulot ng inflammation ng atay at maaaring magresulta sa malubhang problema sa atay kung hindi ito maipapagamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 85,
+        "premise": "Mahalaga ang pagsusuri para sa Hepatitis C upang matukoy ang pagkakaroon ng virus sa katawan at upang magbigay ng tamang paggamot kung kinakailangan.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 86,
+        "premise": "Ang Hepatitis C virus ay kumakalat sa pamamagitan ng pakikipag-ugnayan sa kontaminadong dugo, kaya't ang mga taong nagkaroon ng risk exposure ay dapat magpasuri para sa Hepatitis C.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 87,
+        "premise": "Ang mga sintomas ng Hepatitis C ay maaaring magsama ng pagkapagod, pagkakaroon ng jaundice (pagiging dilaw ng balat at mata), at sakit sa tiyan, ngunit maaaring hindi magpakita ng sintomas sa mga unang yugto.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 88,
+        "premise": "Ang maagang pag-diagnose ng Hepatitis C ay mahalaga upang maiwasan ang pag-unlad ng sakit sa chronic liver disease at upang mapabuti ang resulta ng paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 89,
+        "premise": "Ang paggamot para sa Hepatitis C ay maaaring maglaman ng antiviral medications na makakatulong sa pag-aalis ng virus mula sa katawan at pag-aayos ng kondisyon ng atay.",
+        "url": "https://www.chp.gov.hk/files/pdf/get_tested_for_hepatitis_c_can_save_your_life_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 90,
+        "premise": "Ang Hepatitis B ay isang viral infection na nagdudulot ng inflammation ng atay at maaaring magresulta sa malubhang problema sa atay, tulad ng cirrhosis at liver cancer.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 91,
+        "premise": "Ang Hepatitis B virus ay kumakalat sa pamamagitan ng pakikipag-ugnayan sa kontaminadong dugo, mga bodily fluids, at sa pamamagitan ng hindi ligtas na sexual contact.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 92,
+        "premise": "Ang mga sintomas ng Hepatitis B ay maaaring magsama ng pagkapagod, pagkakaroon ng jaundice (pagiging dilaw ng balat at mata), at sakit sa tiyan, ngunit maaaring hindi magpakita ng sintomas sa mga unang yugto.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 93,
+        "premise": "Ang Hepatitis B ay maaaring maging chronic condition, na nangangahulugang ang virus ay maaaring manatili sa katawan sa loob ng mahabang panahon at magdulot ng malubhang problema sa atay kung hindi ito maipapagamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 94,
+        "premise": "Ang pagbabakuna laban sa Hepatitis B ay isang epektibong paraan upang maiwasan ang impeksyon at protektahan ang sarili laban sa Hepatitis B virus.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 95,
+        "premise": "Ang maagang pag-diagnose at paggamot ng Hepatitis B ay mahalaga upang maiwasan ang pag-unlad ng sakit sa chronic liver disease at upang mapabuti ang resulta ng paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/what_you_need_to_know_about_hep_b_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 96,
+        "premise": "Ang Hepatitis A ay isang viral infection na nagdudulot ng inflammation ng atay at maaaring magresulta sa sintomas tulad ng lagnat, pagkapagod, at jaundice.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 97,
+        "premise": "Ang Hepatitis A virus ay kumakalat sa pamamagitan ng kontaminadong pagkain o tubig, at maaari ding mag-spread sa pamamagitan ng hindi maayos na hygiene.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 98,
+        "premise": "Ang mga sintomas ng Hepatitis A ay kinabibilangan ng pagkapagod, pagkakaroon ng jaundice (pagiging dilaw ng balat at mata), sakit ng tiyan, at pagkawala ng gana sa pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 99,
+        "premise": "Ang Hepatitis A ay maaaring iwasan sa pamamagitan ng pagbabakuna, na nagbibigay ng proteksyon laban sa virus at mababawasan ang panganib ng impeksyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 100,
+        "premise": "Ang magandang personal na hygiene, tulad ng madalas na paghuhugas ng kamay at pag-iwas sa kontaminadong pagkain at tubig, ay makakatulong sa pag-iwas sa Hepatitis A.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 101,
+        "premise": "Ang Hepatitis A ay karaniwang hindi nagdudulot ng malubhang komplikasyon at madalas na gumagaling sa loob ng ilang linggo hanggang sa ilang buwan na walang partikular na paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/hepatitis_a_factsheet_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 102,
+        "premise": "Ang diabetes ay isang chronic condition na nagreresulta mula sa mataas na antas ng glucose sa dugo, na maaaring magdulot ng malubhang komplikasyon sa kalusugan.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 1
+    },
+    {
+        "id": 103,
+        "premise": "Ang mga pangunahing risk factors para sa diabetes ay kinabibilangan ng pagiging overweight o obese, kakulangan sa pisikal na aktibidad, at hindi tamang pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 104,
+        "premise": "Ang family history ng diabetes, pagkakaroon ng high blood pressure, at mataas na cholesterol levels ay maaari ring magpataas ng panganib ng pagkakaroon ng diabetes.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 105,
+        "premise": "Ang regular na pagsusuri sa blood glucose levels, malusog na pagkain, at pag-eehersisyo ay mahalaga upang mabawasan ang panganib ng pagkakaroon ng diabetes at mapanatili ang magandang kalusugan.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 2
+    },
+    {
+        "id": 106,
+        "premise": "Ang pagpapababa ng timbang, pagkakaroon ng balanseng diyeta, at pagtaas ng pisikal na aktibidad ay mga pangunahing hakbang sa pag-iwas sa diabetes at pamamahala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 107,
+        "premise": "Ang maagang pag-diagnose at paggamot ng diabetes ay mahalaga upang maiwasan ang mga komplikasyon tulad ng sakit sa puso, pagkasira ng mga mata, at pagkasira ng mga nerves.",
+        "url": "https://www.chp.gov.hk/files/pdf/lets_beat_diabetes_risk_factors_bahasa_tagalog_thai.pdf",
+        "counter": 0
+    },
+    {
+        "id": 108,
+        "premise": "Ang depression ay isang mental health condition na nagdudulot ng malalim na kalungkutan, pagkakahiwalay, at pagkawala ng interes sa mga pangkaraniwang gawain.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 109,
+        "premise": "Ang mga sintomas ng depression ay maaaring magsama ng matinding pagkalungkot, pagkapagod, problema sa pagtulog, at pagbabago sa gana sa pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 110,
+        "premise": "Ang depression ay maaaring magresulta sa mga seryosong problema sa kalusugan, kabilang ang mga suliranin sa pisikal at mental na kalusugan, at maaaring magdulot ng mga panganib tulad ng suicidal thoughts.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 111,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng depression upang mapabuti ang kalidad ng buhay ng indibidwal at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 112,
+        "premise": "Ang mga paggamot para sa depression ay maaaring magsama ng psychotherapy, medication, at iba pang suportang medikal na makakatulong sa pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 113,
+        "premise": "Kung nakakaramdam ng sintomas ng depression, mahalagang kumonsulta sa isang mental health professional para sa tamang diagnosis at paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 114,
+        "premise": "Ang depression ay isang mental health disorder na nagdudulot ng patuloy na pakiramdam ng kalungkutan at pagkawala ng interes sa mga aktibidad na karaniwang ikinasisiya.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 115,
+        "premise": "Ang mga sintomas ng depression ay maaaring magsama ng malalim na pagkalungkot, pagkapagod, pagkabahala sa sarili, at mga problema sa pagtulog at pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 116,
+        "premise": "Ang depression ay maaaring magdulot ng malubhang epekto sa pang-araw-araw na buhay, kabilang ang mga problema sa relasyon, trabaho, at pangkalahatang kalidad ng buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 117,
+        "premise": "Ang mga sanhi ng depression ay maaaring kabilang ang genetic factors, biochemical imbalances, at mga stress na kaganapan sa buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 118,
+        "premise": "Ang paggamot para sa depression ay maaaring magsama ng psychotherapy, medication, at iba pang supportive therapies na tumutulong sa pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 119,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng depression upang maiwasan ang paglala ng kondisyon at mapabuti ang kalidad ng buhay ng indibidwal.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 120,
+        "premise": "Ang mga taong may depression ay dapat kumonsulta sa isang mental health professional para sa tamang diagnosis at personalized na plano ng paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 121,
+        "premise": "Kung sa tingin mo ay may depression ka, mahalagang kumonsulta sa isang mental health professional para sa tamang diagnosis at paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 122,
+        "premise": "Ang mga sintomas ng depression ay maaaring magsama ng matinding kalungkutan, pagkapagod, problema sa pagtulog, at mga pagbabago sa gana sa pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 123,
+        "premise": "Ang isang mental health professional ay maaaring magsagawa ng comprehensive assessment upang matukoy ang pagkakaroon ng depression at angkop na plano ng paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 124,
+        "premise": "Ang mga available na paggamot para sa depression ay kinabibilangan ng psychotherapy, medication, at iba pang therapeutic interventions.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 125,
+        "premise": "Mahalaga ang pagkuha ng suporta mula sa pamilya, mga kaibigan, at mga support groups habang ikaw ay nagpapagaling mula sa depression.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 126,
+        "premise": "Ang pagpapahayag ng nararamdaman at paghahanap ng propesyonal na tulong ay mahalaga upang mapabuti ang iyong mental health at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/if_you_think_you_have_depression_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 127,
+        "premise": "Ang breast cancer ay isang uri ng cancer na nagsisimula sa mga cells ng suso at maaaring magdulot ng malubhang sakit kung hindi maagapan.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 128,
+        "premise": "Ang mga sintomas ng breast cancer ay maaaring magsama ng pamamaga, bukol o masa sa suso, pagbabago sa hugis o laki ng suso, at pagkakaroon ng discharge mula sa utong.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 129,
+        "premise": "Ang mga risk factors para sa breast cancer ay kinabibilangan ng family history ng cancer, pagkakaroon ng genetic mutations, at mga lifestyle factors tulad ng kakulangan sa pisikal na aktibidad at hindi tamang pagkain.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 130,
+        "premise": "Ang regular na breast self-exams at mammograms ay mahalaga para sa maagang pagtuklas ng breast cancer, na maaaring magpataas ng pagkakataong magtagumpay ang paggamot.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 131,
+        "premise": "Ang mga available na paggamot para sa breast cancer ay kinabibilangan ng surgery, chemotherapy, radiation therapy, at hormone therapy, na maaaring iakma sa antas at uri ng cancer.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 132,
+        "premise": "Ang suporta mula sa mga healthcare professionals, pamilya, at mga support groups ay mahalaga sa pagharap sa breast cancer at sa proseso ng pagpapagaling.",
+        "url": "https://www.chp.gov.hk/files/pdf/encl1_breast_cancer_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 133,
+        "premise": "Ang bipolar disorder ay isang mental health condition na nagdudulot ng malalaking pagbabago sa mood, mula sa mania o hypomania hanggang sa depression.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 134,
+        "premise": "Sa panahon ng manic episodes, ang mga sintomas ng bipolar disorder ay maaaring magsama ng sobrang saya, mataas na enerhiya, at impulsive behavior.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 135,
+        "premise": "Sa panahon ng depressive episodes, ang mga sintomas ay maaaring magsama ng malalim na kalungkutan, pagkapagod, at pagkawala ng interes sa mga pangkaraniwang gawain.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 136,
+        "premise": "Ang bipolar disorder ay maaaring magdulot ng malubhang epekto sa pang-araw-araw na buhay, kabilang ang mga problema sa relasyon, trabaho, at pangkalahatang kalidad ng buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 137,
+        "premise": "Ang paggamot para sa bipolar disorder ay maaaring magsama ng medication, psychotherapy, at iba pang supportive therapies upang makatulong sa pamamahala ng mood swings.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 138,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng bipolar disorder upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 139,
+        "premise": "Ang suporta mula sa mga healthcare professionals, pamilya, at mga support groups ay mahalaga sa pag-manage ng bipolar disorder at sa pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/bipolar_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 140,
+        "premise": "Ang bipolar disorder ay isang mental health condition na nagdudulot ng matinding pagbabago sa mood, mula sa mga episode ng mania o hypomania hanggang sa mga episode ng depression.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 141,
+        "premise": "Sa mga manic episodes, ang mga sintomas ay maaaring magsama ng labis na saya, mataas na enerhiya, at impulsive na pag-uugali.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 142,
+        "premise": "Sa mga depressive episodes, ang mga sintomas ay maaaring magsama ng malalim na kalungkutan, pagkapagod, at pagkawala ng interes sa mga pangkaraniwang gawain.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 143,
+        "premise": "Ang paggamot para sa bipolar disorder ay maaaring magsama ng medication, psychotherapy, at iba pang supportive therapies upang makatulong sa pamamahala ng mga mood swings.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_bipolar_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 144,
+        "premise": "Ang MADD (Mental Health Awareness, Depression, and Dementia) ay isang programa na naglalayong i-promote ang kamalayan tungkol sa mental health, depression, at dementia.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 145,
+        "premise": "Ang depression ay isang mental health disorder na nagdudulot ng malalim na kalungkutan, pagkakahiwalay, at pagkawala ng interes sa mga pangkaraniwang gawain.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 146,
+        "premise": "Ang dementia ay isang kondisyon na nagdudulot ng pag-kasira ng cognitive functions tulad ng memorya, pag-iisip, at pag-uugali, na maaaring magdulot ng malubhang epekto sa araw-araw na buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 147,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot para sa depression at dementia upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 148,
+        "premise": "Ang suporta mula sa mga healthcare professionals, pamilya, at mga support groups ay mahalaga sa pamamahala ng depression at dementia.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 149,
+        "premise": "Ang mga paggamot para sa depression at dementia ay maaaring magsama ng medication, psychotherapy, at iba pang supportive therapies upang makatulong sa pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/madd_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 150,
+        "premise": "Ang anxiety disorders ay isang grupo ng mental health conditions na nagdudulot ng labis na pag-aalala, takot, at stress na maaaring makagambala sa pang-araw-araw na buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 151,
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, pagkatakot, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso at pag-igting ng kalamnan.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 152,
+        "premise": "May iba't ibang uri ng anxiety disorders, kabilang ang generalized anxiety disorder (GAD), panic disorder, at social anxiety disorder, bawat isa ay may kanya-kanyang sintomas at epekto.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 153,
+        "premise": "Ang mga paggamot para sa anxiety disorders ay maaaring magsama ng psychotherapy, medication, at mga relaxation techniques upang makatulong sa pamamahala ng sintomas.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 154,
+        "premise": "Ang maagang pag-diagnose at paggamot ng anxiety disorders ay mahalaga upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 155,
+        "premise": "Ang suporta mula sa mga healthcare professionals, pamilya, at mga support groups ay mahalaga sa pamamahala ng anxiety disorders at pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 156,
+        "premise": "Ang Mixed Anxiety and Depressive Disorder (MADD) ay isang mental health condition na nagdudulot ng parehong sintomas ng anxiety at depression.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 157,
+        "premise": "Ang mga sintomas ng MADD ay maaaring magsama ng patuloy na pag-aalala, kalungkutan, pagkapagod, at mga problema sa pagtulog at konsentrasyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 158,
+        "premise": "Ang MADD ay maaaring magdulot ng malubhang epekto sa pang-araw-araw na buhay, kabilang ang mga problema sa relasyon, trabaho, at pangkalahatang kalidad ng buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 159,
+        "premise": "Ang mga paggamot para sa MADD ay maaaring magsama ng psychotherapy, medication, at iba pang supportive therapies upang makatulong sa pamamahala ng parehong anxiety at depressive symptoms.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 160,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng MADD upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 161,
+        "premise": "Ang suporta mula sa mga healthcare professionals, pamilya, at mga support groups ay mahalaga sa pamamahala ng MADD at pagpapabuti ng mental health.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_mixed_anxiety_and_depressive_disorder_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 162,
+        "premise": "Ang anxiety disorders ay isang grupo ng mental health conditions na nagdudulot ng labis na pag-aalala, takot, at pagkatakot na maaaring makagambala sa pang-araw-araw na buhay.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 163,
+        "premise": "Ang mga pangunahing uri ng anxiety disorders ay kinabibilangan ng generalized anxiety disorder (GAD), panic disorder, social anxiety disorder, at specific phobias.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 164,
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso, pag-igting ng kalamnan, at pag-ubo.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 165,
+        "premise": "Ang anxiety disorders ay maaaring magdulot ng malubhang epekto sa kalidad ng buhay, kabilang ang mga problema sa relasyon, trabaho, at pangkalahatang kalusugan.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 166,
+        "premise": "Ang paggamot para sa anxiety disorders ay maaaring magsama ng psychotherapy, medication, at mga relaxation techniques upang makatulong sa pamamahala ng sintomas.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 167,
+        "premise": "Mahalaga ang maagang pag-diagnose at paggamot ng anxiety disorders upang mapabuti ang kalidad ng buhay at maiwasan ang paglala ng kondisyon.",
+        "url": "https://www.chp.gov.hk/files/pdf/understanding_anxiety_disorders_tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 168,
+        "premise": "Ang MMR (Measles, Mumps, at Rubella) vaccine ay isang mahalagang bakuna na nagpoprotekta laban sa tatlong seryosong sakit: tigdas, beke, at rubella.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 0
+    },
+    {
+        "id": 169,
+        "premise": "Ang tigdas ay isang highly contagious viral infection na nagdudulot ng lagnat, rash, at maaaring magdulot ng malubhang komplikasyon tulad ng pneumonia at encephalitis.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 0
+    },
+    {
+        "id": 170,
+        "premise": "Ang beke ay isang viral infection na nagdudulot ng pamamaga ng mga glandulang salivary, na maaaring magresulta sa sakit sa panga at lagnat.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 1
+    },
+    {
+        "id": 171,
+        "premise": "Ang rubella ay isang viral infection na nagdudulot ng rash at lagnat, at maaaring magdulot ng mga seryosong komplikasyon sa mga buntis na kababaihan, tulad ng congenital rubella syndrome sa sanggol.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 0
+    },
+    {
+        "id": 172,
+        "premise": "Ang MMR vaccine ay karaniwang ibinibigay sa mga bata sa edad na 12-15 buwan at isang pangalawang dosis sa edad na 4-6 taon upang matiyak ang kumpletong proteksyon laban sa tatlong sakit.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 0
+    },
+    {
+        "id": 173,
+        "premise": "Ang MMR vaccine ay ligtas at epektibo sa pag-iwas sa mga sakit na tigdas, beke, at rubella, at ang mga side effects ay karaniwang banayad lamang.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 0
+    },
+    {
+        "id": 174,
+        "premise": "Ang pagbabakuna gamit ang MMR vaccine ay mahalaga upang mapanatili ang komunidad na protektado at maiwasan ang paglaganap ng mga sakit na tigdas, beke, at rubella.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_mmr.pdf",
+        "counter": 1
+    },
+    {
+        "id": 175,
+        "premise": "Ang dokumento ay nagbibigay ng impormasyon tungkol sa COVID-19 vaccines, kasama ang mga detalye ng mga clinical trials at mga resulta ng pagsusuri para sa kanilang kaligtasan at bisa.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 176,
+        "premise": "Ang COVID-19 vaccines ay binibigyan ng emergency use authorization (EUA) upang mapabilis ang pag-access ng mga tao sa proteksyon laban sa COVID-19.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 177,
+        "premise": "Ang mga vaccines na na-aprubahan sa ilalim ng EUA ay sumailalim sa mahigpit na pagsusuri para tiyakin ang kanilang kaligtasan at bisa, kahit na ang pagsusuri ay hindi kasing lawak ng mga ganap na aprubadong vaccines.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 178,
+        "premise": "Mahalaga ang pag-monitor ng mga side effects at pag-update ng impormasyon tungkol sa mga vaccines upang masiguro ang patuloy na kaligtasan at bisa.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 1
+    },
+    {
+        "id": 179,
+        "premise": "Ang mga side effects ng COVID-19 vaccines ay karaniwang banayad at pansamantala, tulad ng pamamaga sa lugar ng iniksyon, lagnat, o pagkapagod.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 180,
+        "premise": "Ang pagbabakuna ay isang mahalagang hakbang upang mapanatiling ligtas ang komunidad at mapabagal ang paglaganap ng COVID-19.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 181,
+        "premise": "Ang mga indibidwal na may mga partikular na medikal na kondisyon o kasaysayan ng mga allergy ay dapat kumonsulta sa kanilang healthcare provider bago tumanggap ng bakuna.",
+        "url": "https://www.fda.gov/media/154475/download",
+        "counter": 0
+    },
+    {
+        "id": 182,
+        "premise": "Ang angina ay isang uri ng sakit sa dibdib na dulot ng pagbabara ng mga daluyan ng dugo na nagdadala ng dugo sa puso.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 183,
+        "premise": "Ang mga sintomas ng angina ay maaaring magsama ng sakit, presyon, o kakulangan sa ginhawa sa dibdib, na maaaring lumabas sa panahon ng pisikal na aktibidad o emosyonal na stress.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 184,
+        "premise": "Ang angina ay maaaring magpahiwatig ng isang seryosong kondisyon tulad ng coronary artery disease at maaaring mangailangan ng medikal na atensyon upang maiwasan ang mga komplikasyon.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 185,
+        "premise": "Ang paggamot para sa angina ay maaaring magsama ng mga gamot upang mapababa ang pangangailangan ng puso para sa oxygen, pati na rin ang mga pagbabago sa pamumuhay tulad ng pag-iwas sa mga trigger factors.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 186,
+        "premise": "Mahalaga ang regular na pagsubok at pamamahala ng angina upang maiwasan ang paglala ng kondisyon at mapanatili ang magandang kalusugan ng puso.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 187,
+        "premise": "Ang konsultasyon sa isang healthcare provider ay mahalaga upang makakuha ng tamang diagnosis at paggamot para sa angina.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Angina_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 188,
+        "premise": "Ang hika (asthma) ay isang chronic respiratory condition na nagdudulot ng pamamaga at pagkitid ng mga daanan ng hangin sa baga, na nagiging sanhi ng pag-ubo, paghinga ng mabigat, at paninikip ng dibdib.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 0
+    },
+    {
+        "id": 189,
+        "premise": "Ang mga sintomas ng hika ay maaaring mag-iba mula sa mild hanggang severe, at maaaring magsama ng pag-ubo, wheezing, paghinga ng mabigat, at paninikip ng dibdib.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 0
+    },
+    {
+        "id": 190,
+        "premise": "Ang mga triggers ng hika ay maaaring magsama ng allergens, polusyon sa hangin, usok ng sigarilyo, at mga respiratory infections.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 0
+    },
+    {
+        "id": 191,
+        "premise": "Ang paggamot para sa hika ay maaaring magsama ng mga inhaled corticosteroids, bronchodilators, at iba pang mga gamot na naglalayong mapabuti ang paghinga at mabawasan ang pamamaga.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 0
+    },
+    {
+        "id": 192,
+        "premise": "Mahalaga ang regular na monitoring ng mga sintomas at pag-follow up sa healthcare provider upang mapanatiling kontrolado ang hika at maiwasan ang mga malubhang asthma attacks.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 1
+    },
+    {
+        "id": 193,
+        "premise": "Ang pagkakaroon ng action plan para sa hika ay makakatulong sa pamamahala ng kondisyon at sa pagbuo ng tamang hakbang kung sakaling magkaroon ng asthma attack.",
+        "url": "https://www.cdc.gov/asthma/pdfs/AsthmaFAQ-factsheet_TL-PH_508.pdf",
+        "counter": 2
+    },
+    {
+        "id": 194,
+        "premise": "Pagkatapos ng diagnosis ng breast cancer, mahalagang malaman ang mga hakbang sa paggamot, suporta, at mga posibleng epekto upang makagawa ng mga desisyon na makakatulong sa inyong kalusugan.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 0
+    },
+    {
+        "id": 195,
+        "premise": "Ang mga opsyon sa paggamot para sa breast cancer ay maaaring magsama ng surgery, chemotherapy, radiation therapy, at hormone therapy, na maaaring ipaliwanag ng inyong healthcare team.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 1
+    },
+    {
+        "id": 196,
+        "premise": "Mahalaga ang pagkakaroon ng isang team ng mga healthcare professionals upang suportahan kayo sa bawat hakbang ng paggamot, kabilang ang mga oncologist, surgeon, at iba pang espesyalista.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 0
+    },
+    {
+        "id": 197,
+        "premise": "Ang suporta mula sa pamilya, mga kaibigan, at support groups ay mahalaga upang makayanan ang emosyonal at pisikal na epekto ng breast cancer at paggamot.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 0
+    },
+    {
+        "id": 198,
+        "premise": "Ang pagsunod sa mga rekomendasyon ng inyong healthcare provider, kabilang ang regular na check-ups at follow-up appointments, ay mahalaga upang matiyak ang epektibong pamamahala ng cancer.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 0
+    },
+    {
+        "id": 199,
+        "premise": "Ang mga makabagong pagsubok at paggamot para sa breast cancer ay patuloy na umuunlad, kaya't mahalaga na makipag-ugnayan sa inyong healthcare team para sa pinakabagong impormasyon at opsyon.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/after-a-breast-cancer-diagnosis.pdf",
+        "counter": 1
+    },
+    {
+        "id": 200,
+        "premise": "Ang PPSV (Pneumococcal Polysaccharide Vaccine) ay isang bakuna na nagpoprotekta laban sa mga sakit na dulot ng pneumococcal bacteria, kabilang ang pneumonia, meningitis, at sepsis.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 201,
+        "premise": "Ang PPSV ay inirerekomenda para sa mga matatanda na may edad 65 taon o higit pa, pati na rin sa mga indibidwal na may mga kondisyon na nagpapataas ng panganib sa pneumococcal disease.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 2
+    },
+    {
+        "id": 202,
+        "premise": "Ang mga sintomas ng pneumococcal disease ay maaaring magsama ng mataas na lagnat, ubo, hirap sa paghinga, at matinding sakit sa katawan, na maaaring magdulot ng malubhang komplikasyon kung hindi maagapan.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 203,
+        "premise": "Ang PPSV ay ibinibigay sa pamamagitan ng isang solong iniksyon sa braso at karaniwang nagbibigay ng proteksyon laban sa pneumococcal disease sa loob ng 5 taon o higit pa.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 204,
+        "premise": "Mahalaga ang pagbabakuna gamit ang PPSV upang maprotektahan laban sa mga seryosong pneumococcal infections, lalo na para sa mga taong nasa mataas na panganib.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 205,
+        "premise": "Ang mga side effects ng PPSV ay karaniwang banayad lamang at maaaring magsama ng pamamaga sa lugar ng iniksyon, lagnat, o pagkapagod.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_ppsv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 206,
+        "premise": "Ang IPV (Inactivated Poliovirus Vaccine) ay isang bakuna na nagpoprotekta laban sa polio, isang seryosong viral disease na maaaring magdulot ng paralysis at iba pang malubhang komplikasyon.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 207,
+        "premise": "Ang IPV ay isang ligtas at epektibong bakuna na ibinibigay sa pamamagitan ng injection at nagbibigay ng proteksyon laban sa polio sa pamamagitan ng pagbuo ng antibodies laban sa poliovirus.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 208,
+        "premise": "Ang IPV ay inirerekomenda para sa mga bata, kasama ang mga dosis sa mga edad na 2 buwan, 4 na buwan, 6-18 na buwan, at isang booster dose sa edad na 4-6 taon.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 209,
+        "premise": "Ang polio ay isang nakakahawang sakit na maaaring magdulot ng pamamanhid, panghihina, at paralisis, na maaaring magresulta sa mga pangmatagalang epekto kung hindi maagapan.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 1
+    },
+    {
+        "id": 210,
+        "premise": "Mahalaga ang pagbabakuna gamit ang IPV upang mapanatiling protektado ang mga bata laban sa polio at maiwasan ang paglaganap ng sakit sa komunidad.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 2
+    },
+    {
+        "id": 211,
+        "premise": "Ang mga side effects ng IPV ay karaniwang banayad at maaaring magsama ng pamumula o pamamaga sa lugar ng iniksyon.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_polio_ipv.pdf",
+        "counter": 0
+    },
+    {
+        "id": 212,
+        "premise": "Ang skin cancer ay isang uri ng cancer na nagmumula sa mga selula ng balat at maaaring magresulta sa mga abnormal na pagbuo o paglaki sa balat.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 2
+    },
+    {
+        "id": 213,
+        "premise": "Ang mga pangunahing uri ng skin cancer ay kinabibilangan ng basal cell carcinoma, squamous cell carcinoma, at melanoma, na may iba't ibang antas ng kalubhaan at paggamot.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 0
+    },
+    {
+        "id": 214,
+        "premise": "Ang mga sintomas ng skin cancer ay maaaring magsama ng mga pagbabago sa balat tulad ng mga bagong bukol, pagbabago sa mga nunal, o mga sugat na hindi gumagaling.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 0
+    },
+    {
+        "id": 215,
+        "premise": "Ang paggamot para sa skin cancer ay maaaring magsama ng surgery, radiation therapy, chemotherapy, o immunotherapy, depende sa uri at yugto ng cancer.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 0
+    },
+    {
+        "id": 216,
+        "premise": "Mahalaga ang regular na pagsusuri ng balat upang maagang matukoy ang mga pagbabago at maipadala para sa pagsusuri upang magbigay ng tamang diagnosis at paggamot.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 1
+    },
+    {
+        "id": 217,
+        "premise": "Ang mga preventive measures tulad ng pag-iwas sa labis na pagkakalantad sa araw, paggamit ng sunscreen, at regular na pagsusuri sa balat ay makakatulong sa pagbawas ng panganib ng skin cancer.",
+        "url": "https://www.cancer.org/content/dam/cancer-org/cancer-control/tl/booklets-flyers/living-with-skin-cancer.pdf",
+        "counter": 0
+    },
+    {
+        "id": 218,
+        "premise": "Ang Lyme disease ay isang sakit na dulot ng bakterya na tinatawag na Borrelia burgdorferi, na ipinamamahagi ng mga ticks, partikular ang mga black-legged ticks.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 219,
+        "premise": "Ang mga sintomas ng Lyme disease ay maaaring magsama ng lagnat, panginginig, pagkapagod, sakit ng ulo, sakit ng kalamnan, at rash na tinatawag na erythema migrans na karaniwang lumalabas sa anyo ng target o bull's-eye rash.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 220,
+        "premise": "Upang maiwasan ang Lyme disease, mahalagang magsuot ng mga protektadong damit tulad ng mahabang manggas at pantalon kapag nasa mga lugar na may mga ticks, at gumamit ng tick repellent na may DEET.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 221,
+        "premise": "Pagkatapos ng mga outdoor activities, dapat mag-check ng katawan para sa mga ticks at agad na alisin ang anumang ticks na natagpuan gamit ang tweezers.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 2
+    },
+    {
+        "id": 222,
+        "premise": "Kung makakaranas ng mga sintomas ng Lyme disease pagkatapos ng pagkakakontak sa mga lugar na may ticks, mahalaga na kumonsulta agad sa isang healthcare provider para sa tamang diagnosis at paggamot.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 223,
+        "premise": "Ang Lyme disease ay maaaring gamutin ng antibiotics, ngunit ang maagang diagnosis at paggamot ay mahalaga upang maiwasan ang mga malubhang komplikasyon at pangmatagalang epekto.",
+        "url": "https://www.cdc.gov/lyme/media/pdfs/Lyme-disease-prevention-fact-sheet-tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 224,
+        "premise": "Ang smallpox at monkeypox ay parehong viral infections na maaaring magdulot ng mga katulad na sintomas tulad ng mga rash at lagnat.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 0
+    },
+    {
+        "id": 225,
+        "premise": "Ang smallpox ay isang malubhang sakit na dulot ng variola virus at na-eradicate na sa pamamagitan ng isang malawak na vaccination campaign.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 0
+    },
+    {
+        "id": 226,
+        "premise": "Ang monkeypox ay isang rarer viral infection na dulot ng monkeypox virus at may mga sintomas na katulad ng smallpox, tulad ng rash at lagnat, ngunit ito ay karaniwang mas banayad.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 0
+    },
+    {
+        "id": 227,
+        "premise": "Ang mga sintomas ng monkeypox ay maaaring magsama ng mga rash na nagsisimula sa mukha at kumakalat sa iba pang bahagi ng katawan, pati na rin ang lagnat, sakit ng ulo, at panginginig.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 0
+    },
+    {
+        "id": 228,
+        "premise": "Ang pagbabakuna laban sa smallpox ay nagbibigay ng proteksyon laban sa monkeypox dahil sa pagkakapareho ng mga virus, at maaaring gamitin sa mga sitwasyon ng outbreak.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 1
+    },
+    {
+        "id": 229,
+        "premise": "Mahalaga ang pagkakaroon ng tamang impormasyon at pag-monitor sa mga sintomas ng viral infections upang magbigay ng maagang diagnosis at paggamot.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_smallpox_monkeypox.pdf",
+        "counter": 0
+    },
+    {
+        "id": 230,
+        "premise": "Ang stroke ay isang medikal na emergency na nangyayari kapag ang daloy ng dugo sa isang bahagi ng utak ay napuputol o nababara, na nagiging sanhi ng pagkasira ng mga selula ng utak.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 1
+    },
+    {
+        "id": 231,
+        "premise": "Ang mga sintomas ng stroke ay maaaring magsama ng biglaang panghihina o pamamanhid sa isang bahagi ng katawan, problema sa pagsasalita, problema sa paningin, at matinding sakit ng ulo na walang malinaw na sanhi.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 232,
+        "premise": "May dalawang pangunahing uri ng stroke: ischemic stroke, na dulot ng pagbara ng isang daluyan ng dugo sa utak, at hemorrhagic stroke, na dulot ng pagputok ng daluyan ng dugo sa utak.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 233,
+        "premise": "Ang mabilis na pagtugon sa mga sintomas ng stroke ay mahalaga upang mabawasan ang pinsala sa utak at mapabuti ang mga pagkakataon para sa paggaling, kaya't mahalaga ang pag-alam sa mga sintomas at pagsasabi agad sa mga healthcare provider.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 234,
+        "premise": "Ang paggamot para sa stroke ay maaaring magsama ng mga gamot upang maibalik ang daloy ng dugo, mga surgical procedures upang ayusin ang mga nabutas na daluyan ng dugo, at rehabilitative therapies upang matulungan ang mga pasyente na makabawi.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 235,
+        "premise": "Mahalaga ang pamamahala ng mga risk factors tulad ng hypertension, diabetes, at mataas na cholesterol upang maiwasan ang pagkakaroon ng stroke.",
+        "url": "https://storage.googleapis.com/healthinfotranslations-pdfdocs/Stroke_Tagalog.pdf",
+        "counter": 0
+    },
+    {
+        "id": 236,
+        "premise": "Ang DTaP vaccine ay isang bakuna na nagbibigay proteksyon laban sa tatlong malubhang sakit: diphtheria, tetanus, at pertussis (whooping cough).",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 0
+    },
+    {
+        "id": 237,
+        "premise": "Ang diphtheria ay isang bacterial infection na nagdudulot ng pamamaga sa lalamunan at maaaring magresulta sa malubhang komplikasyon tulad ng respiratory distress at pag-aantala ng puso.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 0
+    },
+    {
+        "id": 238,
+        "premise": "Ang tetanus ay isang bacterial infection na nagdudulot ng matinding panghihina ng mga kalamnan at spasms, na maaaring magresulta sa mga panganib sa buhay kung hindi magagamot agad.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 1
+    },
+    {
+        "id": 239,
+        "premise": "Ang pertussis, o whooping cough, ay isang highly contagious na sakit na nagdudulot ng matinding pag-ubo at maaaring magdulot ng mga komplikasyon tulad ng pneumonia, seizures, at pagkamatay sa mga maliliit na bata.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 0
+    },
+    {
+        "id": 240,
+        "premise": "Ang DTaP vaccine ay ibinibigay sa mga bata sa mga edad na 2 buwan, 4 na buwan, 6 na buwan, 15-18 na buwan, at isang booster dose sa edad na 4-6 taon.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 1
+    },
+    {
+        "id": 241,
+        "premise": "Ang mga side effects ng DTaP vaccine ay karaniwang banayad at maaaring magsama ng pamumula o pamamaga sa lugar ng iniksyon, lagnat, o pagkahapo.",
+        "url": "https://www.immunize.org/wp-content/uploads/vis/tagalog_dtap.pdf",
+        "counter": 0
+    },
+    {
+        "id": 242,
+        "premise": "Ang tuberkulosis (TB) ay isang sakit sa baga na dulot ng mga mikrobyo na naiuubo o naibabahing sa hangin ng isang taong may sakit na TB.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 243,
+        "premise": "Ang TB ay may dalawang yugto: latent TB infection, kung saan natutulog ang mikrobyo sa katawan at wala kang sintomas, at active TB disease, kung saan maraming mikrobyo sa katawan at maaaring may sintomas tulad ng ubo, lagnat, at pagbaba ng timbang.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 244,
+        "premise": "Ang paggamot para sa TB ay maaaring magsama ng iba't ibang gamot tulad ng Isoniazid (INH), Rifampin, Ethambutol, at Pyrazinamide, at mahalagang sundin ang tamang oras ng pag-inom ng gamot upang mapigilan ang pagbalik ng sakit.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 245,
+        "premise": "Kung makakaranas ng di-hangad na epekto mula sa gamot, tulad ng pagduduwal, pagsusuka, paninilaw ng balat, o mataas na lagnat, agad na ipagbigay alam sa TB klinik.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 246,
+        "premise": "Ang pag-iwas sa alkohol habang umiinom ng INH ay mahalaga upang maiwasan ang pinsala sa atay, at maaaring suriin ang atay habang ikaw ay umiinom ng INH.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 247,
+        "premise": "Ang mga taong may sakit na TB ay makakahawa sa iba, kaya't mahalaga ang pag-inom ng gamot ayon sa utos ng manggagamot at pagtatakip ng bibig kapag umuubo upang mapigilan ang pagkalat ng TB.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 248,
+        "premise": "Ang TB ay hindi nakakahawa sa mga kasuotan, kagamitan sa pagkain, pagkain, kagamitan sa kama, kasilyas, pakikipagkamay, ugnayang sexual, o gamit na karayom pangdroga.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 249,
+        "premise": "Ang Programang Paggamot na Tuwirang Inoobserbahan (DOT) ay napatunayang epektibo sa pagsugpo ng TB dahil ang trabahador pangkalusugan ay magmamasid habang iniinom ang gamot at titiyakin ang wastong pag-inom nito.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/Active-ta-Brochure-id919.pdf",
+        "counter": 0
+    },
+    {
+        "id": 250,
+        "premise": "Ang latent tuberculosis infection (LTBI) ay isang kondisyon kung saan ang mikrobyo ng TB ay natutulog sa loob ng katawan at walang sintomas, ngunit maaari itong magdulot ng sakit sa hinaharap kung hindi magagamot.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 251,
+        "premise": "Ang LTBI ay hindi nakakahawa sa iba at hindi nagdudulot ng mga sintomas, ngunit maaaring magdulot ng active TB disease kapag ang immune system ay mahina.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 252,
+        "premise": "Mahalaga ang paggamot ng LTBI upang maiwasan ang pag-unlad nito sa active TB disease, na maaaring magdulot ng mga sintomas tulad ng ubo, lagnat, at pagbaba ng timbang.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 253,
+        "premise": "Ang paggamot para sa LTBI ay karaniwang gumagamit ng mga gamot tulad ng Isoniazid (INH) o Rifampin upang mapigilan ang pagbuo ng active TB disease.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 254,
+        "premise": "Kung ikaw ay nasuri na may LTBI, mahalagang sundin ang plano ng paggamot ng iyong manggagamot at tapusin ang lahat ng iniresetang gamot upang matiyak na ang mikrobyo ng TB ay hindi magbabalik o magdudulot ng active TB.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 255,
+        "premise": "Ang regular na pag-follow up sa iyong healthcare provider ay mahalaga upang masubaybayan ang iyong progreso sa paggamot at tiyakin ang iyong kalusugan.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/LTBI-ta-Brochure-id924.pdf",
+        "counter": 0
+    },
+    {
+        "id": 256,
+        "premise": "Ang tuberkulosis (TB) ay isang sakit sa baga na dulot ng mga mikrobyong nakukuha sa hangin. Ang mikrobyong ito ay naiuubo o naibabahagi sa hangin ng isang taong may sakit na TB.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 0
+    },
+    {
+        "id": 257,
+        "premise": "Ang sakit na TB ay may dalawang yugto: latent TB infection at active TB disease. Sa latent TB infection, natutulog ang mikrobyo sa katawan, walang sintomas, at hindi nakakahawa.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 0
+    },
+    {
+        "id": 258,
+        "premise": "Sa active TB disease, maraming buhay na mikrobyo ang nasa katawan, may sintomas tulad ng ubo, lagnat, at pagbaba ng timbang, at maaaring makahawa sa iba.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 0
+    },
+    {
+        "id": 259,
+        "premise": "Upang magamot ang TB, mahalaga ang pagsunod sa reseta ng mga gamot tulad ng Isoniazid (INH), Rifampin, at iba pa, at ang regular na pagsusuri sa mga sintomas at epekto.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 0
+    },
+    {
+        "id": 260,
+        "premise": "Ang mga taong may latent TB infection ay hindi nakakahawa sa iba, ngunit maaaring magdevelop ng active TB disease sa hinaharap kung hindi magagamot.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 0
+    },
+    {
+        "id": 261,
+        "premise": "Ang pag-inom ng gamot para sa latent TB infection ay makakapigil sa pagbuo ng active TB disease at makakapagpigil sa pagkalat ng mikrobyo.",
+        "url": "https://www.sf.gov/sites/default/files/2024-03/What-is-TB-ta-Brochure-id958.cleaned.pdf",
+        "counter": 1
+    }
+]
