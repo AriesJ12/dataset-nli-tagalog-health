@@ -102,3 +102,24 @@ python combine-premise.py
 ```
 python combine-hypothesis.py
 ```
+
+# get subsets
+1. choose between
+```
+# Example usage for dividing a file into 10 smaller files
+# divide_file(input_file, output_dir, num_files=2)
+
+# Example usage for extracting 100 items from a file, 5 times
+extract_multiple_subsets(input_file, output_dir, number=100, times=5)
+```
+2. command
+```
+python get-subset.py
+```
+
+# seperate-premise
+1. change the parameters
+2. command
+```
+python seperate-premise.py
+```
