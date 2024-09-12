@@ -55,7 +55,7 @@ def main():
     # divide_file(input_file, output_dir, num_files=2)
 
     # Example usage for extracting 100 items from a file, 5 times
-    extract_multiple_subsets(input_file, output_dir, number=100, times=2)
+    extract_multiple_subsets(input_file, output_dir, number=100, times=5)
 
 if __name__ == "__main__":
     main()

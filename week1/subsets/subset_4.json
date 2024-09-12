@@ -1,0 +1,602 @@
+[
+    {
+        "hypothesis": "Magtutubig ang pantal ng bulutong.",
+        "premise": "Ang mga pantal ng bulutong ay mamumula at magkakaroon ng likido at maaari itong tumagal ng hanggang 10 araw.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/chickenpox"
+    },
+    {
+        "premise": "Ang maliliit na bata ay kadalasang tumatanggap ng medikal na pangangalaga sapagkat mas nanganganib silang magkaroon ng malulubhang suliranin sa kalusugan.",
+        "hypothesis": "Ang mga sanggol ay dapat manatili sa bahay.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Galing sa lamok ang dengue.",
+        "premise": "Ang Dengue ay hindi maikakalat na tuwiran ng tao sa tao.",
+        "label": "neutral",
+        "url": "https://health.hawaii.gov/docd/files/2016/12/Dengue_TAGALOG.pdf"
+    },
+    {
+        "hypothesis": "Ang sintomas ng tuberkulosis ay pananakit ng katawan.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Maaaring mawalan ng malay ang taong may malaria.",
+        "premise": "Isa sa mga sintomas ng malarya ay pagkawala ng malay o convulsion.",
+        "label": "entailment",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "premise": "Kabilang sa mga sintomas ng COVID -19 ay ang kakulangan ng gana sa pagkain.",
+        "hypothesis": "Ang mga covida ay nagpapakita ng mga sintomas.",
+        "label": "entailment",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Ang tuberkulosis ay karaniwang sumasalakay sa mga bagà, subalit maaari rin nitong maapektuhan ang iba pang bahagi ng katawan.",
+        "hypothesis": "Madalas na inaatake ng TB ang mga baga",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "premise": "Kung ikaw ay bumahin, bumahin, o bubuka ang iyong bibig sa pamamagitan ng laway habang ikaw ay nagsasalita, maaari mong barahan ang isang paperilya.",
+        "hypothesis": "Ang isang tao na may batya ay maaaring mahawa sa pamamagitan ng laway ng infract habang ito’y nag - aahit.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nagmula sa virus ang beke.",
+        "premise": "Ang beke ay isang sakit na sanhi ng virus.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Maaring makaranas ng mataas na lagnat.",
+        "premise": "Ang bata ay maaaring makaranas ng apnea o pagtigil sa paghinga, pagkahirap sa paghinga, at pagsusuka.",
+        "label": "neutral",
+        "url": "https://caro.doh.gov.ph/pertussis-o-whooping-cough/"
+    },
+    {
+        "hypothesis": "Hindi makukuha ang bulutong-tubig sa peklat na nagtubig na galing din sa chickenpox.",
+        "premise": "Maaari ring kumalat ang bulutong-tubig sa pamamagitan ng pagkakadikit sa likidong nanggaling sa paltos na dulot ng karamdamang ito.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Bulutung-tubig#:~:text=Ang%20bulutong%2Dtubig%20o%20bulutung,peklat%20sa%20ibabaw%20ng%20balat."
+    },
+    {
+        "premise": "Kung ikaw ay may lagnat, ubo, at nahihirapang huminga, magpatingin agad, subalit tumawag muna sa ospital o sa sentro ng kalusugan.",
+        "hypothesis": "Sa tahanan ang lagnat ay maaaring bawasan sa pamamagitan ng ubo at maging ng pangangapos ng hininga.",
+        "label": "contradiction",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Gaganda ang paghinga ng taong may tigdas.",
+        "premise": "Ilang mga sintomas ng malarya: pagbabago ng ikinikilos, nahihirapan sa paghinga, at madalas na pagsusuka at pagkahilo.",
+        "label": "contradiction",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "premise": "Ang polio ang sanhi ng polio.",
+        "hypothesis": "Ang polio ay maaaring makuha sa isa’t isa.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang HIV ay naipapasa lamang sa pamamagitan ng direktang pakikipag-ugnayan sa mga likido ng katawan.",
+        "premise": "Ang HIV ay hindi naipapasa sa pamamagitan ng paghahawak, paghalik, pagyakap, pagsalo sa pagkain, pagsalo sa higaan, o paghihiraman ng damit.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "premise": "Ang panlulumo ay isang malubhang medikal na karamdaman na nakakaapekto sa utak at higit pa sa mga damdamin ng kalungkutan o kalungkutan sa loob ng ilang araw.",
+        "hypothesis": "Ang panlulumo ay isang malubhang karamdaman na nakaaapekto sa utak.",
+        "label": "neutral",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "premise": "Ang chicenpox ay dahil sa virus ng bacter bacter baktirya, na lubhang nakahahawa.",
+        "hypothesis": "Ang bulutong ay Hindi Virus ng Pornograpya",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/chickenpox"
+    },
+    {
+        "premise": "Ang polio ay pangunahin nang nakaaapekto sa mga bata.",
+        "hypothesis": "Mas apektado ng polio ang mga bata kaysa sa mga adulto.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Imposibleng makuha sa tubig ng paltos ng bulutong ang bulutong.",
+        "premise": "Maaari ring kumalat ang bulutong-tubig sa pamamagitan ng pagkakadikit sa likidong nanggaling sa paltos na dulot ng karamdamang ito.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Bulutung-tubig#:~:text=Ang%20bulutong%2Dtubig%20o%20bulutung,peklat%20sa%20ibabaw%20ng%20balat."
+    },
+    {
+        "hypothesis": "Pwedeng bumalik ang sakit na ito bilang herpes zoster.",
+        "premise": "Pagkalipas ng ilang mga taon, maaaring lumitaw muli ang sakit na ito bilang isang uri ng 'buni', na nakikilala sa Ingles bilang herpes zoster o shingle, isang masakit na singaw sa balat.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Bulutung-tubig#:~:text=Ang%20bulutong%2Dtubig%20o%20bulutung,peklat%20sa%20ibabaw%20ng%20balat."
+    },
+    {
+        "premise": "Kung minsan, ang sakit sa puso, gaya ng pamamaga ng utak o pagkabingi, ay maaaring maging sanhi ng malulubhang problema sa kalusugan.",
+        "hypothesis": "Kalakip nito ang sipon.",
+        "label": "neutral",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "premise": "Kabilang sa mga sintomas ng COVID -19 ay ang hyperventilation.",
+        "hypothesis": "Hindi kabilang sa mga sintomas ng covid 19 ang suliranin sa paghinga.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Manatili sa bahay kung ikaw ay may sakit, kahit na ito ay ubo lamang, upang maiwasan ang pagkalat ng sakit.",
+        "hypothesis": "Huwag lumabas ng bahay kapag ikaw ay may sakit.",
+        "label": "entailment",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "premise": "Kabilang sa mga dahilan kung bakit mas nanganganib ang kanser sa suso ay ang pagtanda, kanser sa suso, at mga pagbabago sa henetiko, gaya ng RBCA1 at BRCA2.",
+        "hypothesis": "Ang isang tao ay kilalang - kilala na may kanser sa suso, subalit hindi ito nangangahulugan na mayroon siyang kanser sa suso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "premise": "Biglang lumilitaw ang mga sintomas ng trangkaso, at maaaring kabilang dito ang lagnat o talamak na lagnat, ubo, namamagang lalamunan, sakit ng kalamnan o katawan, sakit ng ulo at pagkahapo.",
+        "hypothesis": "Walang matibay na ebidensiya na may trangkaso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "premise": "Upang masuri ang kanser sa suso, ang tagapag - aruga ay maaaring kumuha ng pisikal na pagsusuri, pagsusuri sa pagsusuri, awtopsiya, at iba pang pagsusuri sa kemikal sa dugo.",
+        "hypothesis": "Ang pagsusuri sa kanser sa suso ay hindi naman nangangailangan ng pisikal na pagsusuri.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "hypothesis": "Kahit na wala ng sintomas ang tuberkulosis, maaari pa rin itong bumalik.",
+        "premise": "Kung hindi gagamutin ang tuberkulosis, ito ay ikakamatay ng mahigit sa 50% ng mga taong mayroon nito.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Ang pagpalit ng punda ay hindi nakakatulong sa acne.",
+        "premise": "Upang maiwasan ang acne, panatilihin ang kalinisan ng katawan, iwasan ang pagtitiris ng tigyawat, at magpalit ng punda at latag sa kama.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "premise": "Ang ilang nakatatandang mga bata at lalaki ay malamang na magkaroon ng pamamaga at kirot sa itlog.",
+        "hypothesis": "Ang paghikab ng lalaki ay maaaring makasakit sa kaniya kung siya ay may checkup.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng bukol sa suso ay maaaring senyales ng kanser sa suso.",
+        "premise": "Ang mga palatandaan at sintomas ng kanser sa suso ay kinabibilangan ng bagong bukol sa suso, pagbabago sa laki o hugis ng dibdib, at paglabas ng utong maliban sa gatas ng ina.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "premise": "Kabilang sa mga taong mas malamang na mahantad sa tigdas ay ang mga hindi nabakunahan, nagdadalang - tao, mga sanggol na wala pang anim na buwan, at yaong may mahinang sistema ng imyunidad.",
+        "hypothesis": "Ang mga bakuna ay hindi ligtas sa tigdas.",
+        "label": "contradiction",
+        "url": "https://www.snohd.org/630/Tungkol-sa-tigdas-Tagalog"
+    },
+    {
+        "premise": "Kung ikaw ay bumahin, bumahin, o bubuka ang iyong bibig sa pamamagitan ng laway habang ikaw ay nagsasalita, maaari mong barahan ang isang paperilya.",
+        "hypothesis": "Ang mga pipino ay maaaring lumabas sa ubo.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang pertussis.",
+        "premise": "Higit na nakakahawa ang sakit na Pertussis.",
+        "label": "contradiction",
+        "url": "https://caro.doh.gov.ph/pertussis-o-whooping-cough/"
+    },
+    {
+        "premise": "Kapag kumalat ang COVID -19, maaari itong magbago, gaya ng trangkaso, na tinatawag na clavidence.",
+        "hypothesis": "Ang kovid ay hindi isang eksepsiyon.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Kabilang sa mga sintomas ng COVID -19 ay ang sakit ng ulo.",
+        "hypothesis": "Maaaring hindi ito mabuti, sapagkat masakit ang iyong ulo.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Ang coronarus disease (CHVID - 19) ay isang nakahahawang sakit na dala ng bagong coronary disease.",
+        "hypothesis": "Ang mga sintomas ng Covid 19 ay dapat na manatili sa loob ng bahay.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "hypothesis": "Umaabot ng mahigit na tatlong linggo ang paggaling.",
+        "premise": "Ang mga tao na may banayad na mga sintomas ay maaaring gumaling sa loob ng isa hanggang dalawang linggo.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "hypothesis": "Ang mga bata ay mabagal makahawa.",
+        "premise": "Maaaring mas matagal maikalat ng mga bata ang trangkaso sa iba.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang patuloy na urbanisasyon na laganap sa Pilipinas ay maaaring sanhi ng brucellosis.",
+        "premise": "Ang pagpapalawak ng mga industriya ng hayop at urbanisasyon ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "neutral",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi kasama ang hirap sa paghinga sa sintomas ng covid 19.",
+        "premise": "Kabilang sa mga sintomas ng COVID-19 ang sirap sa paghinga.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Halimbawa, ang tigdas ay maaaring lumabas sa pamamagitan ng hangin sa pamamagitan ng pagkakalat ng isang kislap ng laway, o sa pamamagitan ng tuwirang paghipo sa mga butas ng ilong o lalamunan ng mga taong nahawahan.",
+        "hypothesis": "Ang iba pang tawag sa tigdas ay Qucalus.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/en/wapdf/37132.html?page=1"
+    },
+    {
+        "premise": "Karamihan ng mga taong nahawahan ng HIV ay hindi nagkakasakit sa loob ng 51 taon, subalit sa dakong huli ay hindi na nila kayang labanan ang karaniwang mga impeksiyon.",
+        "hypothesis": "Sa paglipas ng panahon, humihina ang sistema ng imyunidad ng mga taong nahawahan ng HIV.",
+        "label": "entailment",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "premise": "Ang tigdas ay isang nakahahawang sakit na posibleng maging sanhi ng lagnat, pagbahin, pag - ubo, at mapulang mata at pag - iyak.",
+        "hypothesis": "Ang luha sa mata ay maaaring isang tanda ng tigdas.",
+        "label": "entailment",
+        "url": "https://www.snohd.org/630/Tungkol-sa-tigdas-Tagalog"
+    },
+    {
+        "hypothesis": "Nagbibigay ng malarya ang parasitong plasmodium.",
+        "premise": "Ang malarya ay isang sakit na dulot ng parasito ng malarya na tinatawag na Plasmodium.",
+        "label": "entailment",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "hypothesis": "Walang sintomas ang beke.",
+        "premise": "Tawagan ang iyong doktor kung mayroon ka o ang iyong anak ng mga senyales ng beke: lagnat, pananakit ng ulo, pananakit ng kalamnan, pagkapagod, pagkawala ng ganang kumain, at namamagang mga pisngi o panga.",
+        "label": "contradiction",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "premise": "Brucellis ay isa sa pinakamalawak na zoo na ipinadala ng mga hayop.",
+        "hypothesis": "Ang bruclesosis ay hindi maaaring manggaling sa mga hayop.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Hindi maaaring manggaling sa hayop ang brucellosis.",
+        "premise": "Ang Brucellosis ay isa sa mga pinakalaganap na zoonoses na ipinadala ng mga hayop.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "premise": "Kabilang sa mga paraan ng paggamot sa kanser sa suso ay ang operasyon, radyasyon, analgracia, hormone therapy, digestive therapy, at radyasyon.",
+        "hypothesis": "Ang mga katas ng halamang - gamot ay mas mahusay na mga gamot laban sa kanser.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "premise": "Ang pagbabago ay tinatawag na 'varian' (bagong anyo) ng orihinal na virus.",
+        "hypothesis": "Isa na rito ang crlie.",
+        "label": "neutral",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "hypothesis": "Hindi tunay na kondisyon ang OCD.",
+        "premise": "Ang mga taong may OCD ay maaaring magkaroon ng mga sintomas ng obsessions, compulsions, o pareho.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "premise": "Sa lokal na mga lugar, ang buruclesis ng tao ay may malubhang epekto sa kalusugan ng publiko.",
+        "hypothesis": "Ang bruclesis ay isang malubhang sakit na may negatibong epekto sa kalusugan ng publiko.",
+        "label": "neutral",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "hypothesis": "Marami ng gumaling sa trangkaso nang walang anumang klaseng pangangalagang medikal.",
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Karamihan sa mga impeksyon ay may sintomas",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "premise": "Ang dengue ay isang sakit ng mikrobyo na sumasalakay sa tao sa pamamagitan ng kagat ng lamok na Aedes.",
+        "hypothesis": "Ang dengue ay hindi mula sa mga lamok.",
+        "label": "contradiction",
+        "url": "https://health.hawaii.gov/docd/files/2016/12/Dengue_TAGALOG.pdf"
+    },
+    {
+        "hypothesis": "Makikita sa africa ang plasmodium ovale.",
+        "premise": "Plasmodium Ovale: Matatagpuan sa mga bansa sa Africa, nagdudulot ng relapse kung hindi sapat ang gamutan.",
+        "label": "entailment",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "premise": "Ang trangkaso ay naililipat sa pamamagitan ng paglanghap ng mga singaw mula sa pagbahin, pagbahin, at pagsasalita ng may trangkaso",
+        "hypothesis": "Ang trangkaso sa hangin, na may octization, ay maaaring makuha.",
+        "label": "entailment",
+        "url": "https://www.facebook.com/DOHgovPH/posts/trangkaso-influenzaang-trangkaso-ay-nakakahawang-sakit-sanhi-ng-influenza-virus-/2365295563481682/"
+    },
+    {
+        "premise": "Kung minsan, ang sakit sa puso, gaya ng pamamaga ng utak o pagkabingi, ay maaaring maging sanhi ng malulubhang problema sa kalusugan.",
+        "hypothesis": "Ang isang tao ay hindi maaaring magdalang - tao.",
+        "label": "contradiction",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Walang peklat ang maiiwan.",
+        "premise": "Nakapag-iiwan ito ng mga pekas o peklat sa ibabaw ng balat.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Bulutung-tubig#:~:text=Ang%20bulutong%2Dtubig%20o%20bulutung,peklat%20sa%20ibabaw%20ng%20balat."
+    },
+    {
+        "hypothesis": "Ang trangkaso ay hindi impeksyon. ",
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kung ikaw ay madalas na pagod,wala kang covid 19 sapagkat hindi ito sintomas ng covid.",
+        "premise": "Kabilang sa mga sintomas ng COVID-19 ang pagkapagod.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "hypothesis": "Maaaring magbago o magmutate ang beke.",
+        "premise": "Karaniwang nagsisimula ang beke sa ilang araw na lagnat, pananakit ng ulo, pananakit ng kalamnan, pagkapagod at kawalan ng ganang kumain.",
+        "label": "neutral",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "premise": "Ang mga bali ng bulutong ay nadudurog at nagiging likido at maaaring tumagal nang hanggang sampung araw.",
+        "hypothesis": "Ang impeksiyon ay lumalala pa kapag ang baktirya ng bulutong ay nag - aahit.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/chickenpox"
+    },
+    {
+        "premise": "Ang kanser sa suso ay isang kanser na nagsisimula sa himaymay ng suso.",
+        "hypothesis": "Ang kanser ay nabubuo sa himaymay ng suso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "premise": "Ang mga pasyente ay pinapayuhang manatili sa bahay upang hindi mahawa sa mga taong hindi pa nahawahan ng sakit na ito.",
+        "hypothesis": "Ang bulutong ng iba ay masusumpungan.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/chickenpox"
+    },
+    {
+        "premise": "Ang Pertussis ay mas nakahahawa.",
+        "hypothesis": "Ang pertussis ay galing sa isang virus.",
+        "label": "neutral",
+        "url": "https://caro.doh.gov.ph/pertussis-o-whooping-cough/"
+    },
+    {
+        "hypothesis": "Madalas naapektuhan ang mga bata sa polio kaysa sa mga matatanda.",
+        "premise": "Ang Poliomyelitis ay pangunahing nakaaapekto sa mga batang paslit.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "premise": "Ang mga taong may bahagyang sintomas ay maaaring gumaling sa loob ng isa o dalawang linggo.",
+        "hypothesis": "Ang mga maysakit ay hindi gumagaling.",
+        "label": "contradiction",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "hypothesis": "Nakuha ko ang tigdas sa aking japatid.",
+        "premise": "Ang tigdas ay isa sa mga pinakanakakahawang sakit.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/en/wapdf/37132.html?page=1"
+    },
+    {
+        "hypothesis": "Ang hindi magandang kapaligiran at diet ng isang tao ay maaaring magdulot ng labis na produksyon ng langis sa balat.",
+        "premise": "Ang acne ay maaaring palalain ng stress, polusyon, at ilang pagkain.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Maiiwasan ang beke basta hindi lalapit sa mga taong may beke.",
+        "premise": "Hugasan ang iyong mga kamay nang madalas gamit ang sabon at tubig upang maiwasan ang beke.",
+        "label": "neutral",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "premise": "Bagaman ang isa sa pinakamabisa at pinakamabisang bakuna ay ang bakuna para sa tigdas na may dalawang dosis, maging ang lubusang bakuna ay maaaring pagmulan ng tigdas — subalit bihira.",
+        "hypothesis": "Ang isang taong may bakuna laban dito ay maaaring magkaroon ng tigdas.",
+        "label": "entailment",
+        "url": "https://www.snohd.org/630/Tungkol-sa-tigdas-Tagalog"
+    },
+    {
+        "hypothesis": "Ang malaria ay hindi nanggagaling sa lamok.",
+        "premise": "Isang parasite ang sanhi ng pagiging carrier ng isang lamok ng malaria.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Iwasan ang mayroong senyales ng beke upang hindi mahawa.",
+        "premise": "Tawagan ang iyong doktor kung mayroon ka o ang iyong anak ng mga senyales ng beke: lagnat, pananakit ng ulo, pananakit ng kalamnan, pagkapagod, pagkawala ng ganang kumain, at namamagang mga pisngi o panga.",
+        "label": "neutral",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Pwedeng lumlala ang sipon matapos ang isang linggo.",
+        "premise": "Kailangan ang ipatingin sa manggagamot kapag hindi nawala ang sipon sa loob ng isa hanggang dalawang linggo.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Karaniwang_sipon#:~:text=Ang%20sipon%20o%20karaniwang%20sipon,at%20pagiging%20malamig%20ng%20panahon."
+    },
+    {
+        "hypothesis": "Maaaring minana mula sa mga magulang ang kanser sa suso.",
+        "premise": "Ang kanser sa suso ay nangyayari kapag mayroon mga pagbabago sa genetic material (DNA), at maaaring minana ang mga pagbabagong ito.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/breast-cancer/"
+    },
+    {
+        "premise": "Ang trangkaso ay naililipat sa pamamagitan ng paglanghap ng mga singaw mula sa pagbahin, pagbahin, at pagsasalita ng may trangkaso",
+        "hypothesis": "Ang trangkaso ay nakahahawa.",
+        "label": "entailment",
+        "url": "https://www.facebook.com/DOHgovPH/posts/trangkaso-influenzaang-trangkaso-ay-nakakahawang-sakit-sanhi-ng-influenza-virus-/2365295563481682/"
+    },
+    {
+        "hypothesis": "Hindi galing sa plasmodium aang malarya.",
+        "premise": "Ang malarya ay isang sakit na dulot ng parasito ng malarya na tinatawag na Plasmodium.",
+        "label": "contradiction",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "hypothesis": "Ang pisikal na pagsusuri ay isang paraan upang masuri kung may trangkaso ang pasyente.",
+        "premise": "Upang masuri ang trangkaso, gagawa muna ng medikal na kasaysayan ang mga tagapagbigay ng pangangalagang pangkalusugan at magtatanong tungkol sa iyong mga sintomas.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "premise": "Madalas na hugasan ng sabon at tubig ang iyong mga kamay upang maiwasan ang paperismo.",
+        "hypothesis": "Upang maiwasan ang paperismo, maghugas ng kamay.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang matanda ay maaaring makaranas ng apnea.",
+        "premise": "Ang bata ay maaaring makaranas ng apnea o pagtigil sa paghinga, pagkahirap sa paghinga, at pagsusuka.",
+        "label": "neutral",
+        "url": "https://caro.doh.gov.ph/pertussis-o-whooping-cough/"
+    },
+    {
+        "hypothesis": "Hindi pwedeng makaranas ang mga bata ng pagsusuka.",
+        "premise": "Ang bata ay maaaring makaranas ng apnea o pagtigil sa paghinga, pagkahirap sa paghinga, at pagsusuka.",
+        "label": "contradiction",
+        "url": "https://caro.doh.gov.ph/pertussis-o-whooping-cough/"
+    },
+    {
+        "hypothesis": "Ang may sintomas ng  Covid 19 ay nararapat na manatili sa loob ng bahay.",
+        "premise": "Ang coronavirus disease (COVID-19) ay isang nakahahawang sakit na dulot ng bagong coronavirus.",
+        "label": "neutral",
+        "url": "https://www.who.int/philippines/news/feature-stories/detail/pitong-simpleng-hakbang-upang-maprotektahan-ang-sarili-at-ang-iba-laban-sa-covid-19"
+    },
+    {
+        "premise": "Plasmodio Falciparum: Sa Pilipinas, 70 porsiyento ng mga kaso ng malarya ay malubhang sakit o kamatayan kung hindi gagamutin nang wasto.",
+        "hypothesis": "Ang Paciparum sa Plasmodio Paluciparum ay isang talamak na sakit.",
+        "label": "entailment",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "premise": "Ang malarya ay isang sakit na dala ng parasito ng malarya na tinatawag na Plasmodio.",
+        "hypothesis": "Hindi mula sa malaria plasmodium.",
+        "label": "contradiction",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "hypothesis": "Hindi na makikita ang plasmodium ovale.",
+        "premise": "Plasmodium Ovale: Matatagpuan sa mga bansa sa Africa, nagdudulot ng relapse kung hindi sapat ang gamutan.",
+        "label": "contradiction",
+        "url": "https://mimaropa.doh.gov.ph/?page_id=377"
+    },
+    {
+        "premise": "Ang mga bata at mga adulto ay maaari ring ibakuna.",
+        "hypothesis": "Yaong may mga bakuna ay lumalaban sa sakit.",
+        "label": "neutral",
+        "url": "https://tl.wikipedia.org/wiki/Beke"
+    },
+    {
+        "hypothesis": "Maaring sumakit ang bayag ng lalaki kapag sila ay may beke.",
+        "premise": "Ang ilang batang lalaki at mas matatandang lalaki naapektuhan ng beke ay maaaring magkaroon ng pamamaga at pananakit sa kanilang itlog.",
+        "label": "entailment",
+        "url": "https://tpchd.org/wp-content/uploads/2023/12/Mumps-Information-Tagalog.pdf"
+    },
+    {
+        "premise": "Ang mga tao ay maaaring makaranas ng iba’t ibang sintoma ng COVID - 19.",
+        "hypothesis": "May isang bagay na pagkakatulad sa mga sintomas ng iba’t ibang covid.",
+        "label": "neutral",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Ang acne volgaris ang pinakakaraniwang uri ng acne sa mukha, dibdib, likod, at balikat.",
+        "hypothesis": "Walang lunas ang acne.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne"
+    },
+    {
+        "hypothesis": "Ang pagkukulang sa paglinis at pag-aalaga sa mga hayop at paghawak ng pagkain ay hindi sanhi ng brucellosis.",
+        "premise": "Ang kakulangan ng mga hakbang sa kalinisan sa pag-aalaga ng hayop at sa paghawak ng pagkain ay bahagyang dahilan para sa brucellosis na nananatiling isang panganib sa kalusugan ng publiko.",
+        "label": "contradiction",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    },
+    {
+        "premise": "Ang tuberkulosis ay karaniwang sumasalakay sa mga bagà, subalit maaari rin nitong maapektuhan ang iba pang bahagi ng katawan.",
+        "hypothesis": "Apektado rin ng tuberkulosis ang iba pang bahagi ng katawan.",
+        "label": "entailment",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "premise": "Ang pag - ubo ay maaaring maging sanhi ng pagsusuka, sakit sa palahingahan, at labis na pagkahapo.",
+        "hypothesis": "Kung may sakit ka sa palahingahan, kumonsulta sa doktor.",
+        "label": "neutral",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Maaring mayroong covid ka kang ganang kumain.",
+        "premise": "Kabilang sa mga sintomas ng COVID-19 ang kawalan ng ganang kumain.",
+        "label": "entailment",
+        "url": "https://www.qld.gov.au/__data/assets/pdf_file/0013/210802/Filipino-Queensland-Health-What-is-Coronavirus-COVID-19.pdf?v=2"
+    },
+    {
+        "premise": "Yaong mga malapit nang maging tin - edyer (11.12 taóng gulang) at ang mga adulto, kasali na ang mga nagdadalang - tao sa ikatlong trimester, ay dapat magbakuna ng isang bakunang Tdap.",
+        "hypothesis": "Ang Tdap (boster) ay hindi pa maaaring ibakuna sa edad na 11 -12.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang sanggol na lumaki na mayroong subacute sclerosing panencephalitis ay maaaring lumaking bansot.",
+        "premise": "Ang mga sanggol na nahawaan dahil ang ina ay nagkaroon ng tigdas ilang araw matapos manganak, ay nasa mas mataas na panganib na magkaroon ng subacute sclerosing panencephalitis.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/en/wapdf/37132.html?page=1"
+    },
+    {
+        "hypothesis": "Iilan sa mga impeksyon ay asymptomatic",
+        "premise": "Karamihan sa mga impeksiyon ay asymptomatic o walang sintomas at hindi aktibo.",
+        "label": "contradiction",
+        "url": "https://tl.wikipedia.org/wiki/Tuberkulosis#:~:text=Ang%20tuberkulosis%2C%20sakit%20sa%20tuyo,karaniwan%20ay%20Mycobacterium%20na%20tuberkulosis."
+    },
+    {
+        "hypothesis": "Hindi kasama pananakit ng ulo sa sintomas.",
+        "premise": "Ang sintomas ay: mataas na lagnat, matinding pananakit ng ulo, pananakit ng katawan at kasukasuan, pagsusuka, pananakit ng mata, mapupulang butlig sa balat.",
+        "label": "contradiction",
+        "url": "https://health.hawaii.gov/docd/files/2016/12/Dengue_TAGALOG.pdf"
+    },
+    {
+        "hypothesis": "Ang poliomyelitis ay galing sa isang virus.",
+        "premise": "Karamihan sa mga pasyente ay gumagaling sa Poliomyelitis, ngunit sa mga malalang kaso, maaari itong tumuloy sa permanenteng kapansanan at kamatayan.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/files/pdf/poliomyelitis_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nakakahawa ang sakit ng covid.",
+        "premise": "Ang tigdas ay isa sa mga pinakanakakahawang sakit.",
+        "label": "neutral",
+        "url": "https://www.chp.gov.hk/en/wapdf/37132.html?page=1"
+    },
+    {
+        "hypothesis": "AIDS ang sanhi ng HIV.",
+        "premise": "Ang AIDS (Acquired Immune Deficiency Syndrome) ay namumuo sa kalaunan pagkatapos maimpeksyon ng HIV.",
+        "label": "contradiction",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    }
+]
