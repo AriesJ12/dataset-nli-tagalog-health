@@ -396,12 +396,6 @@
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
     },
     {
-        "hypothesis": "Natutukoy ang syphilis sa pamamagitan ng swab mula sa sugat sa balat at pagsusuri sa balat.",
-        "premise": "Ang pagsusuri sa syphilis ay karaniwang sa pamamagitan ng swab mula sa sugat sa balat at sa pamamagitan ng mga pagsusuri sa balat.",
-        "label": "entailment",
-        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf"
-    },
-    {
         "hypothesis": "Ang immune system ng karamihan sa mga tao ay sapat na upang makontrol ang Toxoplasmosis nang hindi nangangailangan ng medikal na interbensyon.",
         "premise": "Karamihan sa mga taong may Toxoplasmosis ay hindi nangangailangan ng paggamot, ngunit may mga gamot para sa mga buntis na kababaihan at mga taong may mahinang immune system.",
         "label": "entailment",
@@ -592,5 +586,629 @@
         "premise": "Ang psoriasis ay hindi nakahahawa at hindi maikalat sa ibang tao sa pamamagitan ng paghawak at pagdikit sa balat.",
         "label": "neutral",
         "url": "https://vlmakabalihospital.com.ph/ano-ang-dahilan-ng-psoriasis/"
+    },
+    {
+        "hypothesis": "Ang trichomoniasis ay nagagamot gamit ang antibiotics",
+        "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Maaaring mapataas ng syphilis ang posibilidad ng pagkalat ng HIV sa pakikipagtalik.",
+        "premise": "Ang mga sugat na dulot ng syphilis ay nagpapadali sa pagkuha o pagbibigay sa isang tao ng HIV sa panahon ng pakikipagtalik.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/syphilis/"
+    },
+    {
+        "hypothesis": "Inaatake ng HIV ang immune system ng isang tao.",
+        "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
+        "label": "neutral",
+        "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F"
+    },
+    {
+        "hypothesis": "Ang dugo o nana sa pagtatae ay isang sintomas ng ulcerative coliti",
+        "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang pagbaba ng uric acid sa dugo ang sanhi ng gout.",
+        "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang rhinovirus ay hindi sanhi ng sipon.",
+        "premise": "Mahigit sa 200 iba't ibang mga virus ang maaaring magdulot ng sipon, ngunit ang mga rhinovirus ay ang pinakakaraniwang uri.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "& C:/msys64/mingw64/bin/python.exe c:/xampp/htdocs/dataset-nli-tagalog-health/premise.py",
+        "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Bakterya ang sanhi ng Toxoplasmosis.",
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang ulcerative colitis ay isang uri ng inflammatory bowel disease.",
+        "premise": "Ang ulcerative colitis ay kabilang sa grupo ng mga sakit na tinatawag na inflammatory bowel disease.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang hindi regular na pagregla ay maaaring sintomas ng polycystic ovary syndrome (PCOS).",
+        "premise": "Ang mga sintomas ng polycystic ovary syndrome (PCOS) ay hindi regular na mga panregla, pagkabaog, pananakit ng pelvic, labis na paglaki ng buhok sa mukha, dibdib, tiyan, o hita, pagdagdag ng timbang, acne o mamantika na balat, at mga patch ng makapal na balat.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Walang bakuna para sa karaniwang sipon.",
+        "premise": "Walang bakuna upang maprotektahan laban sa karaniwang sipon, ngunit maaaring bawasan ang panganib sa pamamagitan ng paghuhugas ng kamay, pag-iwas sa malapit na pakikipag-ugnayan, at pagtakip ng ubo at pagbahin gamit ang tissue.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Hindi delikado ang Toxoplasmosis.",
+        "premise": "Maaaring magdulot ang Toxoplasmosis ng pinsala sa utak, mata, at iba pang mga organo.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Maaaring kumalat ang Ebola sa pamamagitan ng direktong kontak sa pasyenteng may Ebola.",
+        "premise": "Kumakalat ang Ebola sa pamamagitan ng direktang kontak sa mga likido sa katawan ng pasyente, tulad ng laway, dugo, suka, ihi, tae, at pawis.",
+        "label": "neutral",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf"
+    },
+    {
+        "hypothesis": "Lahat ng babae na may PCOS ay may cyst sa obarya.",
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay nagiging sanhi ng paglaki ng mga cyst sa mga obarya.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Ang acute myocardial infarction ay ang medikal na termino para sa atake sa puso.",
+        "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Walang lunas sa osteoarthritis.",
+        "premise": "Walang gamot para sa osteoarthritis, ngunit maaaring pamahalaan ang mga sintomas nito.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis."
+    },
+    {
+        "hypothesis": "Ang AIDS ay ang huling yugto ng HIV infection, kung saan malubha nang nasira ang immune system.",
+        "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/hiv/"
+    },
+    {
+        "hypothesis": "Sa leukemia, ang bone marrow ay gumagawa ng labis na abnormal na selula na nagpapahina sa mga normal na selula ng dugo.",
+        "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Ang lagnat ay sintomas ng Chikungunya.",
+        "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Ang Zika virus ay maaaring magdulot ng mga abnormalidad sa utak ng sanggol kapag ang ina ay nahawaan ng virus sa panahon ng pagbubuntis.",
+        "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
+        "label": "entailment",
+        "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1"
+    },
+    {
+        "hypothesis": "Hindi epektibo ang antibiotics sa sipon.",
+        "premise": "Ang antibiotics ay hindi makakatulong sa sipon dahil ito ay sanhi ng viral infections, hindi bacterial infections.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Maaaring mabuo ang basal cell at squamous cell cancers sa ulo.",
+        "premise": "Ang mga basal cell cancer at squamous cell cancer ay karaniwang nabubuo sa ulo, mukha, leeg, kamay, at braso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/"
+    },
+    {
+        "hypothesis": "Ang sanhi ng Toxoplasmosis ay bakterya.",
+        "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasito na Toxoplasma gondii.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao."
+    },
+    {
+        "hypothesis": "Ang mga kalalakihan na nasa hustong gulang ang karaniwang naaapektuhan ng prostate cancer.",
+        "premise": "Ang prostate cancer ay karaniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Nakokontrol ang ulcerative colitis.",
+        "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Maaaring walang sintomas ang taong may trichomoniasis.",
+        "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang mga bakuna laban sa pulmonya ay hindi epektibo.",
+        "premise": "Maiiwasan ang pulmonya sa pamamagitan ng bakuna laban sa pneumococcal bacteria at trangkaso.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/"
+    },
+    {
+        "hypothesis": "Ang taong may COVID-19 ay maaaring makahawa sa iba.",
+        "premise": "Kumakalat ang COVID-19 kapag ang taong nahawahan ay nagbubuga ng hininga na may kasamang droplet o maliliit na particle na naglalaman ng virus, na maaaring malanghap ng ibang tao.",
+        "label": "neutral",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "May lunas ang Parkinson Disease (PD).",
+        "premise": "Walang gamot para sa Parkinson Disease (PD), ngunit ang mga gamot at operasyon, gaya ng deep brain stimulation (DBS), ay makakatulong sa mga sintomas.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/parkinsons-disease/#:~:text=Ang%20sakit%20na%20Parkinson%20(PD,hindi%20tumatakbo%20sa%20mga%20pamilya."
+    },
+    {
+        "hypothesis": "Ang PTSD ay isang sakit sa kaisipan.",
+        "premise": "Ang post-traumatic stress disorder (PTSD) ay isang sakit sa kalusugan ng kaisipan na maaaring mabuo pagkatapos makaranas o makakita ng traumatikong pangyayari.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/"
+    },
+    {
+        "hypothesis": "Hindi delikado ang West Nile virus.",
+        "premise": "Ang mga matatandang tao at ang mga may mahinang immune system ay higit na nasa panganib para sa West Nile virus.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas."
+    },
+    {
+        "hypothesis": "Maaaring magamot ang depresyon sa pamamagitan ng pagiging positibo.",
+        "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
+        "label": "contradiction",
+        "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/"
+    },
+    {
+        "hypothesis": "Ang karaniwang sipon ay isang impeksyon na dulot ng mga virus",
+        "premise": "Ang karaniwang sipon ay isang banayad na impeksyon sa upper respiratory tract (na kinabibilangan ng ilong at lalamunan).",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang COVID-19.",
+        "premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa.",
+        "label": "contradiction",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang syphilis ay napapasa sa ibang tao.",
+        "premise": "Naipapasa ang syphilis sa pamamagitan ng direktang ugnayan kapag nagsasagawa ng oral, vaginal o anal na pakikipagtalik sa isang taong may syphilis.",
+        "label": "neutral",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf"
+    },
+    {
+        "hypothesis": "Maaaring makontrol ang sintomas ng osteoarthritis.",
+        "premise": "Walang gamot para sa osteoarthritis, ngunit maaaring pamahalaan ang mga sintomas nito.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis."
+    },
+    {
+        "hypothesis": "Laging nagdudulot ng malubhang sintomas ang West Nile virus.",
+        "premise": "Ang mga taong nakakakuha ng West Nile virus ay karaniwang walang sintomas o banayad na sintomas tulad ng lagnat, pananakit ng ulo, at pantal sa balat.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas."
+    },
+    {
+        "hypothesis": "Maaaring mapagaan ang sintomas ng gout.",
+        "premise": "Ang paggamot sa gout ay maaaring kabilangan ng mga gamot upang mapababa ang uric acid at mapagaan ang sintomas.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Mas mataas ang panganib ng COVID-19 sa matatanda at sa mga may malubhang karamdaman.",
+        "premise": "Ang mga matatanda at mga taong may malubhang karamdaman tulad ng sakit sa puso o baga, at diyabetis, ay nasa mas mataas na peligro para sa malalang COVID-19 na pagkakasakit.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang mga pagbabago sa genetic material (DNA) sa bone marrow cells na nagdudulot ng leukemia ay ganap na nauunawaan.",
+        "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet."
+    },
+    {
+        "hypothesis": "Walang sintomas ang leukemia.",
+        "premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang sanhi ng COVID-19 ay SARS-CoV-2.",
+        "premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Walang sintomas ang karaniwang sipon.",
+        "premise": "Ang mga sintomas ng karaniwang sipon ay kinabibilangan ng: pagbabara ng ilong, sipon, namamagang lalamunan, at sakit ng ulo.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang Sickle cell disease (SCD).",
+        "premise": "Ang mga sintomas ng Sickle cell disease (SCD) ay maaaring kabilang ang masakit na pamamaga ng mga kamay at paa, pagkapagod, at madilaw na kulay ng balat o mata.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/"
+    },
+    {
+        "hypothesis": "Maaaring makontrol ang epilepsy.",
+        "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Hindi epektibo ang antibiotics sa syphilis.",
+        "premise": "Ang syphilis ay nalulunasan gamit ang mga antibiotic, ngunit kapag hindi ipinagamot ay maaaring magdulot ng mga malalang problema sa utak, puso at mga mata.",
+        "label": "contradiction",
+        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf"
+    },
+    {
+        "hypothesis": ": Kumakalat ang Ebola sa pamamagitan ng direktang kontak.",
+        "premise": "Kumakalat ang Ebola sa pamamagitan ng direktang kontak sa mga likido sa katawan ng pasyente, tulad ng laway, dugo, suka, ihi, tae, at pawis.",
+        "label": "neutral",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf"
+    },
+    {
+        "hypothesis": "May kaugnayan sa pagbabago sa serotonin sa utak ang migraine.",
+        "premise": "Ang migraine ay maaaring magdulot ng malubhang sakit ng ulo na kasunod ng pagbabago sa serotonin sa utak na nagdudulot ng pagkitid ng ugat.",
+        "label": "neutral",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf"
+    },
+    {
+        "hypothesis": "Ang taong may PCOS  ay baog.",
+        "premise": "Ang mga sintomas ng polycystic ovary syndrome (PCOS) ay hindi regular na mga panregla, pagkabaog, pananakit ng pelvic, labis na paglaki ng buhok sa mukha, dibdib, tiyan, o hita, pagdagdag ng timbang, acne o mamantika na balat, at mga patch ng makapal na balat.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Ang karaniwang sipon ay impeksyon sa upper respiratory tract.",
+        "premise": "Ang karaniwang sipon ay isang banayad na impeksyon sa upper respiratory tract (na kinabibilangan ng ilong at lalamunan).",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Walang sintomas ang trichomoniasis.",
+        "premise": "Ang trichomoniasis ay maaaring magdulot ng dilaw-berde o kulay abong paglabas mula sa ari, kakulangan sa ginhawa habang nakikipagtalik, amoy ng ari, masakit na pag-ihi, at pangangati sa mga babae.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Wala pang tiyak na gamot o bakuna para sa West Nile virus.",
+        "premise": "Walang partikular na bakuna o paggamot para sa West Nile virus; ang pinakamainam na paraan upang maiwasan ito ay ang pag-iwas sa kagat ng lamok.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas."
+    },
+    {
+        "hypothesis": "Ang pagsusuri sa PTSD ay ginagawa ng mga dalubhasa sa kalusugan ng kaisipan..",
+        "premise": "Ang post-traumatic stress disorder (PTSD) ay maaaring masuri ng isang tagapagbigay ng pangangalagang pangkalusugan na may karanasan sa kalusugan ng kaisipan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/"
+    },
+    {
+        "hypothesis": "Ang melanoma ay kanser sa balat.",
+        "premise": "Ang melanoma ay isang uri ng kanser sa balat na mas mapanganib ngunit hindi gaanong karaniwan.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/"
+    },
+    {
+        "hypothesis": "May mga gamot para sa sintomas ng Sickle Cell Disease (SCD).",
+        "premise": "Ang mga paggamot para sintomas ng Sickle cell disease (SCD) ay maaaring kinabibilangan ng antibiotics, painkillers, hydroxyurea, pagbabakuna, at blood transfusions.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/"
+    },
+    {
+        "hypothesis": "Ang Sickle Cell Disease (SCD) ay hindi namamana.",
+        "premise": "Ang Sickle cell disease (SCD) ay isang pangkat ng mga minanang sakit sa pulang selula ng dugo.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/"
+    },
+    {
+        "hypothesis": "Ang trauma ay sanhi ng PTSD.",
+        "premise": "Ang post-traumatic stress disorder (PTSD) ay isang sakit sa kalusugan ng kaisipan na maaaring mabuo pagkatapos makaranas o makakita ng traumatikong pangyayari.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/"
+    },
+    {
+        "hypothesis": "Hindi mabisa ang paggamit ng viral test para sa COVID-19.",
+        "premise": "Dalawang klase ng viral test ang ginagamit para ma-diagnose ang COVID-19: molecular test (RT-PCR) at antigen test.",
+        "label": "contradiction",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Hindi kanser ang leukemia.",
+        "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Ang paninikip o pananakit ng dibdib ay sintomas ng atake sa puso.",
+        "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Ang COVID-19 ay isang impeksyon.",
+        "premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).",
+        "label": "neutral",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Tiyak na magkakaroon ng diabetes o sakit sa puso ang taong may PCOS.",
+        "premise": "Ang mga babaeng may polycystic ovary syndrome (PCOS) ay nasa mas mataas na panganib ng diabetes, metabolic syndrome, sakit sa puso, at mataas na presyon ng dugo.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Maaaring makatulong ang antibiotics na maiwasan at gamutin ang mga impeksyon sa mga taong may Sickle Cell Disease (SCD).",
+        "premise": "Ang mga paggamot para sintomas ng Sickle cell disease (SCD) ay maaaring kinabibilangan ng antibiotics, painkillers, hydroxyurea, pagbabakuna, at blood transfusions.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/"
+    },
+    {
+        "hypothesis": "Ang seizure ay sanhi ng maling signal mula sa mga neuron sa utak.",
+        "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang atake sa puso ay maaaring dulot ng paninigarilyo.",
+        "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Epektibong paraan ang pagbabakuna upang mabawasan ang pagkalat ng COVID-19.",
+        "premise": "Ang pagbabakuna ay isang mahalagang estratehiya para mapabagal ang pagkalat ng COVID-19, lalo na sa mga matatanda at mga may umiiral na kondisyong medikal.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang mga pagkaing mataas sa purine ay maaaring magdulot ng gout.",
+        "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/gout/"
+    },
+    {
+        "hypothesis": "Ang migraine ay dulot lamang ng stress.",
+        "premise": "Ang migraine ay maaaring magdulot ng malubhang sakit ng ulo na kasunod ng pagbabago sa serotonin sa utak na nagdudulot ng pagkitid ng ugat.",
+        "label": "contradiction",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf"
+    },
+    {
+        "hypothesis": "Ang osteoarthritis ay nagdudulot ng pagkaputol ng mga buto.",
+        "premise": "Sa osteoarthritis, ang kartilago ay nasisira, nagiging magaspang, at minsan ay nawawala, kaya't ang mga buto ay magkakadikit.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis."
+    },
+    {
+        "hypothesis": "Ang pagbabakuna ay tumutulong sa pagpigil ng COVID-19.",
+        "premise": "Ang pagbabakuna ay isang mahalagang estratehiya para mapabagal ang pagkalat ng COVID-19, lalo na sa mga matatanda at mga may umiiral na kondisyong medikal.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang anemia ay isa sa mga sintomas ng ulcerative colitis.",
+        "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang namamagang lalamunan ay sintomas ng karaniwang sipon.",
+        "premise": "Ang mga sintomas ng karaniwang sipon ay kinabibilangan ng: pagbabara ng ilong, sipon, namamagang lalamunan, at sakit ng ulo.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Karaniwang ginagamot ang trichomoniasis sa pamamamitan ng antibiotics.",
+        "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang diuretics ay ginagamit sa paggamot ng altapresyon.",
+        "premise": "Ang diuretics at iba pang gamot ay ginagamit sa paggamot ng altapresyon upang mapababa ang presyon ng dugo.",
+        "label": "neutral",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf"
+    },
+    {
+        "hypothesis": "Ang mga taong may kanser ay maaaring magkaroon ng leukemia bilang pangalawang uri ng kanser.",
+        "premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Gumagamit ng viral test para sa COVID-19 upang matukoy kung ang isang tao ay kasalukuyang nahawahan ng virus.",
+        "premise": "Dalawang klase ng viral test ang ginagamit para ma-diagnose ang COVID-19: molecular test (RT-PCR) at antigen test.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Nasusuri sa pamamagitan ng lab test ang trichomoniasis.",
+        "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Ang mga seizure ay sanhi ng maling signal mula sa mga neuron.",
+        "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos."
+    },
+    {
+        "hypothesis": "Ang mga kababaihang may PCOS ay nasa mataas na panganib na  magka-diabetes.",
+        "premise": "Ang mga babaeng may polycystic ovary syndrome (PCOS) ay nasa mas mataas na panganib ng diabetes, metabolic syndrome, sakit sa puso, at mataas na presyon ng dugo.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Naipapasa ang Ebola sa pamamagitan ng direktang kontak sa mga likido ng katawan.",
+        "premise": "Kumakalat ang Ebola sa pamamagitan ng direktang kontak sa mga likido sa katawan ng pasyente, tulad ng laway, dugo, suka, ihi, tae, at pawis.",
+        "label": "neutral",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf"
+    },
+    {
+        "hypothesis": "Madalas walang sintomas ang altapresyon.",
+        "premise": "Karamihan sa mga taong may altapresyon ay walang halatang sintomas at ito ay karaniwang natutuklasan sa pagsusuri ng katawan.",
+        "label": "entailment",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf"
+    },
+    {
+        "hypothesis": "Nagdudulot ng pagputol ng mga buto ang Osteoarthritis.",
+        "premise": "Ang Osteoarthritis ay isang uri ng sakit na nakakaapekto sa mga kasu-kasuan, kadalasang sa mga kamay, tuhod, balakang, leeg, at ibabang likod.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis."
+    },
+    {
+        "hypothesis": "Ang mga kabataan na may malakas na resistensya ay nasa mataas na panganib sa COVID-19.",
+        "premise": "Ang mga matatanda at mga taong may malubhang karamdaman tulad ng sakit sa puso o baga, at diyabetis, ay nasa mas mataas na peligro para sa malalang COVID-19 na pagkakasakit.",
+        "label": "contradiction",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Ang mga sugat ng syphilis ay nagpapataas ng panganib ng HIV.",
+        "premise": "Ang mga sugat na dulot ng syphilis ay nagpapadali sa pagkuha o pagbibigay sa isang tao ng HIV sa panahon ng pakikipagtalik.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/syphilis/"
+    },
+    {
+        "hypothesis": "Hindi nagkakaroon ng trichomoniasis ang mga kalalakihan.",
+        "premise": "Sa mga lalaki, ang trichomoniasis ay maaaring magdulot ng pangangati sa loob at labas ng ari, nasusunog na pakiramdam pagkatapos umihi o bulalas, at paglabas mula sa ari ng lalaki.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan."
+    },
+    {
+        "hypothesis": "Walang anumang pagsusuri na makakapagpahayag kung may Chikungunya virus ang isang tao.",
+        "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo."
+    },
+    {
+        "hypothesis": "Bihira lamang ang pagkakaroon ng melanoma.",
+        "premise": "Ang melanoma ay isang uri ng kanser sa balat na mas mapanganib ngunit hindi gaanong karaniwan.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/"
+    },
+    {
+        "hypothesis": "Ang sakit sa ulo ay ang pangunahing sintomas ng atake sa puso.",
+        "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/"
+    },
+    {
+        "hypothesis": "Maaaring tumakbo sa mga pamilya ang ulcerative colitis.",
+        "premise": "Karaniwan ang ulcerative colitis na nagsisimula sa pagitan ng edad na 15 at 30 at may posibilidad na tumakbo sa mga pamilya.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang pagkawala ng panlasa o pang-amoy ay sintomas ng COVID-19.",
+        "premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa.",
+        "label": "neutral",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf"
+    },
+    {
+        "hypothesis": "Maaaring magkaroon ng leukemia ang mga pasyenteng may kanser.",
+        "premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Mas karaniwan ang kanser sa balat sa mga taong madalas nakababad sa araw.",
+        "premise": "Maaaring magkaroon ng kanser sa balat ang sinuman, ngunit mas karaniwan ito sa mga taong gumugol ng maraming oras sa araw o nasunog sa araw.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/"
+    },
+    {
+        "hypothesis": "Karaniwan ang PCOS sa mga kababaihan na may kapamilyang may PCOS.",
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay mas karaniwan sa mga babaeng may labis na katabaan o may ina o kapatid na babae na may PCOS.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Walang mabisang paggamot para sa pamamahala ng sintomas ng Sickle cell disease (SCD).",
+        "premise": "Ang mga paggamot para sintomas ng Sickle cell disease (SCD) ay maaaring kinabibilangan ng antibiotics, painkillers, hydroxyurea, pagbabakuna, at blood transfusions.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/"
+    },
+    {
+        "hypothesis": "Ang PCOS ay sanhi ng labis na female hormones.",
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay nangyayari kapag ang mga obarya o adrenal gland ng babae ay gumagawa ng mas maraming male hormones kaysa sa normal.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/"
+    },
+    {
+        "hypothesis": "Walang silbi ang mga pagsusuri sa prostate cancer.",
+        "premise": "Ang prostate cancer ay maaaring maagapan sa pamamagitan ng regular na pagsusuri, tulad ng digital rectal exam (DRE) at prostate-specific antigen (PSA) test.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/prostate-cancer/"
+    },
+    {
+        "hypothesis": "Ang Acute myeloid leukemia ay isang uri ng leukemia.",
+        "premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL).",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/leukemia/"
+    },
+    {
+        "hypothesis": "Maaaring maging malubha ang viral pneumonia.",
+        "premise": "Ang viral pneumonia ay kadalasang banayad ngunit maaaring maging malubha at kailanganin ng pagpagamot sa ospital.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/"
+    },
+    {
+        "hypothesis": "Hindi epektibo ang antibiotics para sa pulmonyaHindi epektibo ang antibiotics at antiviral para sa pneumonia.",
+        "premise": "Maaaring magreseta ng antibiotics o antiviral na gamot para sa pulmonya, depende sa uri ng mikrobyo na nagdudulot nito.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/"
+    },
+    {
+        "hypothesis": "Ang bulutong-tubig ay kumakalat sa pamamagitan ng direktang kontak sa rash.",
+        "premise": "Ang bulutong-tubig ay maaaring kumalat sa pamamagitan ng direktang kontak sa rash ng bulutong-tubig o shingles bago magkaroon ng langib.",
+        "label": "entailment",
+        "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2024/01/Chickenpox_Fact_Sheet_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagduduwal ay sintomas ng migraine.",
+        "premise": "Ang migraine ay kadalasang may kasabay na pagduduwal, pagsusuka, at labis na pagkasensitibo sa liwanag at ingay.",
+        "label": "entailment",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf"
+    },
+    {
+        "hypothesis": "Hindi nagdudulot ng komplikasyon ang sipon",
+        "premise": "Ang sipon ay maaaring magdulot ng mga komplikasyon tulad ng brongkitis o pulmonya sa mga taong may mahinang immune system, hika, o ibang mga kondisyon sa paghinga.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/common-cold/"
+    },
+    {
+        "hypothesis": "Hindi kailangan ng iba't ibang pagsusuri para sa ulcerative colitis.",
+        "premise": "Ginagamit ng mga doktor ang mga pagsusuri sa dugo, pagsusuri sa dumi, colonoscopy o sigmoidoscopy, at mga pagsusuri sa imaging upang masuri ang ulcerative colitis.",
+        "label": "contradiction",
+        "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030."
+    },
+    {
+        "hypothesis": "Ang osteoarthritis ay walang lunas.",
+        "premise": "Walang gamot para sa osteoarthritis, ngunit maaaring pamahalaan ang mga sintomas nito.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis."
     }
 ]

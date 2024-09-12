@@ -3,7 +3,7 @@
         "id": 1,
         "premise": "Ang gout ay isang uri ng arthritis na sanhi ng pagtaas ng uric acid sa dugo.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 2,
@@ -15,19 +15,19 @@
         "id": 3,
         "premise": "Karaniwang apektado ang daliri ng paa, tuhod, at siko.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 4,
         "premise": "Ang mataas na lebel ng uric acid ay maaaring sanhi ng pagkain ng mga pagkaing mataas sa purine tulad ng karne at seafood.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 5,
         "premise": "Ang paggamot sa gout ay maaaring kabilangan ng mga gamot upang mapababa ang uric acid at mapagaan ang sintomas.",
         "url": "https://mediko.ph/karamdaman/gout/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "id": 8,
         "premise": "Ang atake sa puso o heart attack ay kilala rin sa tawag na acute myocardial infarction.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 9,
@@ -69,13 +69,7 @@
         "id": 12,
         "premise": "Ang mga salik na nagdudulot ng atake sa puso ay labis na paninigarilyo, pag-inom ng alak, kakulangan sa pag-eehersisyo, pagiging mataba, at mataas na kolesterol.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
-    },
-    {
-        "id": 13,
-        "premise": "Kung tumigil ang paghinga ng pasyente, kailangang magsagawa ng cardio-pulmonary resuscitation (CPR) upang mabombahan muli ng dugo at oxygen ang puso.",
-        "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 14,
@@ -87,7 +81,7 @@
         "id": 15,
         "premise": "Ang pangunahing sintomas ng atake sa puso ay ang paninikip o pananakit ng dibdib na kumakalat papuntang leeg, panga, o likod.",
         "url": "https://mediko.ph/karamdaman/atake-sa-puso-heart-attack/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 16,
@@ -111,7 +105,7 @@
         "id": 19,
         "premise": "Ang leukemia o lukemya ay isang uri ng kanser na maaring makaapekto sa dugo at sa mga selula na lumilikha ng dugo.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 20,
@@ -129,7 +123,7 @@
         "id": 22,
         "premise": "Ang mga sintomas ng leukemia ay kinabibilangan ng pagkakaroon ng lagnat, pananamlay, pagdurugo, pagbagsak ng timbang, at labis na pagkakaroon ng impeksyon.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 23,
@@ -141,7 +135,7 @@
         "id": 24,
         "premise": "Ang mga uri ng leukemia ay kinabibilangan ng Acute myeloid leukemia (AML), Acute lymphocytic leukemia (ALL), Chronic myeloid leukemia (CML), at Chronic lymphocytic leukemia (CLL).",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 25,
@@ -159,7 +153,7 @@
         "id": 27,
         "premise": "Ang mga taong may kanser at kasalukuyang nagpapagamot ay maaaring magkaroon ng leukemia.",
         "url": "https://mediko.ph/karamdaman/leukemia/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 28,
@@ -171,7 +165,7 @@
         "id": 29,
         "premise": "Ang impeksyon ng Zika virus sa panahon ng pagbubuntis ay isang sanhi ng mga abnormalidad ng utak pagkapanganak, kabilang ang microcephaly.",
         "url": "https://www.chp.gov.hk/en/wapdf/101880.html?page=1",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 30,
@@ -187,7 +181,7 @@
     },
     {
         "id": 32,
-        "premise": "Ang West Nile virus (WNV) ay isang nakakahawang sakit na unang lumitaw sa Estados Unidos noong 1999.",
+        "premise": "Ang West Nile virus (WNV) ay isang sakit na unang lumitaw sa Estados Unidos noong 1999 at kumakalat sa pamamagitan ng kagat ng mga infected na lamok.",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
         "counter": 0
     },
@@ -195,7 +189,7 @@
         "id": 33,
         "premise": "Ang mga taong nakakakuha ng West Nile virus ay karaniwang walang sintomas o banayad na sintomas tulad ng lagnat, pananakit ng ulo, at pantal sa balat.",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 34,
@@ -207,13 +201,13 @@
         "id": 35,
         "premise": "Ang mga matatandang tao at ang mga may mahinang immune system ay higit na nasa panganib para sa West Nile virus.",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 36,
         "premise": "Walang partikular na bakuna o paggamot para sa West Nile virus; ang pinakamainam na paraan upang maiwasan ito ay ang pag-iwas sa kagat ng lamok.",
         "url": "https://www.chcrr.org/tl/health-topic/west-nile-virus/#:~:text=Ang%20West%20Nile%20virus%20(WNV,sintomas%20o%20banayad%20na%20sintomas.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 37,
@@ -225,37 +219,37 @@
         "id": 38,
         "premise": "Ang ulcerative colitis ay kabilang sa grupo ng mga sakit na tinatawag na inflammatory bowel disease.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 39,
         "premise": "Karaniwan ang ulcerative colitis na nagsisimula sa pagitan ng edad na 15 at 30 at may posibilidad na tumakbo sa mga pamilya.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 40,
         "premise": "Ang mga pangunahing sintomas ng ulcerative colitis ay pananakit sa tiyan at dugo o nana sa pagtatae.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 41,
         "premise": "Maaaring kabilang sa iba pang mga sintomas ng ulcerative colitis ang anemya, matinding pagod, pagbaba ng timbang, at pagdurugo mula sa tumbong.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 42,
         "premise": "Ginagamit ng mga doktor ang mga pagsusuri sa dugo, pagsusuri sa dumi, colonoscopy o sigmoidoscopy, at mga pagsusuri sa imaging upang masuri ang ulcerative colitis.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 43,
         "premise": "Ang ulcerative colitis ay maaaring kontrolin gamit ang iba't ibang uri ng gamot, at sa malalang kaso, maaaring kailanganing alisin ang colon.",
         "url": "https://www.chcrr.org/tl/health-topic/ulcerative-colitis/#:~:text=Ang%20ulcerative%20colitis%20(UC)%20ay,edad%20na%2015%20at%2030.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 44,
@@ -267,19 +261,19 @@
         "id": 45,
         "premise": "Maraming tao ang walang sintomas ng trichomoniasis, ngunit kung magkakaroon, ito ay karaniwang sa loob ng 5 hanggang 28 araw pagkatapos mahawaan.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 46,
         "premise": "Ang trichomoniasis ay maaaring magdulot ng dilaw-berde o kulay abong paglabas mula sa ari, kakulangan sa ginhawa habang nakikipagtalik, amoy ng ari, masakit na pag-ihi, at pangangati sa mga babae.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 47,
-        "premise": "Sa mga lalaki, ang trichomoniasis ay maaaring magdulot ng pangangati o pangangati sa loob ng ari, nasusunog na pakiramdam pagkatapos umihi o bulalas, at paglabas mula sa ari ng lalaki.",
+        "premise": "Sa mga lalaki, ang trichomoniasis ay maaaring magdulot ng pangangati sa loob at labas ng ari, nasusunog na pakiramdam pagkatapos umihi o bulalas, at paglabas mula sa ari ng lalaki.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 48,
@@ -291,13 +285,13 @@
         "id": 49,
         "premise": "Maaaring malaman ng mga lab test kung mayroon kang trichomoniasis, at ang paggamot ay may antibiotics.",
         "url": "https://www.chcrr.org/tl/health-topic/trichomoniasis/#:~:text=Ang%20trichomoniasis%20ay%20isang%20sexually,hanggang%2028%20araw%20pagkatapos%20mahawaan.",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 50,
         "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasite na Toxoplasma gondii.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 51,
@@ -309,7 +303,7 @@
         "id": 52,
         "premise": "Maaaring magdulot ang Toxoplasmosis ng pinsala sa utak, mata, at iba pang mga organo.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 53,
@@ -327,7 +321,7 @@
         "id": 55,
         "premise": "Ang Toxoplasmosis ay isang sakit na dulot ng parasito na Toxoplasma gondii.",
         "url": "https://www.chcrr.org/tl/health-topic/toxoplasmosis/#:~:text=Ang%20Toxoplasmosis%20ay%20isang%20sakit,para%20sa%20ilang%20mga%20tao.",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 56,
@@ -339,19 +333,19 @@
         "id": 57,
         "premise": "Sa leukemia, ang bone marrow ay gumagawa ng malaking bilang ng mga abnormal na selula na namumuo sa bone marrow at dugo, na nagpapahirap sa malusog na mga selula ng dugo na gawin ang kanilang trabaho.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 58,
         "premise": "Ang leukemia ay nangyayari kapag may mga pagbabago sa genetic material (DNA) sa bone marrow cells, ngunit ang sanhi ng mga pagbabagong ito ay hindi alam.",
         "url": "https://www.chcrr.org/tl/health-topic/leukemia/#:~:text=Ano%20ang%20leukemia%3F,ng%20dugo%2C%20at%20mga%20platelet.",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 59,
         "premise": "Kapag naimpeksyon ng HIV, inaatake ng virus ang immune system at unti-unting pinapatay ang mga selyula nito.",
         "url": "https://fil.hesperian.org/hhg/Where_Women_Have_No_Doctor:Ano_ang_HIV_at_AIDS%3F",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 60,
@@ -369,7 +363,7 @@
         "id": 62,
         "premise": "Ang mga seizure ay nangyayari kapag ang mga kumpol ng mga nerve cell, o mga neuron, sa utak ay nagpapadala ng mga maling signal.",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 63,
@@ -381,7 +375,7 @@
         "id": 64,
         "premise": "Walang lunas para sa epilepsy, ngunit ang mga gamot ay maaaring makontrol ang mga seizure para sa karamihan ng mga tao.",
         "url": "https://www.chcrr.org/tl/health-topic/epilepsy/#:~:text=Ang%20epilepsy%20ay%20isang%20sakit,tao%20o%20kakaiba%20ang%20kilos.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 65,
@@ -393,7 +387,7 @@
         "id": 66,
         "premise": "Ang pinakakaraniwang sintomas ng Chikungunya ay lagnat at pananakit ng kasukasuan.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 67,
@@ -405,7 +399,7 @@
         "id": 68,
         "premise": "Maaaring ipakita ng pagsusuri sa dugo kung mayroon kang Chikungunya virus.",
         "url": "https://www.chcrr.org/tl/health-topic/chikungunya/#:~:text=Ang%20Chikungunya%20ay%20isang%20virus,sa%20pamamagitan%20ng%20nahawaang%20dugo.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 69,
@@ -417,7 +411,7 @@
         "id": 70,
         "premise": "Ang depresyon ay isang mood disorder na nagdudulot ng paulit-ulit na pakiramdam ng kalungkutan at pagkawala ng interes.",
         "url": "https://www.christopherreeve.org/international/tagalog-hub/kalusugan/mga-sekundaryang-kondisyon-at-wellness/depresyon/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 71,
@@ -465,7 +459,7 @@
         "id": 78,
         "premise": "Ang AIDS ay nangangahulugang acquired immunodeficiency syndrome. Ito ang huling yugto ng impeksyon sa HIV. Nangyayari ito kapag nasira nang husto ang immune system ng katawan dahil sa HIV.",
         "url": "https://www.chcrr.org/tl/health-topic/hiv/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 79,
@@ -477,7 +471,7 @@
         "id": 80,
         "premise": "Ang prostate cancer ay karaniwang nagaganap sa mga lalaki na nasa hustong gulang na.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 81,
@@ -495,7 +489,7 @@
         "id": 83,
         "premise": "Ang prostate cancer ay maaaring maagapan sa pamamagitan ng regular na pagsusuri, tulad ng digital rectal exam (DRE) at prostate-specific antigen (PSA) test.",
         "url": "https://mediko.ph/karamdaman/prostate-cancer/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 84,
@@ -513,25 +507,19 @@
         "id": 86,
         "premise": "Naipapasa ang syphilis sa pamamagitan ng direktang ugnayan kapag nagsasagawa ng oral, vaginal o anal na pakikipagtalik sa isang taong may syphilis.",
         "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
-        "counter": 0
-    },
-    {
-        "id": 87,
-        "premise": "Ang pagsusuri sa syphilis ay karaniwang sa pamamagitan ng swab mula sa sugat sa balat at sa pamamagitan ng mga pagsusuri sa balat.",
-        "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
         "counter": 1
     },
     {
         "id": 88,
         "premise": "Ang syphilis ay nalulunasan gamit ang mga antibiotic, ngunit kapag hindi ipinagamot ay maaaring magdulot ng mga malalang problema sa utak, puso at mga mata.",
         "url": "https://www.staystifree.org.au/images/language/Syphilis_(Filipino).pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 89,
         "premise": "Ang mga sugat na dulot ng syphilis ay nagpapadali sa pagkuha o pagbibigay sa isang tao ng HIV sa panahon ng pakikipagtalik.",
         "url": "https://www.chcrr.org/tl/health-topic/syphilis/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 90,
@@ -543,19 +531,19 @@
         "id": 91,
         "premise": "Ang bulutong-tubig ay maaaring kumalat sa pamamagitan ng direktang kontak sa rash ng bulutong-tubig o shingles bago magkaroon ng langib.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2024/01/Chickenpox_Fact_Sheet_Tagalog.pdf",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 92,
         "premise": "Ang karaniwang sipon ay isang banayad na impeksyon sa upper respiratory tract (na kinabibilangan ng ilong at lalamunan).",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 93,
         "premise": "Mahigit sa 200 iba't ibang mga virus ang maaaring magdulot ng sipon, ngunit ang mga rhinovirus ay ang pinakakaraniwang uri.",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 94,
@@ -567,7 +555,7 @@
         "id": 95,
         "premise": "Ang mga sintomas ng karaniwang sipon ay kinabibilangan ng: pagbabara ng ilong, sipon, namamagang lalamunan, at sakit ng ulo.",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 96,
@@ -579,25 +567,25 @@
         "id": 97,
         "premise": "Ang antibiotics ay hindi makakatulong sa sipon dahil ito ay sanhi ng viral infections, hindi bacterial infections.",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 98,
         "premise": "Ang sipon ay maaaring magdulot ng mga komplikasyon tulad ng brongkitis o pulmonya sa mga taong may mahinang immune system, hika, o ibang mga kondisyon sa paghinga.",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 99,
         "premise": "Walang bakuna upang maprotektahan laban sa karaniwang sipon, ngunit maaaring bawasan ang panganib sa pamamagitan ng paghuhugas ng kamay, pag-iwas sa malapit na pakikipag-ugnayan, at pagtakip ng ubo at pagbahin gamit ang tissue.",
         "url": "https://www.chcrr.org/tl/health-topic/common-cold/",
-        "counter": 1
+        "counter": 2
     },
     {
         "id": 100,
         "premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 101,
@@ -609,19 +597,19 @@
         "id": 102,
         "premise": "Ang mga matatanda at mga taong may malubhang karamdaman tulad ng sakit sa puso o baga, at diyabetis, ay nasa mas mataas na peligro para sa malalang COVID-19 na pagkakasakit.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 103,
         "premise": "Kumakalat ang COVID-19 kapag ang taong nahawahan ay nagbubuga ng hininga na may kasamang droplet o maliliit na particle na naglalaman ng virus, na maaaring malanghap ng ibang tao.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
-        "counter": 0
+        "counter": 1
     },
     {
         "id": 104,
         "premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 105,
@@ -633,12 +621,264 @@
         "id": 106,
         "premise": "Dalawang klase ng viral test ang ginagamit para ma-diagnose ang COVID-19: molecular test (RT-PCR) at antigen test.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
-        "counter": 0
+        "counter": 2
     },
     {
         "id": 107,
         "premise": "Ang pagbabakuna ay isang mahalagang estratehiya para mapabagal ang pagkalat ng COVID-19, lalo na sa mga matatanda at mga may umiiral na kondisyong medikal.",
         "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+        "counter": 2
+    },
+    {
+        "id": 108,
+        "premise": "Ang Sickle cell disease (SCD) ay isang pangkat ng mga minanang sakit sa pulang selula ng dugo.",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/",
+        "counter": 1
+    },
+    {
+        "id": 109,
+        "premise": "Ang Sickle cell disease (SCD) ay nagdudulot ng problema sa hemoglobin, isang protina sa mga pulang selula ng dugo na nagdadala ng oxygen sa buong katawan.",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/",
+        "counter": 0
+    },
+    {
+        "id": 110,
+        "premise": "Ang mga sintomas ng Sickle cell disease (SCD) ay maaaring kabilang ang masakit na pamamaga ng mga kamay at paa, pagkapagod, at madilaw na kulay ng balat o mata.",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/",
+        "counter": 1
+    },
+    {
+        "id": 111,
+        "premise": "Ang mga komplikasyon ng Sickle cell disease (SCD) ay maaaring magresulta sa matinding pananakit, anemia, pinsala sa organo, at mga impeksyon.",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/",
+        "counter": 0
+    },
+    {
+        "id": 113,
+        "premise": "Ang mga paggamot para sintomas ng Sickle cell disease (SCD) ay maaaring kinabibilangan ng antibiotics, painkillers, hydroxyurea, pagbabakuna, at blood transfusions.",
+        "url": "https://www.chcrr.org/tl/health-topic/sickle-cell-disease/",
+        "counter": 3
+    },
+    {
+        "id": 115,
+        "premise": "Ang mga basal cell cancer at squamous cell cancer ay karaniwang nabubuo sa ulo, mukha, leeg, kamay, at braso.",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 116,
+        "premise": "Ang melanoma ay isang uri ng kanser sa balat na mas mapanganib ngunit hindi gaanong karaniwan.",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/",
+        "counter": 2
+    },
+    {
+        "id": 117,
+        "premise": "Maaaring magkaroon ng kanser sa balat ang sinuman, ngunit mas karaniwan ito sa mga taong gumugol ng maraming oras sa araw o nasunog sa araw.",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/",
+        "counter": 1
+    },
+    {
+        "id": 118,
+        "premise": "Kung hindi ginagamot, maaaring kumalat ang ilang uri ng selula ng kanser sa balat sa ibang mga tisyu at organo.",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 119,
+        "premise": "Kasama sa mga paggamot para sa kanser sa balat ang operasyon, radiation therapy, chemotherapy, photodynamic therapy (PDT), at biologic therapy.",
+        "url": "https://www.chcrr.org/tl/health-topic/skin-cancer/",
+        "counter": 0
+    },
+    {
+        "id": 120,
+        "premise": "Ang post-traumatic stress disorder (PTSD) ay isang sakit sa kalusugan ng kaisipan na maaaring mabuo pagkatapos makaranas o makakita ng traumatikong pangyayari.",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/",
+        "counter": 2
+    },
+    {
+        "id": 121,
+        "premise": "Ang post-traumatic stress disorder (PTSD) ay maaaring masuri ng isang tagapagbigay ng pangangalagang pangkalusugan na may karanasan sa kalusugan ng kaisipan.",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/",
+        "counter": 1
+    },
+    {
+        "id": 122,
+        "premise": "Ang mga pangunahing paggamot para sa post-traumatic stress disorder (PTSD) ay talk therapy, mga gamot, o pareho.",
+        "url": "https://www.chcrr.org/tl/health-topic/post-traumatic-stress-disorder/",
+        "counter": 0
+    },
+    {
+        "id": 124,
+        "premise": "Ang mga sintomas ng Parkinson Disease (PD) ay ang panginginig, paninigas, bagal ng paggalaw, at mahinang balanse.",
+        "url": "https://www.chcrr.org/tl/health-topic/parkinsons-disease/#:~:text=Ang%20sakit%20na%20Parkinson%20(PD,hindi%20tumatakbo%20sa%20mga%20pamilya.",
+        "counter": 0
+    },
+    {
+        "id": 125,
+        "premise": "Habang lumalala ang Parkinson Disease (PD), maaari itong magdulot ng problema sa paglalakad, pagsasalita, at paggawa ng mga simpleng gawain.",
+        "url": "https://www.chcrr.org/tl/health-topic/parkinsons-disease/#:~:text=Ang%20sakit%20na%20Parkinson%20(PD,hindi%20tumatakbo%20sa%20mga%20pamilya.",
+        "counter": 0
+    },
+    {
+        "id": 127,
+        "premise": "Walang gamot para sa Parkinson Disease (PD), ngunit ang mga gamot at operasyon, gaya ng deep brain stimulation (DBS), ay makakatulong sa mga sintomas.",
+        "url": "https://www.chcrr.org/tl/health-topic/parkinsons-disease/#:~:text=Ang%20sakit%20na%20Parkinson%20(PD,hindi%20tumatakbo%20sa%20mga%20pamilya.",
+        "counter": 1
+    },
+    {
+        "id": 128,
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay nangyayari kapag ang mga obarya o adrenal gland ng babae ay gumagawa ng mas maraming male hormones kaysa sa normal.",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/",
+        "counter": 1
+    },
+    {
+        "id": 129,
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay nagiging sanhi ng paglaki ng mga cyst sa mga obarya.",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/",
+        "counter": 1
+    },
+    {
+        "id": 130,
+        "premise": "Ang mga sintomas ng polycystic ovary syndrome (PCOS) ay hindi regular na mga panregla, pagkabaog, pananakit ng pelvic, labis na paglaki ng buhok sa mukha, dibdib, tiyan, o hita, pagdagdag ng timbang, acne o mamantika na balat, at mga patch ng makapal na balat.",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/",
+        "counter": 2
+    },
+    {
+        "id": 131,
+        "premise": "Ang mga babaeng may polycystic ovary syndrome (PCOS) ay nasa mas mataas na panganib ng diabetes, metabolic syndrome, sakit sa puso, at mataas na presyon ng dugo.",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/",
+        "counter": 2
+    },
+    {
+        "id": 132,
+        "premise": "Ang polycystic ovary syndrome (PCOS) ay mas karaniwan sa mga babaeng may labis na katabaan o may ina o kapatid na babae na may PCOS.",
+        "url": "https://www.chcrr.org/tl/health-topic/polycystic-ovary-syndrome/",
+        "counter": 1
+    },
+    {
+        "id": 133,
+        "premise": "Ang pulmonya ay isang impeksiyon sa isa o parehong baga na nagiging sanhi ng mga air sac upang mapuno ng likido o nana.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 0
+    },
+    {
+        "id": 134,
+        "premise": "Bakterya ang pinakakaraniwang sanhi ng pulmonya, kabilang ang Streptococcus pneumoniae at Legionella pneumophila.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 0
+    },
+    {
+        "id": 135,
+        "premise": "Ang viral pneumonia ay kadalasang banayad ngunit maaaring maging malubha at kailanganin ng pagpagamot sa ospital.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 1
+    },
+    {
+        "id": 136,
+        "premise": "Ang fungal pneumonia ay mas karaniwan sa mga taong may mahinang immune system.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 0
+    },
+    {
+        "id": 137,
+        "premise": "Ang pulmonya ay maaaring magdulot ng komplikasyon tulad ng bacteremia, mga abscess ng baga, at pagkabigo ng bato.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 0
+    },
+    {
+        "id": 138,
+        "premise": "Maaaring magreseta ng antibiotics o antiviral na gamot para sa pulmonya, depende sa uri ng mikrobyo na nagdudulot nito.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 1
+    },
+    {
+        "id": 139,
+        "premise": "Maiiwasan ang pulmonya sa pamamagitan ng bakuna laban sa pneumococcal bacteria at trangkaso.",
+        "url": "https://www.chcrr.org/tl/health-topic/pneumonia/",
+        "counter": 1
+    },
+    {
+        "id": 140,
+        "premise": "Ang migraine ay maaaring magdulot ng malubhang sakit ng ulo na kasunod ng pagbabago sa serotonin sa utak na nagdudulot ng pagkitid ng ugat.",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf",
+        "counter": 2
+    },
+    {
+        "id": 141,
+        "premise": "Maaaring magka-istroke kung matagal nang nararanasan ang pagkitid ng ugat sa utak na nauugnay sa migraine.",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf",
+        "counter": 0
+    },
+    {
+        "id": 142,
+        "premise": "Ang migraine ay kadalasang may kasabay na pagduduwal, pagsusuka, at labis na pagkasensitibo sa liwanag at ingay.",
+        "url": "https://www.nanosweb.org/files/Patient%20Brochures/Tagalog/Migraine%20edited.pdf",
+        "counter": 1
+    },
+    {
+        "id": 143,
+        "premise": "Ang Osteoarthritis ay isang uri ng sakit na nakakaapekto sa mga kasu-kasuan, kadalasang sa mga kamay, tuhod, balakang, leeg, at ibabang likod.",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis.",
+        "counter": 1
+    },
+    {
+        "id": 144,
+        "premise": "Sa osteoarthritis, ang kartilago ay nasisira, nagiging magaspang, at minsan ay nawawala, kaya't ang mga buto ay magkakadikit.",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis.",
+        "counter": 1
+    },
+    {
+        "id": 145,
+        "premise": "Walang gamot para sa osteoarthritis, ngunit maaaring pamahalaan ang mga sintomas nito.",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis.",
+        "counter": 3
+    },
+    {
+        "id": 146,
+        "premise": "Ang pinakakaraniwang sintomas ng osteoarthritis ay sakit kapag gumagalaw, paninigas, pamamaga, at mas kaunting paggalaw ng kasukasuan.",
+        "url": "https://www.chcrr.org/tl/health-topic/osteoarthritis/#:~:text=Ano%20ang%20osteoarthritis%3F,ang%20pinakakaraniwang%20uri%20ng%20arthritis.",
+        "counter": 0
+    },
+    {
+        "id": 147,
+        "premise": "Kumakalat ang Ebola sa pamamagitan ng direktang kontak sa mga likido sa katawan ng pasyente, tulad ng laway, dugo, suka, ihi, tae, at pawis.",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf",
+        "counter": 3
+    },
+    {
+        "id": 148,
+        "premise": "Maaaring magpakita ang mga sintomas ng Ebola sa loob ng 2–21 araw, kabilang ang lagnat, pananakit ng ulo, pagsusuka, at abnormal na pagdurugo.",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf",
+        "counter": 0
+    },
+    {
+        "id": 149,
+        "premise": "Walang tiyak na gamot o bakuna laban sa Ebola.",
+        "url": "http://ph.lacounty.gov/media/docs/EbolaFAQ-TAG.pdf",
+        "counter": 0
+    },
+    {
+        "id": 150,
+        "premise": "Karamihan sa mga taong may altapresyon ay walang halatang sintomas at ito ay karaniwang natutuklasan sa pagsusuri ng katawan.",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf",
+        "counter": 1
+    },
+    {
+        "id": 151,
+        "premise": "Ang mga panganib na kadahilanan ng altapresyon ay  ang edad, kasaysayan ng pamilya, labis na timbang, at mataas na sodium sa diyeta.",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf",
+        "counter": 0
+    },
+    {
+        "id": 152,
+        "premise": "Ang diuretics at iba pang gamot ay ginagamit sa paggamot ng altapresyon upang mapababa ang presyon ng dugo.",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf",
+        "counter": 1
+    },
+    {
+        "id": 153,
+        "premise": "Ang hindi kontroladong altapresyon ay maaaring magdulot ng mga komplikasyon tulad ng stroke, sakit sa puso, at aneurysm.",
+        "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf",
         "counter": 0
     }
 ]

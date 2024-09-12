@@ -23,18 +23,16 @@ def main():
     # Corrected JSON string
     input_json = '''
 {
-  "url": "https://www.vdh.virginia.gov/content/uploads/sites/3/2023/05/Tagalog-COVID_19_Fact_Sheet_2023_508c.pdf",
+  "url": "https://www21.ha.org.hk/smartpatient/EM/MediaLibraries/EM/EMMedia/Hypertension-Tagalog.pdf?ext=.pdf",
   "premises": [
-    {"premise": "Ang Coronavirus Disease 2019, na karaniwang kilala bilang COVID-19, ay isang respiratoryong impeksyon na dulot ng Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)."},
-    {"premise": "Ang COVID-19 ay labis na nakakahawa at maaaring magresulta sa pagkakasakit sa mga taong walang immunity mula sa pagbabakuna o kamakailang pagkakasakit."},
-    {"premise": "Ang mga matatanda at mga taong may malubhang karamdaman tulad ng sakit sa puso o baga, at diyabetis, ay nasa mas mataas na peligro para sa malalang COVID-19 na pagkakasakit."},
-    {"premise": "Kumakalat ang COVID-19 kapag ang taong nahawahan ay nagbubuga ng hininga na may kasamang droplet o maliliit na particle na naglalaman ng virus, na maaaring malanghap ng ibang tao."},
-    {"premise": "Kasama sa mga sintomas ng COVID-19 ang lagnat, ubo, kahirapan sa paghinga, pagkapagod, pananakit ng katawan, pagkawala ng panlasa o pang-amoy, at iba pa."},
-    {"premise": "Ang mga matatanda at may malubhang karamdaman ay may mas mataas na peligro na magkaroon ng malalang COVID-19, na maaaring magdulot ng hirap sa paghinga, pananakit ng dibdib, at pagkamatay."},
-    {"premise": "Dalawang klase ng viral test ang ginagamit para ma-diagnose ang COVID-19: molecular test (RT-PCR) at antigen test."},
-    {"premise": "Ang pagbabakuna ay isang mahalagang estratehiya para mapabagal ang pagkalat ng COVID-19, lalo na sa mga matatanda at mga may umiiral na kondisyong medikal."}
+    {"premise": "Karamihan sa mga taong may altapresyon ay walang halatang sintomas at ito ay karaniwang natutuklasan sa pagsusuri ng katawan."},
+    {"premise": "Ang mga panganib na kadahilanan ng altapresyon ay  ang edad, kasaysayan ng pamilya, labis na timbang, at mataas na sodium sa diyeta."},
+    {"premise": "Ang diuretics at iba pang gamot ay ginagamit sa paggamot ng altapresyon upang mapababa ang presyon ng dugo."},
+    {"premise": "Ang hindi kontroladong altapresyon ay maaaring magdulot ng mga komplikasyon tulad ng stroke, sakit sa puso, at aneurysm."}
   ]
 }
+
+
     '''
 
     data = json.loads(input_json)
