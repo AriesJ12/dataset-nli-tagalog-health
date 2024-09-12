@@ -32,11 +32,8 @@ def combine_json_files(file_paths, output_file):
 
 if __name__ == "__main__":
     file_paths = [
-        "drex-hyp.json",
-        "rosgen-hypothesis-pair.json", 
-        "hypothesis-pair.json",
-        "max-hypothesis-pair.json",
-        "phoebe-hypothesis-pair.json",
+        "week1/week1-augmented.json",
+        "week1/week1-hypothesis-pair.json", 
     ]  # Add as many files as needed
-    output_file = "week1-hypothesis-pair.json"
+    output_file = "week1/combine_hyp-pair.json"
     combine_json_files(file_paths, output_file)
