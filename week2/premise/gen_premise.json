@@ -3,174 +3,318 @@
         "id": 175,
         "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
         "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 177,
         "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 178,
         "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 179,
         "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 180,
         "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 182,
         "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 183,
         "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 184,
         "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 185,
         "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 186,
         "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 187,
         "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
         "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 189,
         "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 191,
         "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 192,
         "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 193,
         "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 194,
         "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 195,
         "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 196,
         "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 197,
         "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 198,
         "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 199,
         "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 0
+        "counter": 3
     },
     {
         "id": 200,
         "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 202,
         "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
         "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 194,
         "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
         "url": "https://www.chcrr.org/tl/health-topic/flu/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 196,
         "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
         "url": "https://www.chcrr.org/tl/health-topic/flu/",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 197,
         "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 198,
         "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
-        "counter": 1
+        "counter": 3
     },
     {
         "id": 201,
         "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
-        "counter": 2
+        "counter": 3
     },
     {
         "id": 202,
         "premise": "Ang isang partikular na uri ng cognitive behavioral therapy (CBT) na maaaring gamutin ang OCD ay tinatawag na Exposure and Response Prevention (EX/RP).",
         "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan.",
+        "counter": 3
+    },
+    {
+        "id": 203,
+        "premise": "Ang sakit sa bato (kidney stones) ay isang uri ng kondisyon kung saan namumuo ang mga hindi nalusaw na mga mineral sa loob ng mga bato o kidney.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 204,
+        "premise": "Ang pangunahing sanhi ng pagkakaroon ng sakit sa bato ay ang kakulangan ng tubig sa katawan.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 205,
+        "premise": "Ang mga sintomas ng pagkakaroon ng sakit sa bato ay ang labis na pananakit sa tagiliran at ibabang bahagi ng likuran at puson, masakit na pag-ihi, at malabong ihi na minsan ay may kasamang pagdurugo.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 206,
+        "premise": "Ang pagkakaroon ng bato na gawa sa calcium ay ang pinakakaraniwang uri ng sakit sa bato.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 207,
+        "premise": "Ang mga batong gawa sa uric acid ay mas karaniwan sa mga kalalakihan at tumatama sa mga taong mayroong gout.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 208,
+        "premise": "Ang ganitong mga uri ng bato ay mas karaniwang tumatama sa mga babaeng mayroong urinary tract infection (UTI).",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 209,
+        "premise": "Ang pagkakaroon ng sakit sa bato ay walang nag-iisa o tiyak na sanhi, at may iba’t-ibang mga salik sa pagpapataas ng panganib sa pagkakaroon nito.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 210,
+        "premise": "Ang mga sintomas ng pagkakaroon ng bato sa mga kidney ay maaaring hindi agad magpakita.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 211,
+        "premise": "Ang pagkakaroon ng sapat na tubig sa katawan ay nakatutulong din upang lusawin ang mga sangkap na maaaring magdulot ng pamumuo ng bato sa kidney.",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/",
+        "counter": 3
+    },
+    {
+        "id": 212,
+        "premise": "Ang low blood pressure o hypotension ay ang pagkakaron ng mababang presyon ng dugo sa katawan.",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/",
+        "counter": 1
+    },
+    {
+        "id": 213,
+        "premise": "Kadalasan, ang mga kaso ng low blood pressure ay nakapagdudulot lamang ng mga simpleng sintomas gaya ng pagkahilo at pagkahimatay, ngunit sa mga malalalang kaso, maaari itong magdulot ng panganib sa buhay.",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 214,
+        "premise": "Masasabing low blood pressure kapag ang nakuhang sukat ng presyon ng dugo ay umabot na ng 90/60.",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/",
+        "counter": 1
+    },
+    {
+        "id": 215,
+        "premise": "Ang pagkakaranas ng low blood pressure ay maaari ring mahati sa ilang uri: Orthostatic o Postural hypotension, Postprandial hypotension, Neurally mediated hypotension.",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 216,
+        "premise": "Ang lahat ng tao ay maaaring makaranas ng mababang presyon ng dugo, ngunit ito ay maaaring mapadalas dahil sa: Ang edad ay 65 pataas, Umiinom ng mga gamot na pangmentena, Mayroong sakit tulad ng Parkinson's Disease, diabetes, at ilang kondisyon sa puso.",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/",
+        "counter": 0
+    },
+    {
+        "id": 217,
+        "premise": "Sa Pilipinas, mahigit-kumulang 15 milyong Pilipino ang may altapresyon o high blood pressure.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 1
+    },
+    {
+        "id": 218,
+        "premise": "Ang saklaw ng normal na presyon ng dugo ay 120/80 pababa, ngunit kapag ang presyon ay umabot ng 140/90 pataas, ito ay maituturing na altapresyon o high blood pressure.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
         "counter": 2
+    },
+    {
+        "id": 219,
+        "premise": "Tinaguriang 'silent killer' ang pagkakaroon ng high blood pressure sapagkat hindi lahat ay nakararanas ng mga sintomas.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 220,
+        "premise": "Kapag naapektuhan ng altapresyon, ang pasyente ay maaaring makaramdam ng pananakit ng batok, pagkahilo, at pagbigat ng ulo.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 221,
+        "premise": "Kadalasan, nagkakaroon ng mataas na presyon ng dugo kapag hindi malusog ang paraan ng pamumuhay ng isang tao.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 222,
+        "premise": "Ilan sa mga maaaring magdulot ng altapresyon ay ang labis na pag-inom ng alak, paninigarilyo, at hindi pag-eehersisyo.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 2
+    },
+    {
+        "id": 223,
+        "premise": "Kapag ang altapresyon ay ipinagsawalang-bahala, maaaring magkaroon ng iba’t ibang sakit gaya ng atake sa puso, stroke, at sakit sa bato.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 2
+    },
+    {
+        "id": 224,
+        "premise": "Ang pagiging overweight o labis ang timbang ay nagdudulot ng altapresyon sapagkat dumadami ang kailangang daluyan ng dugo.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 3
+    },
+    {
+        "id": 225,
+        "premise": "Ang mga bisyo gaya ng labis na pag-inom ng alak at paninigarilyo ay nakapagpapalapot ng dugo at nagiging sanhi ng mataas na presyon.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 0
+    },
+    {
+        "id": 226,
+        "premise": "Upang maiwasan ang altapresyon, mahalaga ang regular na pag-eehersisyo, pagkain ng masusustansyang pagkain, at pag-iwas sa stress.",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+        "counter": 3
     }
 ]

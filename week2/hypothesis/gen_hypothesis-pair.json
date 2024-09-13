@@ -1,0 +1,662 @@
+[
+    {
+        "hypothesis": "Ang malaria ay nakakahawa dahil ito ay isang parasite",
+        "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang mosquito bites ay isa sa dahilan kung paano mahawa ng malaria",
+        "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang infected na female na lamok ay ang madalas nakakapanghawa ng malaria",
+        "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang mosquito bites ay mula lagi sa isang infected female",
+        "premise": "Ang malaria ay nagkakaroon dahil sa mosquito bites mula sa isang infected female na lamok o Anopheles mosquito.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pagkahilo ay hindi mandalas sanhi ng pagkakaroon ng malaria",
+        "premise": "Karamihan ng nagkakasakit ng malaria ay makararamdam ng mataas na lagnat, pagpapawis pero panlalamig, pananakit ng mga masel, pagkahilo, at pagsusuka.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang antiviral na gamot ay nakakatulong sa paggamot ng trangkaso",
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling sa nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Pangkaraniwan na nagsisimula ang OCD sa mga kabataan",
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Ang trankaso ay nakakahawa ",
+        "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kalaunan ang malaria ay nakakamatay",
+        "premise": "Ang malaria ay isang malubhang sakit na maaaring humantong sa kasawian ng nag-contract nito.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang OCD ay maaaring maagapan sa pamamagitan ng theraphy",
+        "premise": "Ang isang partikular na uri ng cognitive behavioral therapy (CBT) na maaaring gamutin ang OCD ay tinatawag na Exposure and Response Prevention (EX/RP).",
+        "label": "entailment",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Mas magandang magpacheck-up sa expert kung ikaw ay may nararamdaman na maaring isa sa sintomas ng pagkakaroon ng malaria",
+        "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Tuloy-tuloy ang pagsusuri sa trangkaso kung may pagbabago sa sanhi nito",
+        "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang compulsion ay isang gawain ng isang tao upang maagapan ang pagkabalisa neto",
+        "premise": "Ang compulsion ay mga pag-uugali na sa tingin mo ay kailangan mong gawin nang paulit-ulit upang subukang bawasan ang iyong pagkabalisa o itigil ang mga nakakahumaling na pag-iisip.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Ang pagbubuntis na may malaria ay delikado sa bata na nasa sinapupunan",
+        "premise": "Maaari ring malipat ang malaria mula sa isang nagbubuntis tungo sa pinagbubuntis nito bago o habang nanganganak.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pangunahing sanhi ng trangkaso ay ang pagkakaroon ng impeksyon sa ilong, o lalamunan",
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang trangkaso ay parang lagnat",
+        "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Humigit kumulang ng isang linggo bago maramdaman ang sintomas ng trangkaso",
+        "premise": "Maaaring maikalat ng mga tao ang trangkaso sa loob ng hanggang 24 na oras bago sila magkasakit at sa loob ng humigit-kumulang isang linggo pagkatapos magsimula ng kanilang mga sintomas.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Maaaring sintomas ang labis na pagsusuka at pagtatae ang pagkakakroon ng trangkaso",
+        "premise": "Ang mga sintomas ng trangkaso ay lagnat, ubo, pamamaga ng lalamunan, sipon o baradong ilong, pananakit ng kalamnan o katawan, pananakit ng ulo, labis na pagkapagod, pagsusuka, at pagtatae.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi mo kaylangan magpabakuna taon-taon para sa trangkaso",
+        "premise": "Magpabakuna para sa trangkaso taon-taon; inirerekomenda ang bakuna para sa lahat ng taong may edad na anim na buwan pataas.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang malaria sa pamamagitan ng pagsalin ng dugo",
+        "premise": "Ang malaria parasites ay makikita sa red blood cells ng isang taong mayroon nang malaria at maaari ring malipat sa pamamagitan ng blood transfusion, organ transplant, o unhygienic na paggamit ng mga karayom at syringes.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Maaring mamatay ang taong may impeksyon mula sa P. falciparum",
+        "premise": "Ang P. falciparum ang madalas na nagdudulot ng malalang infection na humahantong sa kasawian kapag hindi naagapan at nagamot nang maaga.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Pangkaraniwang nararanasang ng mga young adult ang OCD",
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay karaniwang nagsisimula kapag ikaw ay isang tinedyer o young adult.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Kalaunan humihina ang epekto ng bakuna para sa trangkaso",
+        "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang mga iba't ibang uri ng malaria ay nakakahawa",
+        "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang souteast asia ay may laganap ang uri ng malaria",
+        "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang gamot para sa virus ay hindi epektibo kung meron ka na ng virus",
+        "premise": "Uminom ng mga gamot para sa virus kung magrereseta ng mga ganito ang provider ng iyong pangangalagang pangkalusugan; pinakamahusay tumalab ang mga gamot para sa virus kapag sinisimulan ang mga ito dalawang araw matapos magkasakit ang isang indibidwal.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kaylangan magpadiagnostic test para malaman kung positibo sa malaria ang isang tao",
+        "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Isa sa mental na sakit ang pagkakaroon ng OCD",
+        "premise": "Ang obsessive-compulsive disorder (OCD) ay isang mental na sakit kung saan ang isang tao ay may mga matinding kinahuhumalingan (obsessions) at mga gawain (compulsions) na inuulit-ulit.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/obsessive-compulsive-disorder/#:~:text=Ang%20obsessive%2Dcompulsive%20disorder%20(OCD)%20ay%20isang%20mental%20disorder,mo%20sila%20makokontrol%20o%20mapipigilan."
+    },
+    {
+        "hypothesis": "Hindi parasite ang nanghahawa sa tao",
+        "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Kaylangan magpabakuna para sa trangkaso upang maprotektahan ang sarili",
+        "premise": "Dapat mong kunin ang bakuna para sa trangkaso sa oras na maging available ito; tumatagal nang humigit-kumulang dalawang linggo bago maprotektahan ang iyong katawan mula sa trangkaso.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang karaniwan na sintomas ng pagkakaroon ng malaria ay lagnat o kaya'y mala trangkaso na pakiramdam",
+        "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang pagbabakuna ng bagong bakuna ay hindi epektibo upang tapatan ang bagong virus",
+        "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang trangkaso sa pamamagitan ng pagbahing",
+        "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kalaunan nawawalang ang trangkaso kahit walang medikal",
+        "premise": "Karamihan sa mga taong may trangkaso ay gumagaling nang walang pangangalagang medikal, ngunit maaaring kailanganin ang mga gamot na antiviral upang gamutin ang trangkaso.",
+        "label": "neutral",
+        "url": "https://www.chcrr.org/tl/health-topic/flu/"
+    },
+    {
+        "hypothesis": "Ang impeksyon sa lalamunan or ilong ay maaring magdulot ng trangkaso",
+        "premise": "Ang trangkaso ay sanhi ng mga virus na nagdudulot ng impeksyon sa iyong ilong, lalamunan, at baga.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Kapag ang tao ay nakakaramdam ng mataas ng lagnat at panginginig ng katawan ito'y sintomas ng pagkakaroon ng malaria sa katawan",
+        "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi DTaP na bakuna ang dapat sa bata",
+        "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang P. ovale at P. vivax ay maaring umatake ulit sa taong gumaling na",
+        "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang malaria ay maaring bumalik sa taong gumaling nito dahil ang parasite sa atay ay marami na",
+        "premise": "Ang malaria na dulot ng P. vivax at P. ovale ay may malaking tiyansa na mag-relapse sa isang gumaling na pasyente dahil sa pagiging dormant ng mga parasite sa atay.",
+        "label": "entailment",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang diagnostic test ay isang paraan upang malaman kung ang isang tao ay may malaria",
+        "premise": "Ang pinakamainam na solusyon upang malaman kung may malaria ang isang tao ay pagsangguni sa medical experts at pagkuha ng diagnostic test.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang P. knowlesi",
+        "premise": "Sa Pilipinas at ibang bansa sa Southeast Asia, may P. knowlesi rin na uri ng malaria na hinahawahan ang ilang macaques na kayang makapanghawa ng tao (zoonotic malaria).",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Iilan lang ang mga nakakahawa ",
+        "premise": "May apat na uri ng malaria parasites na nanghahawa sa mga tao: Plasmodium falciparum, P. vivax, P. ovale, at P. malariae.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Ang epekto ng bakuna kontra trangkaso ay humihina sa paglipas ng panahon",
+        "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pangigignig ng katawan ay maaring dulot ng malamig na klima",
+        "premise": "Ang mga pangkaraniwang sintomas ng malaria ay mataas na lagnat, panginginig ng katawan, at mala-trangkasong pakiramdam sa katawan.",
+        "label": "contradiction",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi nakakahawa ang trangkaso sa pamamagitan ng paghipo sa mga bagay na may impeksyon",
+        "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Sa pag-ubo ay kumakalat ang trangkaso",
+        "premise": "Kumakalat ito kapag umuubo, bumabahing, o nagsasalita ang taong may trangkaso.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi mainam na magpabakuna taon-taon",
+        "premise": "Humihina ang proteksyong ibinibigay ng bakuna para sa trangkaso sa paglipas ng panahon, kaya mainam na magpabakuna ka taon-taon.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bakuna kontra malaria ay wala parin",
+        "premise": "Wala pang available na malaria vaccine, ngunit tuloy pa rin ang clinical trials para makapaglabas ng bakuna kontra sa malaria.",
+        "label": "neutral",
+        "url": "https://www.ritemed.com.ph/malaria/malaria-101-sanhi-sintomas-at-lunas-sa-sakit"
+    },
+    {
+        "hypothesis": "Hindi ang virus ang nagdudulot ng trangkaso",
+        "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
+        "label": "contradiction",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pagsusuri sa bakuna ay ginagawa taon-taon",
+        "premise": "Sinusuri ang bakuna para sa trangkaso bawat taon, kung minsan ay binabago ito upang matapatan ang mga pabago-bagong virus na nagdudulot ng trangkaso.",
+        "label": "entailment",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Nakakahawa ang trankaso sa paraan ng pagkahawak sa bibig, ilong o mata",
+        "premise": "Maaari ding makuha ang trangkaso kung hahawak ka ng surface o bagay na may virus na nagdudulot ng trangkaso, at pagkatapos ay hahawakan mo ang iyong bibig, ilong, o mata.",
+        "label": "neutral",
+        "url": "https://www.nj.gov/health/cd/documents/flu/tagalog/flu_basics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang DTaP na bakuna ay para sa mga adult",
+        "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang bata ay hindi dapat binabakunahan ng DTaP",
+        "premise": "Ang inirerekomendang bakuna para sa mga bata ay DTaP.",
+        "label": "contradiction",
+        "url": "http://publichealth.lacounty.gov/ip/Docs/2024/PertussisFAQ_Tagalog.pdf"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng sapat na tubig ay nakakatulong maiwasan ang pagmumuo ng bato sa kidney",
+        "premise": "Ang pagkakaroon ng sapat na tubig sa katawan ay nakatutulong din upang lusawin ang mga sangkap na maaaring magdulot ng pamumuo ng bato sa kidney.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang uric acid ay hindi nagdudulot ng pamumuo ng bato",
+        "premise": "Ang mga batong gawa sa uric acid ay mas karaniwan sa mga kalalakihan at tumatama sa mga taong mayroong gout.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang pangkaraniwang uri ng bato ay hindi gawa ng calcium",
+        "premise": "Ang pagkakaroon ng bato na gawa sa calcium ay ang pinakakaraniwang uri ng sakit sa bato.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Walang tiyak na sanhi ang pagkakaroon ng sakit sa bato",
+        "premise": "Ang pagkakaroon ng sakit sa bato ay walang nag-iisa o tiyak na sanhi, at may iba’t-ibang mga salik sa pagpapataas ng panganib sa pagkakaroon nito.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi agad nagapapakita ng sintomas kapag may sakit sa bato",
+        "premise": "Ang mga sintomas ng pagkakaroon ng bato sa mga kidney ay maaaring hindi agad magpakita.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang sakit sa bato ay nagsasanhi ng sari-saring sintomas tulad ng pananakit sa badang likuran at puson",
+        "premise": "Ang mga sintomas ng pagkakaroon ng sakit sa bato ay ang labis na pananakit sa tagiliran at ibabang bahagi ng likuran at puson, masakit na pag-ihi, at malabong ihi na minsan ay may kasamang pagdurugo.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng bato sa kidney ay hindi nagpapakita ng pahiwatig o sintomas",
+        "premise": "Ang mga sintomas ng pagkakaroon ng bato sa mga kidney ay maaaring hindi agad magpakita.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang babaeng may UTI ay maaaring magkabato sa kidney",
+        "premise": "Ang ganitong mga uri ng bato ay mas karaniwang tumatama sa mga babaeng mayroong urinary tract infection (UTI).",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Mataas tyansa na magkabato ang babaeng may UTI",
+        "premise": "Ang ganitong mga uri ng bato ay mas karaniwang tumatama sa mga babaeng mayroong urinary tract infection (UTI).",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang sakit sa bato ay sanhi ng hindi nalusaw na mineral",
+        "premise": "Ang sakit sa bato (kidney stones) ay isang uri ng kondisyon kung saan namumuo ang mga hindi nalusaw na mga mineral sa loob ng mga bato o kidney.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang tubig sa katawan ay tumutulong sa paglusaw ng pamumuo ng bato",
+        "premise": "Ang pagkakaroon ng sapat na tubig sa katawan ay nakatutulong din upang lusawin ang mga sangkap na maaaring magdulot ng pamumuo ng bato sa kidney.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "May iba't-ibang salik ang pagkakaroon ng sakit sa bato",
+        "premise": "Ang pagkakaroon ng sakit sa bato ay walang nag-iisa o tiyak na sanhi, at may iba’t-ibang mga salik sa pagpapataas ng panganib sa pagkakaroon nito.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Pangkaraniwan sa kalalakihan ang batong gawa sa uric acid",
+        "premise": "Ang mga batong gawa sa uric acid ay mas karaniwan sa mga kalalakihan at tumatama sa mga taong mayroong gout.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi ang kakulangan ng tubig sa katawan ang sanhin ng pagkakaroon ng sakit sa bato",
+        "premise": "Ang pangunahing sanhi ng pagkakaroon ng sakit sa bato ay ang kakulangan ng tubig sa katawan.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi gawa sa uric acid ang bato na nakikita sa kalalakihan",
+        "premise": "Ang mga batong gawa sa uric acid ay mas karaniwan sa mga kalalakihan at tumatama sa mga taong mayroong gout.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang kidney stones ay isang kundisyon ng pamumuo ng bato sa kidney",
+        "premise": "Ang sakit sa bato (kidney stones) ay isang uri ng kondisyon kung saan namumuo ang mga hindi nalusaw na mga mineral sa loob ng mga bato o kidney.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi gawa sa calcium ang pangkaraniwang uri ng sakit sa bato",
+        "premise": "Ang pagkakaroon ng bato na gawa sa calcium ay ang pinakakaraniwang uri ng sakit sa bato.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang UTI ay nagiging sanhi din ng bato sa kidney",
+        "premise": "Ang ganitong mga uri ng bato ay mas karaniwang tumatama sa mga babaeng mayroong urinary tract infection (UTI).",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang pag-inom ng tubig ay nakakatulong sa paglusaw ng pamumuo ng bato",
+        "premise": "Ang pagkakaroon ng sapat na tubig sa katawan ay nakatutulong din upang lusawin ang mga sangkap na maaaring magdulot ng pamumuo ng bato sa kidney.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi pinakakaraniwang uri ng sakit sa bato ang gawa sa calcium",
+        "premise": "Ang pagkakaroon ng bato na gawa sa calcium ay ang pinakakaraniwang uri ng sakit sa bato.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang masakit na pag-ihi, at malabong ihi na may kasamang dugo maaaring sanhi ito ng pagkakaroon ng sakit sa bato",
+        "premise": "Ang mga sintomas ng pagkakaroon ng sakit sa bato ay ang labis na pananakit sa tagiliran at ibabang bahagi ng likuran at puson, masakit na pag-ihi, at malabong ihi na minsan ay may kasamang pagdurugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang hindi nalusaw ng mga mineral sa loob ng bato ay maaaring magdulot ito ng sakit sa bato",
+        "premise": "Ang sakit sa bato (kidney stones) ay isang uri ng kondisyon kung saan namumuo ang mga hindi nalusaw na mga mineral sa loob ng mga bato o kidney.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng sakit sa bato ay nagpapakita ito ng maagang sintomas",
+        "premise": "Ang mga sintomas ng pagkakaroon ng bato sa mga kidney ay maaaring hindi agad magpakita.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Hindi ang kakulangan ng tubig sa katawang ang pangunahin sanhi ng sakit sa bato",
+        "premise": "Ang pangunahing sanhi ng pagkakaroon ng sakit sa bato ay ang kakulangan ng tubig sa katawan.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng malabong ihi ay hindi sintomas ng sakit sa bato",
+        "premise": "Ang mga sintomas ng pagkakaroon ng sakit sa bato ay ang labis na pananakit sa tagiliran at ibabang bahagi ng likuran at puson, masakit na pag-ihi, at malabong ihi na minsan ay may kasamang pagdurugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang kakulangan sa tubig ay nagdudulot ng dehydration",
+        "premise": "Ang pangunahing sanhi ng pagkakaroon ng sakit sa bato ay ang kakulangan ng tubig sa katawan.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Ang panganib ng pagkakaroon ng sakit sa bato ay walang nag-iisa o tiyak na sanhi",
+        "premise": "Ang pagkakaroon ng sakit sa bato ay walang nag-iisa o tiyak na sanhi, at may iba’t-ibang mga salik sa pagpapataas ng panganib sa pagkakaroon nito.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/sakit-sa-bato-kidney-stones/"
+    },
+    {
+        "hypothesis": "Pangkaraniwan ang pagkakaroon ng altapresyon sa Pilipinas",
+        "premise": "Sa Pilipinas, mahigit-kumulang 15 milyong Pilipino ang may altapresyon o high blood pressure.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang mga sintomas ng pananakit ng batok, o pagkahilo ay sanhi ng altapresyon",
+        "premise": "Kapag naapektuhan ng altapresyon, ang pasyente ay maaaring makaramdam ng pananakit ng batok, pagkahilo, at pagbigat ng ulo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Maaring magdulot ng panganib sa tao ang hypotension",
+        "premise": "Kadalasan, ang mga kaso ng low blood pressure ay nakapagdudulot lamang ng mga simpleng sintomas gaya ng pagkahilo at pagkahimatay, ngunit sa mga malalalang kaso, maaari itong magdulot ng panganib sa buhay.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Marami ang uri ng hypotension",
+        "premise": "Ang pagkakaranas ng low blood pressure ay maaari ring mahati sa ilang uri: Orthostatic o Postural hypotension, Postprandial hypotension, Neurally mediated hypotension.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang high blood pressure ay hindi tinaguriang silent killer",
+        "premise": "Tinaguriang 'silent killer' ang pagkakaroon ng high blood pressure sapagkat hindi lahat ay nakararanas ng mga sintomas.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang pagkakaroon ng regular na ehersisyo ay nakakatulong upang maiwasan ang altapresyon",
+        "premise": "Upang maiwasan ang altapresyon, mahalaga ang regular na pag-eehersisyo, pagkain ng masusustansyang pagkain, at pag-iwas sa stress.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Isa sa uri ng hypotension ay Orthostatic",
+        "premise": "Ang pagkakaranas ng low blood pressure ay maaari ring mahati sa ilang uri: Orthostatic o Postural hypotension, Postprandial hypotension, Neurally mediated hypotension.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang pag-iwas sa stress ay nagpapababa ng pagkakaroon ng altapresyon",
+        "premise": "Upang maiwasan ang altapresyon, mahalaga ang regular na pag-eehersisyo, pagkain ng masusustansyang pagkain, at pag-iwas sa stress.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Lahat ng may high blood ay nakakaranas ng sintomas",
+        "premise": "Tinaguriang 'silent killer' ang pagkakaroon ng high blood pressure sapagkat hindi lahat ay nakararanas ng mga sintomas.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi ka magkakaroon ng iba pang sakit kung pinabayaan mo ang iyong altapresyon",
+        "premise": "Kapag ang altapresyon ay ipinagsawalang-bahala, maaaring magkaroon ng iba’t ibang sakit gaya ng atake sa puso, stroke, at sakit sa bato.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Maaring maiwasan ang altapresyon",
+        "premise": "Upang maiwasan ang altapresyon, mahalaga ang regular na pag-eehersisyo, pagkain ng masusustansyang pagkain, at pag-iwas sa stress.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang malusog na pamumuhay ang madalas atakihin ng altapresyon",
+        "premise": "Kadalasan, nagkakaroon ng mataas na presyon ng dugo kapag hindi malusog ang paraan ng pamumuhay ng isang tao.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi ang bisyo ang nagdudulot ng altapresyon",
+        "premise": "Ilan sa mga maaaring magdulot ng altapresyon ay ang labis na pag-inom ng alak, paninigarilyo, at hindi pag-eehersisyo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ilan sa mga bagay na nagdudulot ng altapresyon ay ang paninigarilyo, at hindi pag-eehersisyo",
+        "premise": "Ilan sa mga maaaring magdulot ng altapresyon ay ang labis na pag-inom ng alak, paninigarilyo, at hindi pag-eehersisyo.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi ang labis na timbang ang nagdudulot ng altapresyon",
+        "premise": "Ang pagiging overweight o labis ang timbang ay nagdudulot ng altapresyon sapagkat dumadami ang kailangang daluyan ng dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Maaring magdulot ng ibang sakit ang altapresyon",
+        "premise": "Kapag ang altapresyon ay ipinagsawalang-bahala, maaaring magkaroon ng iba’t ibang sakit gaya ng atake sa puso, stroke, at sakit sa bato.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi ka makakaramdam ng ano mang sintomas pag ikaw ay inatake ng altapresyon",
+        "premise": "Kapag naapektuhan ng altapresyon, ang pasyente ay maaaring makaramdam ng pananakit ng batok, pagkahilo, at pagbigat ng ulo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Walang ibang uri ang low blood pressure",
+        "premise": "Ang pagkakaranas ng low blood pressure ay maaari ring mahati sa ilang uri: Orthostatic o Postural hypotension, Postprandial hypotension, Neurally mediated hypotension.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang buhay na hindi malusog ay kadalasang inaatake ng altapresyon",
+        "premise": "Kadalasan, nagkakaroon ng mataas na presyon ng dugo kapag hindi malusog ang paraan ng pamumuhay ng isang tao.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang taong may 90/60 na presyon ay may low blood pressure",
+        "premise": "Masasabing low blood pressure kapag ang nakuhang sukat ng presyon ng dugo ay umabot na ng 90/60.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang labis na timbang ay hindi nagdudulot ng altapresyon",
+        "premise": "Ang pagiging overweight o labis ang timbang ay nagdudulot ng altapresyon sapagkat dumadami ang kailangang daluyan ng dugo.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang may high blood pressure ay nakakaranas ng mga sintomas nito",
+        "premise": "Tinaguriang 'silent killer' ang pagkakaroon ng high blood pressure sapagkat hindi lahat ay nakararanas ng mga sintomas.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi nagdudulot ng ano mang sintomas ang pagkakaroon ng low blood pressure",
+        "premise": "Kadalasan, ang mga kaso ng low blood pressure ay nakapagdudulot lamang ng mga simpleng sintomas gaya ng pagkahilo at pagkahimatay, ngunit sa mga malalalang kaso, maaari itong magdulot ng panganib sa buhay.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang mataas na presyon ay kadalasan nangyayari sa hindi malusog na pamumuhay",
+        "premise": "Kadalasan, nagkakaroon ng mataas na presyon ng dugo kapag hindi malusog ang paraan ng pamumuhay ng isang tao.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Hindi normal na presyon ang 120/80 pababa",
+        "premise": "Ang saklaw ng normal na presyon ng dugo ay 120/80 pababa, ngunit kapag ang presyon ay umabot ng 140/90 pataas, ito ay maituturing na altapresyon o high blood pressure.",
+        "label": "contradiction",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Kapag ikaw ay overweight dumadami ang kailangan na presyon sa daluyan ng dugo",
+        "premise": "Ang pagiging overweight o labis ang timbang ay nagdudulot ng altapresyon sapagkat dumadami ang kailangang daluyan ng dugo.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Simpleng simtonas tulad ng pagkahimatay ay nagiging kaso ng low blood pressure",
+        "premise": "Kadalasan, ang mga kaso ng low blood pressure ay nakapagdudulot lamang ng mga simpleng sintomas gaya ng pagkahilo at pagkahimatay, ngunit sa mga malalalang kaso, maaari itong magdulot ng panganib sa buhay.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang saklaw na normal na presyon ng dugo ay 120/80 pababa",
+        "premise": "Ang saklaw ng normal na presyon ng dugo ay 120/80 pababa, ngunit kapag ang presyon ay umabot ng 140/90 pataas, ito ay maituturing na altapresyon o high blood pressure.",
+        "label": "entailment",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang pananakit ng batok ay sintomas ng altapresyon",
+        "premise": "Kapag naapektuhan ng altapresyon, ang pasyente ay maaaring makaramdam ng pananakit ng batok, pagkahilo, at pagbigat ng ulo.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/"
+    },
+    {
+        "hypothesis": "Ang tawag sa pagkakaroon ng mababang presyon ng dugo ay hypotension",
+        "premise": "Ang low blood pressure o hypotension ay ang pagkakaron ng mababang presyon ng dugo sa katawan.",
+        "label": "neutral",
+        "url": "https://mediko.ph/karamdaman/hypotension-low-blood-pressure/"
+    }
+]

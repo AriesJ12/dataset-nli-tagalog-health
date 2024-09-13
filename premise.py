@@ -22,12 +22,22 @@ def load_all_premises(folder_paths):
 def main():
     # Corrected JSON string
     input_json = '''
-    {
-        "url": "https://www.ritemed.com.ph/tamang-kaalaman/acne",
-        "premises": [
-            {"premise": "Ang pinakamahusay na paraan para mapigilan ito ay ang pagpapabakuna."}
-        ]
-    }
+{
+"url": "https://mediko.ph/karamdaman/altapresyon-high-blood-pressure/",
+"premises": [
+{"premise": "Sa Pilipinas, mahigit-kumulang 15 milyong Pilipino ang may altapresyon o high blood pressure."},
+{"premise": "Ang saklaw ng normal na presyon ng dugo ay 120/80 pababa, ngunit kapag ang presyon ay umabot ng 140/90 pataas, ito ay maituturing na altapresyon o high blood pressure."},
+{"premise": "Tinaguriang 'silent killer' ang pagkakaroon ng high blood pressure sapagkat hindi lahat ay nakararanas ng mga sintomas."},
+{"premise": "Kapag naapektuhan ng altapresyon, ang pasyente ay maaaring makaramdam ng pananakit ng batok, pagkahilo, at pagbigat ng ulo."},
+{"premise": "Kadalasan, nagkakaroon ng mataas na presyon ng dugo kapag hindi malusog ang paraan ng pamumuhay ng isang tao."},
+{"premise": "Ilan sa mga maaaring magdulot ng altapresyon ay ang labis na pag-inom ng alak, paninigarilyo, at hindi pag-eehersisyo."},
+{"premise": "Kapag ang altapresyon ay ipinagsawalang-bahala, maaaring magkaroon ng iba’t ibang sakit gaya ng atake sa puso, stroke, at sakit sa bato."},
+{"premise": "Ang pagiging overweight o labis ang timbang ay nagdudulot ng altapresyon sapagkat dumadami ang kailangang daluyan ng dugo."},
+{"premise": "Ang mga bisyo gaya ng labis na pag-inom ng alak at paninigarilyo ay nakapagpapalapot ng dugo at nagiging sanhi ng mataas na presyon."},
+{"premise": "Upang maiwasan ang altapresyon, mahalaga ang regular na pag-eehersisyo, pagkain ng masusustansyang pagkain, at pag-iwas sa stress."}
+]
+}
+
     '''
 
     data = json.loads(input_json)
