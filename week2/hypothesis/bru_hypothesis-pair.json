@@ -454,5 +454,11 @@
         "premise": "Ang depression ay maaaring magresulta sa mga seryosong problema sa kalusugan, kabilang ang mga suliranin sa pisikal at mental na kalusugan, at maaaring magdulot ng mga panganib tulad ng suicidal thoughts.",
         "label": "contradiction",
         "url": "https://www.chp.gov.hk/files/pdf/depression_infographics_tagalog.pdf"
+    },
+    {
+        "hypothesis": "Hindi sintomas na anxiery disorde and patulog na pag-aalala, pagkabalisa, pagkatakot, at wala rin itong pisikal na sintomas tulad ng mabilis na tibok ng puso at pag-igting ng kalamnan.",
+        "premise": "Ang mga sintomas ng anxiety disorders ay maaaring magsama ng patuloy na pag-aalala, pagkabalisa, pagkatakot, at mga pisikal na sintomas tulad ng mabilis na tibok ng puso at pag-igting ng kalamnan.",
+        "label": "contradiction",
+        "url": "https://www.chp.gov.hk/files/pdf/anxiety_disorders_infographics_tagalog.pdf"
     }
 ]
